@@ -4,7 +4,7 @@ Use this step to plan your virtual pet, character or nature simulation. The user
 
 You can plan by just thinking; tinkering; drawing or writing; or however you like! 
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Personal growth</span> means learning ways of thinkking. People need a safe and healthy environment and opportunities to learn and practice. Having a <span style="color: #0faeb0">growth mindset</span> means that you understand that your abilities can improve over time.  

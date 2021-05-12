@@ -2,7 +2,7 @@
 
 Now it's time to make your project. Start small, and add more to your project if you have time.
 
-![](images/step3-image.png)
+![](images/step3_image.png)
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 

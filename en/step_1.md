@@ -82,10 +82,10 @@ Click on the character and object to choose the ones you want in the story, then
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
-![Complete project](images/showcase_static.png)
-![Complete project](images/showcase_static.png)
-![Complete project](images/showcase_static.png)
+![Complete project](images/bat-project.png)
+![Complete project](images/cat-project.png)
+![Complete project](images/rainbow-project.png)
+![Complete project](images/wellbeing-project.png)
 --- /print-only ---
 
 
