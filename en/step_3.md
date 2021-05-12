@@ -25,9 +25,9 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[scratch3-create-set-variable]]]
 
-[Set a variable with a button]
+[[[scratch3-set-variable-with-button]]]
 
-[Change a variable in a loop]
+[[[scratch3-change-variable-in-loop]]]
 
 **Checking conditions:**
 
@@ -41,7 +41,7 @@ Working with text:
 
 [[[scratch3-emoji-text]]]
 
-[Ask/answer chat]
+[[[scratch3-ask-answer-chat]]]
 
 [[[scratch3-join-text]]]
 
@@ -116,3 +116,4 @@ We love hearing about your bugs and how you fixed them. Use the feedback button 
 
 
 --- save ---
+
