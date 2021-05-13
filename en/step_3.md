@@ -31,13 +31,19 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 **Checking conditions:**
 
-[Forever loop checking a condition]
+[[[scratch3-forever-condition]]]
 
-[Operators for checking <>=]
+[[[scratch3-operators-conditions]]]
 
-[Touching colour/object]
+[[[scratch3-if-then-else]]]
 
-Working with text:
+[[[scratch3-set-block-input-colour-with-eyedropper]]]
+
+**Broadcasting and receiving messages:**
+
+[[[generic-scratch3-broadcast-message]]]
+
+**Working with text:**
 
 [[[scratch3-emoji-text]]]
 
@@ -45,10 +51,9 @@ Working with text:
 
 [[[scratch3-join-text]]]
 
-
 **Backdrops, movement and graphic effects:**
 
-[Glide to an object and back]
+[[[scratch3-glide-to-object]]]
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
