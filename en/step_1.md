@@ -3,7 +3,7 @@
 You are going to create a virtual pet, character or nature simulation that the user can interact with to help it grow. Your game will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users make things grow. You might have played with a small handheld Tamagotchi or played games like Catz and Adopt me on a computer. Can you think of any other virtual pet games?
+<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users make things grow. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me on a computer. Can you think of any other virtual pet games?
 </p>
 
 You will:
@@ -24,9 +24,9 @@ Description of what to do or think about when looking at the example.
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Bat simulator**: [See inside](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -82,6 +82,8 @@ Click on the character and object to choose the ones you want in the story, then
 --- /no-print ---
 
 --- print-only ---
+https://scratch.mit.edu/studios/29683913/
+
 ![Complete project](images/bat-project.png)
 ![Complete project](images/cat-project.png)
 ![Complete project](images/rainbow-project.png)

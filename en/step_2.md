@@ -10,7 +10,7 @@ You can plan by just thinking; tinkering; drawing or writing; or however you lik
 <span style="color: #0faeb0">Personal growth</span> means learning ways of thinkking. People need a safe and healthy environment and opportunities to learn and practice. Having a <span style="color: #0faeb0">growth mindset</span> means that you understand that your abilities can improve over time.  
 </p>
 
-### Why are you making ... ?
+### Why are you making your project?
 
 --- task ---
 
@@ -48,7 +48,7 @@ To set up Scratch for offline use visit [our Scratch guide](https://learning-adm
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+Use your new Scratch project, a pen and paper, or both to plan your ideas.
 
 --- /task ---
 
