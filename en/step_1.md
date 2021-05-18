@@ -83,7 +83,7 @@ Click on the character and object to choose the ones you want in the story, then
 --- /no-print ---
 
 --- print-only ---
-https://scratch.mit.edu/studios/29683913/
+You are going to make some design decisions to create your character. **See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
 
 ![Complete project](images/bat-project.png)
 ![Complete project](images/watermelon-project.png)
