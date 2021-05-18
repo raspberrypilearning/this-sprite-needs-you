@@ -1,13 +1,13 @@
 ## Your idea
 
-Use this step to plan your virtual pet, character or nature simulation. The user will need to be able to create the right conditions for the main sprite to 'grow'. Your main sprite might actually get bigger but it could just 'grow' in terms of experience or health.
+Use this step to plan your virtual pet, character or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health or something else.
 
 You can plan by just thinking; tinkering; drawing or writing; or however you like! 
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Personal growth</span> means learning ways of thinkking. People need a safe and healthy environment and opportunities to learn and practice. Having a <span style="color: #0faeb0">growth mindset</span> means that you understand that your abilities can improve over time.  
+<span style="color: #0faeb0">Personal growth</span> means learning ways of thinking. People need a safe and healthy environment and opportunities to learn and practice. Having a <span style="color: #0faeb0">growth mindset</span> means that you understand that your abilities can improve over time.  
 </p>
 
 ### Why are you making your project?
@@ -18,8 +18,8 @@ Think about the purpose of your project.
 
 It could be:
 - To teach someone how to do something, such as look after a guinea pig or keep a plant alive.  
-- To share an educational message, such as looking after your mental health or looking after your neighbourhood.
-- To entertain users by giving them something they wouldn't usually get the chance to grow.
+- To share an educational message, such as looking after your mental health or improving your neighbourhood.
+- To entertain users, by giving them something they wouldn't usually get the chance to interact with.
 
 --- /task ---
 
@@ -70,6 +70,15 @@ Think about your **main** sprite and decide:
 + What objects and `variables`{:class="block3variables"} might be needed.
 + Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds.
 + How will the user interact with the main sprite? This could be clicking on food to feed an animal or chatting with a character to reduce their boredom.
+
+--- /task ---
+
+--- task ---
+Give your project a title that tells the user what to expect and makes them want to try it out.
+
+The example projects were: Bat simulator, Make a rainbow, Watermelon farmer and Music Machine.
+
+You can always update the title later if you think of a better one.
 
 --- /task ---
 

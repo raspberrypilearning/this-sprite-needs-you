@@ -2,52 +2,66 @@
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
 
-Does your ... have:
+Does your project have:
 
 --- task ---
-something
+Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
 --- /task ---
 --- task ---
-something
---- /task ---
-
-
-Your ... could also have:
-
---- task ---
-something
---- /task ---
---- task ---
-something
---- /task ---
-
-
-Reflecting about how you made your ... will help you in your future projects:
-
---- task ---
-How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
+Have a way for the variable(s) to change automatically
 --- /task ---
 
 --- task ---
-What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
+Give the user a way to improve the variables to give the main sprite what it needs.
 --- /task ---
 
 --- task ---
-<mark> some ideas, delete as needed </mark> Mistakes are the "portals of discovery" (James Joyce, Ulysses). 
-The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who has made all the mistakes that can be made”.
-Mistakes are powerful.
-Mistakes are empowering. 
-
-What mistakes did you make and how did they help you create your ... <mark>free text answer, 3 characters possibly</mark>
+Use `if`{:class="block3control"} blocks to control when things happen.
 --- /task ---
 
-### Now you are (the author of a digital book)!
+--- task ---
+Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite.
+--- /task ---
+
+Your simulation could also have:
+
+--- task ---
+Have an educational message such as kindness or keeping crops healthy.
+--- /task ---
+
+--- task ---
+Alert the user when levels are too high or low.
+--- /task ---
+
+--- task ---
+Allow the user to chat with their sprite, or change its name.
+--- /task ---
+
+Reflecting about how you made your simulation will help you in your future projects:
+
+--- task ---
+How did you get your ideas? 
+<!-- free text answer, 3 characters possibly -->
+--- /task ---
+
+--- task ---
+What cool new thing(s) did you learn?
+<!-- free text answer, 3 characters possibly -->
+
+--- /task ---
+
+### Now you are the creator of a simulation!
 
 Take a moment to celebrate what you have made.
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet or simulation a person, family or job. 
+</p>
+
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>free text answer, 3 characters possibly</mark>
+Where will you take your new powers? What simulation will you make next?
+<!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
