@@ -87,8 +87,9 @@ You are going to make some design decisions to create your character. **See insi
 
 ![Complete project](images/bat-project.png)
 ![Complete project](images/watermelon-project.png)
-![Complete project](images/rainbow-project.png)
 ![Complete project](images/music-project.png)
+![Complete project](images/rainbow-project.png)
+
 --- /print-only ---
 
 
