@@ -1,6 +1,6 @@
 ## Your idea
 
-Use this step to plan your virtual pet, character or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health or something else.
+Plan your virtual pet, character or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health or something else.
 
 You can plan by just thinking; tinkering; drawing or writing; or however you like! 
 
@@ -14,7 +14,7 @@ You can plan by just thinking; tinkering; drawing or writing; or however you lik
 
 --- task ---
 
-Think about the purpose of your project. 
+Think about the **purpose** of your project. 
 
 It could be:
 - To teach someone how to do something, such as look after a guinea pig or keep a plant alive.  
@@ -61,6 +61,8 @@ What will your **main** sprite be?
 + A machine, such as a submarine or a recycling machine,
 + Or something else
 
+![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
+
 --- /task ---
 
 --- task ---
@@ -77,6 +79,8 @@ Think about your **main** sprite and decide:
 Give your project a title that tells the user what to expect and makes them want to try it out.
 
 The example projects were: Bat simulator, Make a rainbow, Watermelon farmer and Music Machine.
+
+![The Scratch menu bar with project name title filled in.](images/project-name.png)
 
 You can always update the title later if you think of a better one.
 
