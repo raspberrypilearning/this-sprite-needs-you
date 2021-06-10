@@ -7,7 +7,7 @@ You could:
 - Check more **conditions** using `if`{:class="block3control"} statements and make your sprite do different things depending on whether the condition is true or false.
 - Add more sprites that can be used to interact with your main sprite such as buttons or toys.
 - Add animations using `graphic effects`{:class="block3looks"} or costumes.
-- Add more `sound effects`{:class="block3sounds"}.
+- Add more `sound effects`{:class="block3sound"}.
 
 ## Get inspiration
 
