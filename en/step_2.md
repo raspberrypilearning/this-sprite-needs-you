@@ -17,8 +17,8 @@ You can plan by just thinking; tinkering; drawing or writing; or however you lik
 Think about the **purpose** of your project. 
 
 It could be:
-- To teach someone how to do something, such as look after a guinea pig or keep a plant alive.  
-- To share an educational message, such as looking after your mental health or improving your neighbourhood.
+- To teach a new skill such as looking after an animal or keeping a plant alive.
+- To share a message, such as look after your mental health or improve your neighbourhood.
 - To entertain users, by giving them something they wouldn't usually get the chance to interact with.
 
 --- /task ---
