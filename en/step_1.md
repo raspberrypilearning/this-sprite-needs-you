@@ -1,14 +1,14 @@
 ## Introduction
 
-Create a virtual pet, character or simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+Create a virtual pet, character, or simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet their needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me on a computer. Can you think of any other virtual pet games?
+<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
 </p>
 
 You will:
 + Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"} and `if`{:class="block3control"} blocks, with the skills you have already learned to allow a user to meet the needs of a character
++ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
 + Understand how characters in games and apps are controlled by algorithms
 
 --- no-print ---
@@ -40,7 +40,7 @@ Description of what to do or think about when looking at the example.
 
 ### PROJECT BRIEF: Help me grow
 <hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant or other simulation that the user can interact with to meet its needs. You will use variables to keep track of how your main sprite is doing. It might be happy, bored, thirsty or sleepy. 
+You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
 
 Your simulation should:
 + Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
@@ -49,8 +49,8 @@ Your simulation should:
 + Use `if`{:class="block3control"} blocks to control when things happen
 + Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
 
-Your simulation could
-+ Have an educational message such as kindness or keeping crops healthy
+Your simulation could:
++ Have a message, such as kindness or keeping crops healthy
 + Alert the user when levels are too high or low
 + Allow the user to chat with their sprite, or change its name
 </div>
@@ -60,7 +60,7 @@ Your simulation could
 ### Get inspiration
 
 --- task ---
-Think about what you will choose as a main sprite. It could be a pet that they user takes care of, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
 
 **Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -73,7 +73,6 @@ Think about what you will choose as a main sprite. It could be a pet that they u
 </div>
 
 **Music machine**: [See inside](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
 </div>
