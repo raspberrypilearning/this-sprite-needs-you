@@ -78,7 +78,7 @@ Think about your **main** sprite and decide:
 --- task ---
 Give your project a title that tells the user what to expect, and makes them want to try it out.
 
-The example projects were: Bat simulator, Make a rainbow, Watermelon farmer, and Music Machine.
+The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
 
 ![The Scratch menu bar with project name title filled in.](images/project-name.png)
 
