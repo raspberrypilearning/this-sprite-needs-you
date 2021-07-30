@@ -1,6 +1,6 @@
 ## Introduction
 
-Create a virtual pet, character, or simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
