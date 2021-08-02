@@ -82,7 +82,9 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 --- /no-print ---
 
 --- print-only ---
-You are going to make some design decisions to create your character. **See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for. 
+
+**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
 
 ![Complete project](images/bat-project.png)
 ![Complete project](images/watermelon-project.png)
