@@ -148,13 +148,13 @@ One common mistake is to confuse the `change`{:class="block3variables"} and `set
 Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
 
 ```blocks3
-say (name) for 2 seconds
+say (name) for (2) seconds
 ```
 
 **not**:
 
 ```blocks3
-say [name] for 2 seconds
+say [name] for (2) seconds
 ```
 
 --- /collapse ---
@@ -178,8 +178,8 @@ title: Number comparisons conditions aren't working
 Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
 
 ```blocks3
-<(health) > 0> // means the health variable must be bigger than 0
-<(health) < 5> // means the health variable must be smaller than 5
+<(health) > (0)> // means the health variable must be bigger than 0
+<(health) < (5)> // means the health variable must be smaller than 5
 ```
 
 **Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
