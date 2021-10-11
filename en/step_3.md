@@ -10,8 +10,8 @@ Now it's time to make your project. Start small, and add more to your project if
 
 You will need to decide in what order to build your project. You could:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound and effects and conversation to make the sprite really come to life 
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later.
++ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life 
++ Create multiple variables with simple ways for the user to control them, and then add more effects later
 
 Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
 
@@ -65,7 +65,7 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement and graphic effects
+### Backdrops, movement, and graphic effects
 
 ```blocks3
 set [ghost v] effect to (0)
@@ -124,7 +124,7 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
+**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game? 
 
 --- /task ---
 
@@ -141,20 +141,20 @@ title: Variables aren't updating correctly
 
 One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks. 
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value
++ `set`{:class="block3variables"} replaces the value of a variable with a new value.
 + `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
 
 
 Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
 
 ```blocks3
-say (name) for 2 seconds
+say (name) for (2) seconds
 ```
 
 **not**:
 
 ```blocks3
-say [name] for 2 seconds
+say [name] for (2) seconds
 ```
 
 --- /collapse ---
@@ -178,8 +178,8 @@ title: Number comparisons conditions aren't working
 Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
 
 ```blocks3
-<(health) > 0> // means the health variable must be bigger than 0
-<(health) < 5> // means the health variable must be smaller than 5
+<(health) > (0)> // means the health variable must be bigger than 0
+<(health) < (5)> // means the health variable must be smaller than 5
 ```
 
 **Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.

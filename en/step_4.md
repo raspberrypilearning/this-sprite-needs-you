@@ -2,7 +2,7 @@
 
 Now is the time to share your simulation so that users can try it. 
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out. Make sure you fill in the **Instructions** section so that users know what they need to do to help your main sprite.
+If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
 
 [[[share-scratch]]]
 
