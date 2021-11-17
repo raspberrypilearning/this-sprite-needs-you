@@ -1,38 +1,67 @@
-## Upgrade your project
+## Reflect
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
 
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+Does your project:
 
-## Get inspiration
+--- task ---
+Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+--- /task ---
+--- task ---
+Have a way for the variable(s) to change automatically
+--- /task ---
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+--- task ---
+Give the user a way to improve the variables to give the main sprite what it needs
+--- /task ---
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+--- task ---
+Use `if`{:class="block3control"} blocks to control when things happen
+--- /task ---
 
-## Small improvements
+--- task ---
+Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+--- /task ---
 
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
+Your simulation could also:
+
+--- task ---
+Have an educational message, such as kindness or keeping crops healthy
+--- /task ---
+
+--- task ---
+Alert the user when levels are too high or low
+--- /task ---
+
+--- task ---
+Allow the user to chat with their sprite, or change its name
+--- /task ---
+
+Reflect on how you made your simulation to help you in your future projects:
+
+--- task ---
+How did you get your ideas? 
+<!-- free text answer, 3 characters possibly -->
+--- /task ---
+
+--- task ---
+What cool new thing(s) did you learn?
+<!-- free text answer, 3 characters possibly -->
+
+--- /task ---
+
+### Now you are the creator of a simulation!
+
+Take a moment to celebrate what you have made.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
+<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
 </p>
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
-
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
+Where will you take your new powers? What simulation will you make next?
+<!-- free text answer, 3 characters possibly -->
 
 --- /task ---
-
---- save ---
 

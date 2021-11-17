@@ -2,14 +2,17 @@ title: This sprite needs you
 hero_image: images/banner.png
 description: Create a virtual pet, character, or nature simulation that the user can interact with to help it.
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2021-03-26"
 steps:
   - title: Introduction
   - title: Your idea
   - title: Build and test
+    completion: engaged
   - title: Share
-  - title: Upgrade your project
+    completion: internal
   - title: Reflect
+    completion: external
+  - title: Upgrade your project
   - title: What next?
