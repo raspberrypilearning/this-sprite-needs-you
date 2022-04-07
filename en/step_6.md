@@ -1,38 +1,22 @@
-## Upgrade your project
+## Share
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Now is the time to share your simulation so that users can try it. 
 
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
 
-## Get inspiration
+[[[share-scratch]]]
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+Why not invite your friends to create a project? Let them know how you had fun.
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
 
-## Small improvements
-
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
-</p>
+[[[comments-feedback-scratch]]]
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+Inspire others with your project by submitting it to our Scratch studio! 
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
+To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
 
 --- /task ---
-
---- save ---
 
