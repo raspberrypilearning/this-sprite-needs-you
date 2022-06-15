@@ -60,6 +60,7 @@ Your simulation could:
 ### Get inspiration
 
 --- task ---
+
 Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
 
 **Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
@@ -82,6 +83,7 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 --- /no-print ---
 
 --- print-only ---
+
 Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for. 
 
 **See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
