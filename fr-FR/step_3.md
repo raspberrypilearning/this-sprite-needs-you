@@ -192,7 +192,7 @@ Es-tu sûr d'avoir utilisé les opérateurs `>`{:class="block3operators"} (supé
 title: Rien ne se passe lorsque j'envoie à tous un message
 ---
 
-Assure-toi d'avoir un bloc correspondant `quand je reçois`{:class="block3events"} qui fait quelque chose lorsqu'un message est`envoyé à tous`{:class="block3events"}. Vérifie que les noms des messages correspondent.
+Assure-toi d'avoir un bloc correspondant `quand je reçois`{:class="block3events"} qui fait quelque chose lorsqu'un message est `envoyé à tous`{:class="block3events"}. Vérifie que les noms des messages correspondent.
 
 --- /collapse ---
 
