@@ -1,28 +1,28 @@
 ---
-title: This sprite needs you
+title: Αυτό το αντικείμενο σε χρειάζεται
 hero_image: images/banner.png
-description: Create a virtual pet, character, or nature simulation that the user can interact with to help it.
+description: Δημιούργησε ένα εικονικό κατοικίδιο ζώο, χαρακτήρα ή προσομοίωση φύσης με το οποίο ο χρήστης μπορεί να αλληλεπιδράσει για να το βοηθήσει.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-26'
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Your idea
+    title: Η ιδέα σου
   - 
-    title: Build and test
+    title: Δημιουργία και έλεγχος
     completion:
       - engaged
       - internal
   - 
-    title: Reflect
+    title: Αναστοχασμός
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Αναβάθμιση του έργου σου
   - 
-    title: Share
+    title: Κοινοποίηση
   - 
-    title: What next?
+    title: Και τώρα;
