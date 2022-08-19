@@ -1,29 +1,29 @@
-Hello
+Hallo
 
-name
+naam
 
-health
+gezondheid
 
-sun
+zon
 
-bees
+bijen
 
-flowers
+bloemen
 
-honey
+honing
 
 fans
 
 name
 
-electricity
+elektriciteit
 
 volume
 
-love
+liefde
 
-hugs
+knuffels
 
 high five
 
-kisses
+kussen
