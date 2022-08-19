@@ -1,22 +1,22 @@
-## Share
+## Deel
 
-Now is the time to share your simulation so that users can try it.
+Nu is het tijd om je simulatie te delen zodat gebruikers het kunnen proberen.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
+Als je een Scratch-account hebt, kun je je project delen via Scratch. Vraag het eerst aan een volwassene. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-community zal je project kunnen vinden om het uit te proberen. Zorg ervoor dat je de **instructies** sectie invult, zodat gebruikers weten wat ze moeten doen om je belangrijkste sprite te helpen.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
 
-If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
+Als je een Scratch-account hebt en je project hebt gedeeld, hou dan een oogje in het zeil voor opmerkingen die anderen kunnen maken over je creatie. Feedback is een geweldige manier om te reflecteren op je werk. Rapporteer en negeer eventuele opmerkingen die onbehulpzaam of irrelevant zijn.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire others with your project by submitting it to our Scratch studio!
+Inspireer anderen met je project door het naar onze Scratch-studio te sturen!
 
-To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+Om je project te delen met anderen die het project 'Deze sprite heeft jou nodig' maken, vul je [dit formulier in.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
 
 --- /task ---
 
