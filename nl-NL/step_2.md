@@ -1,89 +1,89 @@
-## Your idea
+## Jouw idee
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Plan je virtuele huisdier, personage of natuursimulatie. De gebruiker zal de juiste voorwaarden moeten maken om de behoeften van de hoofdsprite te ondersteunen. Je belangrijkste sprite zou groter kunnen worden, ervaring kunnen opdoen, de gezondheid kunnen verbeteren of iets anders.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Je kunt het plannen door erover na te denken, te knutselen, te tekenen of te schrijven, of hoe je maar wilt!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+Wanneer <span style="color: #0faeb0">aan basisbehoeften</span> zoals voedsel en veiligheid wordt voldaan, creëren we de juiste omstandigheden voor wezens (inclusief onszelf) om te leren en te groeien. Dus de volgende keer dat je je humeurig of afgeleid voelt, controleer je basisbehoeften.  
 </p>
 
-### Why are you making your project?
+### Waarom maak je je project?
 
 --- task ---
 
-Think about the **purpose** of your project.
+Denk aan het **doel** van je project.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+Dat kan zijn:
+- Om een nieuwe vaardigheid te leren, zoals het verzorgen van een dier of het in leven houden van een plant
+- Om een bericht te delen, zoals zorg dragen voor je geestelijke gezondheid of je buurt verbeteren
+- Om gebruikers te entertainen, door ze iets te geven waar ze meestal niet de kans voor hebben om mee te communiceren
 
 --- /task ---
 
-### Who is it for?
+### Voor wie is het?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Bedenk voor wie je je project gaat maken (je **publiek**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Het kennen van je publiek zal je helpen een project te ontwerpen dat ze steeds opnieuw willen spelen.
 
 --- /task ---
 
-### Get started
+### Aan de slag
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open een [nieuw Scratch-project](http://rpf.io/scratch-new){:target="_blank"}. Scratch wordt in een nieuw browsertabblad geopend.
 
 --- collapse ---
 ---
-title: Working offline
+title: Offline werken
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Om Scratch in te stellen voor offline gebruik, bezoek [onze Scratch-gids](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Gebruik je nieuwe Scratch project, een pen en papier, of allebei om je ideeën te plannen.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Wat zal je **hoofd** sprite zijn?
++ Een personage zoals een huisdier of wild dier, of een persoon
++ Een plant of gewas dat zonlicht, water en voedingsstoffen nodig heeft
++ Een kenmerk uit de wetenschap of de natuur, zoals een regenboog of een vuur
++ Een machine, zoals een onderzeeër of een recyclingmachine
++ Of iets anders
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Enkele voorbeelden van sprites die kunnen worden gebruikt; een krab, een boom, de wereld, een laptop.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Denk aan je **hoofd** sprite en besluit:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Welke objecten en `variabelen`{:class="block3variables"} zijn nodig?
++ Veranderen de `variabelen`{:class="block3variables"} in de loop der tijd, bijvoorbeeld om de paar seconden een toename van de honger of vermoeidheid?
++ Hoe zal de gebruiker met de hoofdsprite communiceren? Dit kan op voedsel klikken om een dier te voeden, of met een personage praten om hun verveling te verminderen.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+Geef je project een titel die de gebruiker vertelt wat hij kan verwachten en waardoor hij of zij het wil uitproberen.
+
+De voorbeeldprojecten waren: **Vleermuissimulator**, **Maak een regenboog**, **Watermeloen boer**en **Muziekmachine**.
+
+![De Scratch menubalk met projectnaam ingevuld.](images/project-name.png)
+
+Je kunt de titel later altijd bijwerken als je een betere titel bedenkt.
 
 --- /task ---
 
