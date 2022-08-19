@@ -1,24 +1,24 @@
-## Introduction
+## المقدمة
 
-Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+قم بإنشاء حيوان أليف افتراضي أو شخصية أو محاكاة طبيعية يمكن للمستخدم التفاعل معها لمساعدتها. ستحتاج لعبتك إلى تلبية **ملخص المشروع**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
+<span style="color: #0faeb0">ألعاب الحيوانات الأليفة الافتراضية</span> هي نوع واحد من الألعاب حيث يتفاعل المستخدمون مع الشخصيات لتلبية احتياجات الشخصيات. ربما تكون قد لعبت مع تماغوتشي صغيرة محمولة أو استمتعت بألعاب مثل كاتز وتبني لي! على جهاز كمبيوتر. هل يمكنك التفكير في أي ألعاب حيوانات أليفة افتراضية أخرى؟
 </p>
 
-You will:
-+ Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
-+ Understand how characters in games and apps are controlled by algorithms
+سوف تفعلها:
++ اصنع شخصية أو محاكاة للمرح أو ممتعة للتفاعل معها
++ استخدم أي مجموعة من `متغيرات`{: class = "block3variables"} ، و `بث`{: class = "block3events"} ، و `if`{: class = "block3control"} ، بالمهارات التي تعلمتها بالفعل ، للسماح للمستخدم بتلبية احتياجات الشخصية
++ افهم كيف تتحكم الخوارزميات في الشخصيات في الألعاب والتطبيقات
 
 --- no-print --- --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### جربها
 
-Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
+تفاعل مع الكريكيت الخفافيش. ماذا يحدث إذا نقرت على الطعام أو العفاريت المائية؟ كيف يمكنك معرفة ما إذا كان الخفاش جائعًا أم عطشانًا؟
 
 </div>
 <div>
