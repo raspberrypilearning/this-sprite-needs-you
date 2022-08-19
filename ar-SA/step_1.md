@@ -23,7 +23,7 @@
 </div>
 <div>
 
-**Bat simulator**: [See inside](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
+** محاكاة بات **: [انظر داخل] (https://scratch.mit.edu/projects/530008968/editor) {: target = "_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,37 +37,37 @@
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Help me grow
+### ملخص المشروع: ساعدني على النمو
 <hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
+تحتاج إلى إنشاء حيوان أليف افتراضي أو نبات أو محاكاة أخرى يمكن للمستخدم التفاعل معها لتلبية احتياجاته. ستستخدم ** المتغيرات ** لتتبع أداء الكائن الرئيسي. قد تشعر بالسعادة, الملل, العطش أو النعاس. 
 
-Your simulation should:
-+ Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
-+ Have a way for the variable(s) to change automatically
-+ Give the user a way to improve the variables to give the main sprite what it needs
-+ Use `if`{:class="block3control"} blocks to control when things happen
-+ Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+يجب أن تكون المحاكاة الخاصة بك:
++ استخدام "متغير" واحد على الأقل {: class = "block3variables"} لتتبع ما يحتاجه الكائن الرئيسي
++ وفر طريقة للمتغير (المتغيرات) للتغيير تلقائيًا
++ أعط المستخدم طريقة لتحسين المتغيرات لإعطاء الكائن الرئيسي ما يحتاجه
++ استخدم كتل `if` {: class =" block3control "} للتحكم في وقت حدوث الأشياء
++ استخدم كتل` البث` {: class = "block3events"} للتواصل بين الكائنات الحية الأخرى والعنصر الرئيسي
 
-Your simulation could:
-+ Have a message, such as kindness or keeping crops healthy
-+ Alert the user when levels are too high or low
-+ Allow the user to chat with their sprite, or change its name
+يمكن لمحاكاتك:
++ الحصول على رسالة ، مثل اللطف أو الحفاظ على المحاصيل صحية
++ تنبيه المستخدم عندما تكون المستويات مرتفعة جدًا أو منخفضة
++ السماح للمستخدم بالدردشة مع كائنه أو التغيير اسمه
 </div>
 
 --- no-print ---
 
-### Get inspiration
+### احصل على الإلهام
 
 --- task ---
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+فكر فيما ستختاره ليكون كائنًا رئيسيًا. قد يكون حيوانًا أليفًا يعتني به المستخدم ، أو شخصًا يساعده المستخدم في اتخاذ قرارات جيدة ، أو نباتًا أو محصولًا يساعد المستخدم على نموه ، أو كائنًا طبيعيًا أو خياليًا يحتاجه المستخدم لتهيئة الظروف المناسبة له.
 
-**Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
+**اصنع قوس قزح**: [انظر داخل](https://scratch.mit.edu/projects/530034441/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Watermelon farmer**: [See inside](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
+**مزارع البطيخ**: [انظر داخل](https://scratch.mit.edu/projects/531858794/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -83,11 +83,11 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 --- print-only ---
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+فكر فيما ستختاره ليكون كائنًا رئيسيًا. قد يكون حيوانًا أليفًا يعتني به المستخدم ، أو شخصًا يساعده المستخدم في اتخاذ قرارات جيدة ، أو نباتًا أو محصولًا يساعد المستخدم على نموه ، أو كائنًا طبيعيًا أو خياليًا يحتاجه المستخدم لتهيئة الظروف المناسبة له.
 
-**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+**انظر داخل ** أمثلة من المشاريع "هذا الكائن يحتاجك - أمثلة" استوديو سكراتش: https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/music-project.png) ![Complete project](images/rainbow-project.png)
+![المشروع كامل](images/bat-project.png) ![المشروع كامل](images/watermelon-project.png) ![المشروع كامل](images/music-project.png) ![المشروع كامل](images/rainbow-project.png)
 
 --- /print-only ---
 
