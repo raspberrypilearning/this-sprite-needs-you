@@ -1,89 +1,89 @@
-## Your idea
+## Η ιδέα σου
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Σχεδίασε το εικονικό κατοικίδιο σου, χαρακτήρα ή προσομοίωση φύσης. Ο χρήστης θα πρέπει να δημιουργήσει τις κατάλληλες συνθήκες για να υποστηρίξει τις ανάγκες του κύριου ακτικειμένου. Το κύριο αντικείμενό σου μπορεί να γίνει μεγαλύτερο, να αποκτήσει εμπειρία, να αυξήσει την υγεία του ή κάτι άλλο.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Μπορείς να σχεδιάσεις με το μυαλό σου, μαστορεύοντας, σχεδιάζοντας ή γράφοντας, ή όπως θέλεις!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+Όταν ικανοποιούνται οι <span style="color: #0faeb0">βασικές ανάγκες</span> όπως η τροφή και η ασφάλεια, δημιουργούμε τις κατάλληλες συνθήκες για τα πλάσματα (συμπεριλαμβανομένου του εαυτού μας) να μάθουν και να αναπτυχθούν. Οπότε την επόμενη φορά που θα αισθάνεσαι εκνευρισμένος/η ή αφηρημένος/η, έλεγξε τις βασικές σου ανάγκες.  
 </p>
 
-### Why are you making your project?
+### Γιατί κάνεις το έργο σου;
 
 --- task ---
 
-Think about the **purpose** of your project.
+Σκέψου το **σκοπό** του έργου σου.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+Θα μπορούσε να είναι:
+- Να διδάξεις μια νέα δεξιότητα, όπως η φροντίδα ενός ζώου ή η διατήρηση ενός φυτού
+- Να μοιραστείς ένα μήνυμα, όπως να προσέχεις τη ψυχική σου υγεία ή να βελτιώσεις τη γειτονιά σου
+- Να διασκεδάσεις τους χρήστες, δίνοντάς τους κάτι με το οποίο συνήθως δεν θα είχαν την ευκαιρία να αλληλεπιδράσουν
 
 --- /task ---
 
-### Who is it for?
+### Σε ποιον/α απευθύνεται;
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Σκέψου για ποιους θα φτιάξεις το έργο σου (το **κοινό ** σου).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Το να γνωρίζεις το κοινό σου θα σε βοηθήσει να σχεδιάσεις ένα έργο που θα θέλουν να παίξουν ξανά και ξανά.
 
 --- /task ---
 
-### Get started
+### Ξεκίνησε
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Άνοιξε ένα [νέο έργο Scratch](http://rpf.io/scratch-new){:target="_ blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
 
 --- collapse ---
 ---
-title: Working offline
+title: Εργασία εκτός σύνδεσης
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Για να ρυθμίσεις το Scratch για χρήση εκτός σύνδεσης, επισκέψου [τον οδηγό Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Χρησιμοποίησε το νέο σου έργο Scratch, ένα στυλό και χαρτί ή και τα δύο για να σχεδιάσεις τις ιδέες σου.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Ποιο θα είναι το **κύριο** αντικείμενό σου;
++ Ένας χαρακτήρας όπως ένα κατοικίδιο ή άγριο ζώο ή ένα άτομο
++ Ένα φυτό ή μια καλλιέργεια που χρειάζεται ηλιακό φως, νερό και θρεπτικά συστατικά
++ Ένα χαρακτηριστικό από την επιστήμη ή τη φύση, όπως ένα ουράνιο τόξο ή μια φωτιά
++ Ένα μηχάνημα, όπως ένα υποβρύχιο ή ένα μηχάνημα ανακύκλωσης
++ Ή κάτι άλλο
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Μερικά παραδείγματα αντικειμένων που θα μπορούσαν να χρησιμοποιηθούν: ένα καβούρι, ένα δέντρο, ο κόσμος, ένας φορητός υπολογιστής.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Σκέψου το **κύριο** αντικείμενό σου και αποφάσισε:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Ποια αντικείμενα και `μεταβλητές`{:class="block3variables"} μπορεί να χρειαστούν;
++ Θα αλλάζουν οι `μεταβλητές`{:class="block3variables"} με την πάροδο του χρόνου, για παράδειγμα η πείνα ή η κούραση θα αυξάνονται κάθε λίγα δευτερόλεπτα;
++ Πώς θα αλληλεπιδράσει ο χρήστης με το κύριο αντικείμενο; Αυτό θα μπορούσε να είναι ένα κλικ σε φαγητό για να ταΐσεις ένα ζώο ή να συνομιλήσεις με έναν χαρακτήρα για να μειώσεις την βαρεμάρα του.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+Δώσε στο έργο σου έναν τίτλο που να εξηγεί στον χρήστη τι να περιμένει και να τον κάνει να θέλει να το δοκιμάσει.
+
+Τα παραδείγματα έργων ήταν: **Προσομοιωτής νυχτερίδας**, **Φτιάξτε ένα ουράνιο τόξο**, **Αγρότης καρπουζιών**, και **Μουσική Μηχανή**.
+
+![Η γραμμή μενού Scratch με συμπληρωμένο τον τίτλο του ονόματος έργου.](images/project-name.png)
+
+Μπορείς πάντα να ενημερώσεις τον τίτλο αργότερα, αν σκεφτείς κάτι καλύτερο.
 
 --- /task ---
 
