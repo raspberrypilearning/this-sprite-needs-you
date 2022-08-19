@@ -1,29 +1,29 @@
-Hello
+مرحباً
+
+الاسم
+
+الصحة
+
+الشمس
+
+النحل
+
+زهور
+
+عسل
+
+المشجعين
 
 name
 
-health
+كهرباء
 
-sun
+الصوت
 
-bees
+الحب
 
-flowers
+عناق
 
-honey
+كفك
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+القبلات
