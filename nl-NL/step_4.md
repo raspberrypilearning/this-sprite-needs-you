@@ -30,7 +30,7 @@ Gebruik `als`{:class="block3control"} blokken om te bepalen wanneer dingen gebeu
 
 --- task ---
 
-Gebruik `zend signaal`{:class="block3events"} en <0>wanneer ik signaal ontvang</0>{:class="block3events"} blokken om te communiceren tussen andere sprites en de hoofdsprite
+Gebruik `zend signaal`{:class="block3events"} en `wanneer ik signaal ontvang`{:class="block3events"} blokken om te communiceren tussen andere sprites en de hoofdsprite
 
 --- /task ---
 
