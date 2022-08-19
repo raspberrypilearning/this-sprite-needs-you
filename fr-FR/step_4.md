@@ -1,87 +1,87 @@
-## Reflect
+## Réflexion
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+As-tu bien respecté la **fiche de projet** ? Pense à ton projet et parcoure la liste de contrôle ci-dessous. Coche ceux qui s'appliquent à ton projet.
 
-Does your project:
+Vérifie si ton projet :
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+Utilise au moins une `variable`{:code="bloc::variables"} pour garder une trace de ce dont le sprite principal a besoin
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+Permet à ce qu'une ou des variable(s) changent automatiquement
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+Permet à l'utilisateur d'améliorer les variables pour donner au sprite principal ce dont il a besoin
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+Utilise des blocs `si`{:code ="bloc::control"} pour contrôler quand les choses se produisent
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Utilise des blocs `envoyer à tous`{:code ="bloc::events"} pour communiquer entre les autres sprites et le sprite principal
 
 --- /task ---
 
-Your simulation could also:
+Ta simulation pourrait également :
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+Avoir un message éducatif, comme la gentillesse ou le maintien des récoltes saines
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+Alerter l'utilisateur lorsque les niveaux sont trop élevés ou trop bas
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+Autoriser l'utilisateur à discuter avec son sprite ou à changer son nom
+
+--- /task ---
+
+Réfléchis à la façon dont tu as créé ton projet pour t'aider dans tes projets futurs :
 
 --- task ---
 
-How did you get your ideas? 
+Comment as-tu eu tes idées ? 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### Tu as maintenant créé une simulation !
 
-Take a moment to celebrate what you have made.
+Prends un moment pour célébrer ce que tu as fait.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+<span style="color: #0faeb0">Les simulations informatiques</span> peuvent nous permettre de vivre des situations que nous ne pourrions pas vivre dans la vraie vie. Il existe des simulations informatiques qui permettent aux chirurgiens de pratiquer des opérations. Il existe des simulations qui permettent aux ingénieurs spatiaux de prédire ce qui se passera lorsqu'ils lanceront une fusée et d'apporter des modifications aux variables pour voir ce qui se passe. Et il existe des simulations de jeu qui te permettent de prendre soin d'un animal de compagnie, d'une personne, d'une famille ou d'un travail. 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+Comment vas-tu utiliser tes nouveaux pouvoirs ? Quelle simulation feras-tu ensuite ?
 
 <!-- free text answer, 3 characters possibly -->
 
