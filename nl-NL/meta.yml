@@ -13,7 +13,7 @@ steps:
     completion:
       - engaged
       - internal
-  - title: Reflecteer
+  - title: Reflectie
     completion:
       - external
   - title: Verbeter je project

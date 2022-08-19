@@ -24,9 +24,9 @@ Communiceren met Cricket de vleermuis. Wat gebeurt er als je op de voedsel- of w
 </div>
 <div>
 
-**Vleermuis simulator**: [Zie binnenkant](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
+**Vleermuis simulator**: [Zie binnenkant](https://scratch.mit.edu/projects/723159607/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723159607/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -62,19 +62,19 @@ Je simulatie zou:
 
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
 
-**Maak een regenboog**: [See Inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
+**Maak een regenboog**: [See Inside](https://scratch.mit.edu/projects/723159864/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723159864/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Watermeloen boer**: [Bekijk van binnen](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
+**Watermeloen boer**: [Bekijk van binnen](https://scratch.mit.edu/projects/723160026/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723160026/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Muziekmachine**: [Bekijk van binnen](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**Muziekmachine**: [Bekijk van binnen](https://scratch.mit.edu/projects/723160151/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723160151/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
