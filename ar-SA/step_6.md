@@ -1,22 +1,22 @@
-## Share
+## مشاركة
 
-Now is the time to share your simulation so that users can try it.
+حان الوقت الآن لمشاركة المحاكاة الخاصة بك حتى يتمكن المستخدمون من تجربتها.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
+إذا كان لديك حساب Scratch ، فيمكنك مشاركة مشروعك من خلال Scratch. تحقق مع شخص بالغ أولاً. يمكنك إرسال رابط إلى الأشخاص الذين تعرفهم ، وسيتمكن مجتمع Scratch بأكمله من العثور على مشروعك لتجربته. تأكد من ملء قسم **تعليمات** ، حتى يعرف المستخدمون ما يتعين عليهم فعله لمساعدة الكائن الرئيسي الخاص بك.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+لماذا لا تدعو أصدقائك لإنشاء مشروع؟ دعهم يعرفون كيف استمتعت.
 
-If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
+إذا كان لديك حساب Scratch ، وشاركت مشروعك ، ترقب التعليقات التي قد يدلي بها الآخرون حول إنشائك. التعليقات هي طريقة رائعة للتفكير في عملك. أبلغ عن أي تعليقات غير مفيدة أو غير ذات صلة وتجاهلها.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire others with your project by submitting it to our Scratch studio!
+ألهم الآخرين بمشروعك عن طريق إرساله إلى استوديو Scratch الخاص بنا!
 
-To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+لمشاركة مشروعك مع الآخرين الذين يصنعون مشروع "هذا الكائن بحاجة إليك" ، يرجى إكمال [هذا النموذج.](https://form.raspberrypi.org/f/community-project-submissions){: target = "_ blank"}
 
 --- /task ---
 
