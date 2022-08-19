@@ -1,28 +1,28 @@
 ---
-title: This sprite needs you
+title: هذا الكائن يحتاجك
 hero_image: images/banner.png
-description: Create a virtual pet, character, or nature simulation that the user can interact with to help it.
+description: قم بإنشاء حيوان أليف افتراضي أو شخصية أو محاكاة طبيعية يمكن للمستخدم التفاعل معها لمساعدتها.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-26'
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Your idea
+    title: فكرتك
   - 
-    title: Build and test
+    title: بناء واختبار
     completion:
       - engaged
       - internal
   - 
-    title: Reflect
+    title: تفكير
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: قم بترقية او تطوير مشروعك
   - 
-    title: Share
+    title: مشاركة
   - 
-    title: What next?
+    title: ما التالي؟
