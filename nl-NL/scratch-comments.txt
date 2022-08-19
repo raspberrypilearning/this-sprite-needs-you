@@ -1,0 +1,3 @@
+betekent dat de gezondheidsvariabele groter moet zijn dan 0
+
+betekent dat de gezondheidsvariabele kleiner moet zijn dan 5
