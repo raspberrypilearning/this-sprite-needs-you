@@ -1,6 +1,6 @@
-## Your idea
+## فكرتك
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+خطط لحيوانك الأليف الافتراضي أو شخصيتك أو محاكاة الطبيعة. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
 
 You can plan by just thinking, tinkering, drawing or writing, or however you like!
 
