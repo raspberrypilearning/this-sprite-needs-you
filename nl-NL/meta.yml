@@ -1,0 +1,28 @@
+---
+title: Deze sprite heeft je nodig
+hero_image: images/banner.png
+description: Maak een virtueel huisdier, personage of natuursimulatie waarmee de gebruiker kan communiceren om het te helpen.
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-26'
+steps:
+  - 
+    title: Inleiding
+  - 
+    title: Jouw idee
+  - 
+    title: Bouwen en testen
+    completion:
+      - engaged
+      - internal
+  - 
+    title: Reflecteer
+    completion:
+      - external
+  - 
+    title: Verbeter je project
+  - 
+    title: Deel
+  - 
+    title: Wat kun je verder nog doen?
