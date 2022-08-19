@@ -1,29 +1,29 @@
-Hello
+Γεια σου
+
+όνομα
+
+υγεία
+
+ήλιος
+
+μέλισσες
+
+λουλούδια
+
+μέλι
+
+θαυμαστές
 
 name
 
-health
+ηλεκτρική ενέργεια
 
-sun
+ένταση
 
-bees
+αγάπη
 
-flowers
+αγκαλιές
 
-honey
+κόλλα πέντε
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+φιλιά
