@@ -1,89 +1,89 @@
 ## فكرتك
 
-خطط لحيوانك الأليف الافتراضي أو شخصيتك أو محاكاة الطبيعة. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+خطط لحيوانك الأليف الافتراضي أو شخصيتك أو محاكاة الطبيعة. سيتعين على المستخدم تهيئة الظروف المناسبة لدعم احتياجات الكائن الرئيسي. قد يكبر كائنك الرئيسي أو يكتسب الخبرة أو يزيد الصحة أو أي شيء آخر.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+يمكنك التخطيط بمجرد التفكير أو الإصلاح أو الرسم أو الكتابة ، أو كيفما تشاء!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+عندما يتم تلبية <span style="color: #0faeb0">الاحتياجات الأساسية</span> مثل الغذاء والسلامة ، فإننا نخلق الظروف المناسبة للمخلوقات (بما في ذلك أنفسنا) للتعلم والنمو. لذلك في المرة القادمة التي تشعر فيها بالغرابة أو تشتت الانتباه ، تحقق من احتياجاتك الأساسية.  
 </p>
 
-### Why are you making your project?
+### لماذا تصنع مشروعك؟
 
 --- task ---
 
-Think about the **purpose** of your project.
+فكر في **الغرض** من مشروعك.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+من الممكن أن تكون:
+- لتعلم مهارة جديدة ، مثل رعاية حيوان أو إبقاء نبات على قيد الحياة
+- لمشاركة رسالة ، مثل الاعتناء بصحتك العقلية أو تحسين صداقتك
+- للترفيه عن المستخدمين ، من خلال منحهم شيئًا لن تتاح لهم عادة فرصة التفاعل معه
 
 --- /task ---
 
-### Who is it for?
+### لمن هذا؟
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+فكر لمن تصمم او تبرمج مشروعك(** جمهورك **).
 
-Knowing your audience will help you design a project they will want to play again and again.
+ستساعدك معرفة جمهورك على تصميم مشروع سيرغبون في تشغيله مرارًا وتكرارًا.
 
 --- /task ---
 
-### Get started
+### البدء
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+افتح [مشروع Scratch جديد](http://rpf.io/scratch-new){: target = "_ blank"}. سيتم فتح Scratch في علامة تبويب متصفح أخرى.
 
 --- collapse ---
 ---
-title: Working offline
+title: العمل دون اتصال
 ---
 
 To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+استخدم مشروع سكراتش الجديد أو قلم وورقة أو كليهما لتخطيط أفكارك.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+ماذا سيكون شبحك **الرئيسي**؟
++ شخصية مثل حيوان أليف أو حيوان بري ، أو شخص
++ نبات أو محصول يحتاج إلى ضوء الشمس والماء والعناصر الغذائية
++ ميزة من العلم أو الطبيعة ، مثل قوس قزح أو نار
++ آلة مثل الغواصة أو آلة إعادة التدوير
++ أو شيء آخر
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![بعض الأمثلة على العفاريت التي يمكن استخدامها ؛ سلطعون ، شجرة ، العالم ، كمبيوتر محمول.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+فكر حول شبحك **الرئيسي** وقرر:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ ما هي الكائنات و `متغيرات`{: class = "block3variables"} قد تكون مطلوبة؟
++ هل ستتغير المتغيرات ``{: class = "block3variables"} بمرور الوقت ، على سبيل المثال زيادة الجوع أو التعب كل بضع ثوانٍ؟
++ كيف سيتفاعل المستخدم مع الكائن الرئيسي؟ يمكن أن يكون هذا النقر على الطعام لإطعام حيوان ، أو الدردشة مع شخصية لتقليل الملل.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+امنح مشروعك عنوانًا يخبر المستخدم بما يتوقعه ، ويجعله يرغب في تجربته.
+
+أمثلة المشاريع هي: **محاكاة الخفافيش**، **عمل قوس قزح**، **مزارع البطيخ**، و **آلة الموسيقى**.
+
+![تم ملء شريط قائمة Scratch بعنوان اسم المشروع.](images/project-name.png)
+
+يمكنك دائمًا تحديث العنوان لاحقًا إذا كنت تفكر في عنوان أفضل.
 
 --- /task ---
 
