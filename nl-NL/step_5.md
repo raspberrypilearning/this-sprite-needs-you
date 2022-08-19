@@ -1,36 +1,36 @@
-## Upgrade your project
+## Verbeter je project
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Als je tijd hebt, kun je jouw project verbeteren. Je hebt misschien al ideeën om meer toe te voegen, of je wilt teruggaan naar de eerste stap en andere projecten opnieuw bekijken voor meer inspiratie.
 
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+Je kunt:
+- Voeg meer `variabelen`{:class="block3variables"} toe die de dingen voorstellen die je belangrijkste sprite wil of nodig heeft.
+- Controleer meer **voorwaarden** met behulp van `als`{:class="block3control"} condities, en laat je sprite verschillende dingen doen, afhankelijk van of de voorwaarde waar of onwaar is
+- Voeg meer sprites toe die kunnen worden gebruikt om met je hoofdsprite te communiceren, zoals knoppen of speelgoed.
+- Voeg animaties toe met `grafische effecten`{:class="block3looks"} of uiterlijken
+- Voeg meer `geluidseffecten`{:class="block3sound"} toe
 
-## Get inspiration
+## Doe inspiratie op
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+Elk voorbeeldproject in de [Inleiding](.) heeft een link 'bekijk van binnen' om het project in Scratch te openen, de code te bekijken om ideeën op te halen en te zien hoe ze werken.
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+Bekijk een paar **Deze sprite heeft je nodig** projecten die zijn gemaakt door community-leden in de studio van de Raspberry Pi Foundation van **Deze sprite heeft je nodig - Community** projecten [Bekijk van binnen](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
 
-## Small improvements
+## Kleine verbeteringen
 
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
+Wanneer je een Scratch-project maakt, zijn er veel manieren om ervoor te zorgen dat je echt goed werk hebt gedaan.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
+<span style="color: #0faeb0">Marginale verbeteringen</span> zijn kleine upgrades die niet alleen veel verschil maken, maar wanneer ze samen worden opgeteld, maken ze een grote verbetering van de kwaliteit van je werk en de verbeteren de snelheid waarmee je meer wijzigingen kan aanbrengen. 
 </p>
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+Kun je marginale winsten gebruiken om een ding te veranderen dat je in de toekomst zal helpen? Dingen om te doen:
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
++ Geef alle sprites, uiterlijken, geluiden, variabelen en berichten een duidelijke naam. Het is veel gemakkelijker om projecten te begrijpen die handige namen gebruiken
++ Vul de projectpagina in met een goede titel, instructies en notities, zodat gebruikers weten hoe ze je project moeten gebruiken en waar je ideeën vandaan hebt gekregen
++ Voeg korte opmerkingen toe die uitleggen wat je code doet
++ Zorg ervoor dat je scripts netjes zijn in het **Code** tabblad. Je kunt met de rechtermuisknop klikken en **blok verwijderen** of de scripts rangschikken op een manier die voor jou logisch is. Probeer vergelijkbare scripts samen te voegen.
 
 --- /task ---
 
