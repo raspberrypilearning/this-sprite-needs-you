@@ -1,25 +1,25 @@
-## Build and test
+## Bouwen en testen
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Nu is het tijd om je project te maken. Begin klein en voeg meer toe aan je project als je tijd hebt.
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** Denk eraan om je project elke keer dat je iets toevoegt, te testen. Het is veel gemakkelijker om fouten te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+Je moet beslissen in welke volgorde je je project wilt bouwen. Je zou:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later
++ Maak één variabele en laat de gebruiker deze beheren. Voeg animaties, uiterlijken, geluid, effecten en conversatie toe om de sprite echt tot leven te laten komen
++ Maak meerdere variabelen met eenvoudige manieren om ze te besturen en voeg later meer effecten toe
 
-Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
+Het toevoegen van een sprite en vervolgens het maken van een `variabele`{:class="block3variables"} is een geweldig begin.
 
 --- /task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een herinnering om je te helpen bij het maken van je project:
 
-### Using variables
+### Variabelen gebruiken
 
 ```blocks3
 set [my variable v] to (0)
@@ -31,7 +31,7 @@ set [my variable v] to (0)
 
 [[[scratch3-change-variable-in-loop]]]
 
-### Checking conditions
+### Omstandigheden controleren
 
 ```blocks3
 if <(my variable) = (0)> then
@@ -45,7 +45,7 @@ if <(my variable) = (0)> then
 
 [[[scratch3-set-block-input-colour-with-eyedropper]]]
 
-### Broadcasting and receiving messages
+### Berichten verzenden en ontvangen
 
 ```blocks3
 broadcast [message1 v]
@@ -53,7 +53,7 @@ broadcast [message1 v]
 
 [[[generic-scratch3-broadcast-message]]]
 
-### Working with text:
+### Werken met tekst:
 
 ```blocks3
 say (join[Hello ](name)) for (2) seconds
@@ -65,7 +65,7 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement, and graphic effects
+### Achtergronden, beweging en grafische effecten
 
 ```blocks3
 set [ghost v] effect to (0)
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### Geluid:
 
 ```blocks3
 start sound (Pop v)
@@ -99,7 +99,7 @@ start sound (Pop v)
 
 [[[scratch3-text-to-speech]]]
 
-### Paint editor — backdrops and costumes
+### De Paint-editor — achtergronden en uiterlijken
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -111,7 +111,7 @@ start sound (Pop v)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Scratch editor
+### De Scratch-editor
 
 [[[scratch3-copy-code]]]
 
@@ -124,34 +124,34 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game?
+**Test:** Laat iemand anders je project zien en vraag feedback. Wil je wijzigingen aanbrengen in je spel?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Mogelijk vindt je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
 
 --- collapse ---
 
 ---
-title: Variables aren't updating correctly
+title: Variabelen worden niet correct bijgewerkt
 ---
 
-One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
+Een veel voorkomende fout is het verwarren van de `verander`{:class="block3variables"} en `maak`{:class="block3variables"} blokken.
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
++ `set`{:class="block3variables"} vervangt de waarde van een variabele door een nieuwe waarde.
++ `verander`{:class="block3variables"} voegt een getal toe aan een variabele. Als je een positief getal in het `verander met`{:class="block3variables"} blok gebruikt, wordt de waarde van de variabele groter. Als je een negatief getal in het `verander met`{:class="block3variables"} blok gebruikt, wordt de variabele waarde kleiner.
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
+Een ander veel voorkomend probleem is het typen van de naam van een variabele in plaats van het slepen van de variabele uit het menu `variabelen`{:class="block3variables"} blokken. Variabelen moeten oranje zijn:
 
 ```blocks3
 say (name) for (2) seconds
 ```
 
-**not**:
+**niet**:
 
 ```blocks3
 say [name] for (2) seconds
@@ -162,45 +162,45 @@ say [name] for (2) seconds
 --- collapse ---
 
 ---
-title: A change only happens once instead of forever
+title: Een verandering gebeurt slechts eenmaal in plaats van voor altijd
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
+Zorg ervoor dat je codeblokken hebt geplaatst die moeten blijven draaien in een `herhaal`{:class="block3control"} blok. Het is heel gewoon om dit te vergeten!
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Number comparisons conditions aren't working
+title: Voorwaarden voor het vergelijken van getallen werken niet
 ---
 
-Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
+Weet je zeker dat je de `>`{:class="block3operators"} (groter dan) en `<`{:class="block3operators"} (minder dan) operators op de juiste manier hebt gebruikt?
 
 ```blocks3
 <(health) > (0)> // means the health variable must be bigger than 0
 <(health) < (5)> // means the health variable must be smaller than 5
 ```
 
-**Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
+**Tip:** het getal dat groter moet zijn, gaat aan de bredere (grotere) kant van het functie symbool.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Nothing happens when I broadcast a message
+title: Er gebeurt niets wanneer ik een bericht uitzend
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. Check that the message names match.
+Zorg ervoor dat je een overeenkomstig `wanneer ik signaal ontvang `{:class="block3events"} blok hebt dat iets doet wanneer je `zend signaal`{:class="block3events"} blok een bericht uitzendt. Controleer of de berichtnamen overeenkomen.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Mogelijk vind je een bug die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
+Als je vast komt te zitten, probeer je code hardop te lezen of het probleem uit te leggen aan een vriend. Je zou het probleem kunnen ontdekken.
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de feedback knop onderaan deze pagina als je een andere bug in je project hebt gevonden.
 
 --- /task ---
 
