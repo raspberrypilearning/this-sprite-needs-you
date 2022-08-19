@@ -1,29 +1,29 @@
-Hello
+Bonjour
 
-name
+nom
 
-health
+santé
 
-sun
+soleil
 
-bees
+abeilles
 
-flowers
+fleurs
 
-honey
+miel
 
 fans
 
 name
 
-electricity
+électricité
 
 volume
 
-love
+amour
 
-hugs
+câlins
 
 high five
 
-kisses
+bisous
