@@ -1,87 +1,87 @@
-## Reflect
+## Αναστοχασμός
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+Ανταποκρίθηκες στη **σύνοψη έργου**; Σκέψου το έργο σου και διάβασε την παρακάτω λίστα. Έλεγξε αυτά που ισχύουν για το έργο σου.
 
-Does your project:
+Το έργο σου:
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+Χρησιμοποίησε τουλάχιστον μία `μεταβλητή`{:class="block3variables"} για να παρακολουθείς τι χρειάζεται το κύριο αντικείμενο
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+Έχεις ένα τρόπο για να αλλάζουν αυτόματα οι μεταβλητές
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+Δώσε στον χρήστη έναν τρόπο να βελτιώσει τις μεταβλητές για να δώσει στο κύριο αντικείμενο αυτό που χρειάζεται
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+Χρησιμοποίησε μπλοκ `εάν`{:class="block3control"} για να ελέγξεις πότε συμβαίνουν πράγματα
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Χρησιμοποίησε μπλοκ `μετάδωσε`{:class="block3events"} για επικοινωνία μεταξύ άλλων αντικειμένων και του κύριου αντικειμένου
 
 --- /task ---
 
-Your simulation could also:
+Η προσομοίωσή σου θα μπορούσε επίσης:
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+Να έχει ένα εκπαιδευτικό μήνυμα, όπως καλοσύνη ή διατήρηση της υγείας των καλλιεργειών
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+Να ειδοποιεί τον χρήστη όταν τα επίπεδα είναι πολύ υψηλά ή χαμηλά
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+Να επιτρέπει στον χρήστη να συνομιλεί με το αντικείμενό του ή να αλλάξει το όνομά του
+
+--- /task ---
+
+Σκέψου πώς έφτιαξες την προσομοίωσή σου, για να σε βοηθήσει στα μελλοντικά σου έργα:
 
 --- task ---
 
-How did you get your ideas? 
+Πώς σου ήρθαν οι ιδέες; 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Τι ωραία νέα πράγματα έμαθες;
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### Τώρα είσαι ο/η δημιουργός μιας προσομοίωσης!
 
-Take a moment to celebrate what you have made.
+Αφιέρωσε μια στιγμή για να απολαύσεις αυτό που έφτιαξες.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+<span style="color: #0faeb0">Οι Προσομοιώσεις υπολογιστή</span> μπορούν να μας επιτρέψουν να βιώσουμε καταστάσεις που δεν θα μπορούσαμε στην πραγματική ζωή. Υπάρχουν προσομοιώσεις υπολογιστή που επιτρέπουν στους χειρουργούς να εξασκούνται στις επεμβάσεις. Υπάρχουν προσομοιώσεις που επιτρέπουν στους μηχανικούς αεροδιαστημικής να προβλέψουν τι θα συμβεί όταν εκτοξεύσουν έναν πύραυλο και να κάνουν αλλαγές στις μεταβλητές για να δουν τι θα συμβεί. Και υπάρχουν προσομοιώσεις παιχνιδιών που σου επιτρέπουν να φροντίζεις ένα κατοικίδιο, άτομο, οικογένεια ή δουλειά. 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+Πού θα σε οδηγήσουν οι νέες σου δυνάμεις; Τι προσομοίωση θα κάνεις μετά;
 
 <!-- free text answer, 3 characters possibly -->
 
