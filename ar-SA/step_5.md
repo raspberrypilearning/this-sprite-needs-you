@@ -1,21 +1,21 @@
-## Upgrade your project
+## قم بترقية او تطوير مشروعك
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+إذا كان لديك الوقت ، يمكنك تطوير مشروعك. قد تكون لديك أفكار لإضافة المزيد بالفعل ، أو قد ترغب في العودة إلى الخطوة الأولى وإلقاء نظرة على مشاريع أخرى مرة أخرى للحصول على مزيد من الإلهام.
 
-You could:
+يمكنك:
 - Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
 - Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+- أضف المزيد من الكائنات الحية التي يمكن استخدامها للتفاعل مع كائنك الرئيسي ، مثل الأزرار أو الألعاب.
+- أضف رسومًا متحركة باستخدام `تأثيرات رسومية`{: class = "block3looks"} أو أزياء
+- أضف المزيد من `مؤثرات صوتية`{: class = "block3sound"}
 
-## Get inspiration
+## احصل على الإلهام
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+يحتوي كل مشروع كمثال في [المقدمة](.) على رابط "انظر بالداخل" لكي تفتح المشروع في Scratch ، والنظر إلى التعليمات البرمجية للحصول على أفكار ، ومعرفة كيفية عملها.
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+ألقِ نظرة على بعض **هذا الكائن يحتاجك مشروعًا** تم إنشاؤه بواسطة أعضاء المجتمع في استوديو مؤسسة Raspberry Pi Foundation المكون من **هذا الكائن يحتاجك - مشاريع المجتمع** [انظر داخل](https://scratch.mit.edu/studios/29722869/){: target = "_ blank"}.
 
-## Small improvements
+## تحسينات صغيرة
 
 When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
 
@@ -25,11 +25,11 @@ When you make a Scratch project, there are lots of ways to make sure you've done
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+Can you use marginal gains to change one thing now that will help you in future? الأشياء الذي ينبغي فعلها:
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
++ قم بتسمية جميع الكائنات المتحركة والأزياء والأصوات والمتغيرات والرسائل بشكل معقول. من الأسهل بكثير فهم المشاريع التي تستخدم أسماء مفيدة
++ املأ صفحة المشروع بعنوان جيد وإرشادات وملاحظات ، حتى يعرف المستخدمون كيفية استخدام مشروعك ومن أين حصلت على أفكار
++ أضف تعليقات قصيرة تشرح ما تقوم به التعليمات البرمجية الخاصة بك
 + Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
 
 --- /task ---
