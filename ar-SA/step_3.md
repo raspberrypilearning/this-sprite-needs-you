@@ -1,25 +1,25 @@
-## Build and test
+## بناء واختبار
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+حان الوقت الآن لإنشاء مشروعك. ابدأ بمشروع صغير ، وأضف المزيد إلى مشروعك إذا كان لديك الوقت.
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**نصيحة:** تذكر أن تختبر مشروعك في كل مرة تضيف شيئًا. من الأسهل بكثير العثور على الأخطاء وإصلاحها قبل إجراء المزيد من التغييرات.
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+سوف تحتاج إلى أن تقرر في أي ترتيب لبناء مشروعك. يمكنك:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later
++ أنشئ متغيرًا واحدًا واسمح للمستخدم بالتحكم فيه. أضف الرسوم المتحركة والأزياء والأصوات والمؤثرات والمحادثة لجعل الكائن ينبض بالحياة
++ قم بإنشاء متغيرات متعددة بطرق بسيطة يمكن للمستخدم التحكم فيها ، ثم إضافة المزيد من التأثيرات لاحقًا
 
-Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
+تعد إضافة كائن ثم إنشاء متغير ``{: class = "block3variables"} بداية رائعة.
 
 --- /task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+لقد اكتسبت بعض المهارات المفيدة حقًا. إليك تذكير لمساعدتك في صنع مشروعك:
 
-### Using variables
+### استخدام المتغيرات
 
 ```blocks3
 set [my variable v] to (0)
@@ -31,7 +31,7 @@ set [my variable v] to (0)
 
 [[[scratch3-change-variable-in-loop]]]
 
-### Checking conditions
+### التحقق من الشروط
 
 ```blocks3
 if <(my variable) = (0)> then
@@ -45,7 +45,7 @@ if <(my variable) = (0)> then
 
 [[[scratch3-set-block-input-colour-with-eyedropper]]]
 
-### Broadcasting and receiving messages
+### بث واستقبال الرسائل
 
 ```blocks3
 broadcast [message1 v]
@@ -53,7 +53,7 @@ broadcast [message1 v]
 
 [[[generic-scratch3-broadcast-message]]]
 
-### Working with text:
+### العمل مع النص:
 
 ```blocks3
 say (join[Hello ](name)) for (2) seconds
@@ -65,7 +65,7 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement, and graphic effects
+### الخلفيات والحركة والمؤثرات الرسومية
 
 ```blocks3
 set [ghost v] effect to (0)
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### الصوت:
 
 ```blocks3
 start sound (Pop v)
@@ -99,7 +99,7 @@ start sound (Pop v)
 
 [[[scratch3-text-to-speech]]]
 
-### Paint editor — backdrops and costumes
+### محرر الرسام - الخلفيات والأزياء
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -111,7 +111,7 @@ start sound (Pop v)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Scratch editor
+### محرر سكراتش
 
 [[[scratch3-copy-code]]]
 
@@ -124,34 +124,34 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game?
+**اختبار:** اعرض مشروعك على شخص آخر واطلب منه إبداء الرأي. هل تريد إجراء أي تغييرات على لعبتك؟
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة.
 
 
 --- collapse ---
 
 ---
-title: Variables aren't updating correctly
+العنوان: لا يتم تحديث المتغيرات بشكل صحيح
 ---
 
 One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
 
 + `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
++ `change`{:class="block3variables"} adds a number to a variable. إذا غيّرت `بمقدار`{: class = "block3variables"} رقمًا موجبًا ، فإن قيمة المتغير تكبر. إذا غيّرت `بمقدار`{: class = "block3variables"} رقمًا سالبًا ، فإن القيمة المتغيرة تصبح أصغر.
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
+Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. يجب أن تكون المتغيرات باللون البرتقالي:
 
 ```blocks3
 say (name) for (2) seconds
 ```
 
-**not**:
+**ليس**:
 
 ```blocks3
 say [name] for (2) seconds
@@ -162,7 +162,7 @@ say [name] for (2) seconds
 --- collapse ---
 
 ---
-title: A change only happens once instead of forever
+العنوان: التغيير يحدث مرة واحدة فقط وليس إلى الأبد
 ---
 
 Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
