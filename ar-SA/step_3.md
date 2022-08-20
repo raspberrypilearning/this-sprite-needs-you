@@ -165,17 +165,17 @@ say [name] for (2) seconds
 العنوان: التغيير يحدث مرة واحدة فقط وليس إلى الأبد
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
+Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. من الشائع حقًا أن تنسى القيام بذلك!
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Number comparisons conditions aren't working
+العنوان: شروط مقارنات الأرقام لا تعمل
 ---
 
-Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
+هل أنت متأكد من أنك استخدمت عامل التشغيل `>`{: class = "block3operators"} (أكبر من) و `<`{: class = "block3operators"} (أقل من) عامل التشغيل بالطريقة الصحيحة؟
 
 ```blocks3
 <(health) > (0)> // means the health variable must be bigger than 0
@@ -189,18 +189,18 @@ Are you sure you have used the `>`{:class="block3operators"} (greater than) and 
 --- collapse ---
 
 ---
-title: Nothing happens when I broadcast a message
+العنوان: لا شيء يحدث عندما أبث رسالة
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. Check that the message names match.
+Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. تحقق من تطابق أسماء الرسائل.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
 
-If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
+إذا واجهتك مشكلة ، فحاول قراءة النص البرمجي الخاص بك بصوت عالٍ أو شرح المشكلة لصديق. قد تكتشف المشكلة.
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+نحن نحب أن نسمع عن أخطائك وكيفية إصلاحها. استخدم إرسال ملاحظات في أسفل هذه الصفحة وأخبرنا إذا وجدت خطأً مختلفًا في مشروعك.
 
 --- /task ---
 
