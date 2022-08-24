@@ -8,10 +8,10 @@ Nu is het tijd om je project te maken. Begin klein en voeg meer toe aan je proje
 
 --- task ---
 
-Je moet beslissen in welke volgorde je je project wilt bouwen. Je zou:
+Je moet beslissen in welke volgorde je je project wilt bouwen. Je kunt:
 
-+ Maak één variabele en laat de gebruiker deze beheren. Voeg animaties, uiterlijken, geluid, effecten en conversatie toe om de sprite echt tot leven te laten komen
-+ Maak meerdere variabelen met eenvoudige manieren om ze te besturen en voeg later meer effecten toe
++ één variabele maken en de gebruiker deze laten beheren. Voeg animaties, uiterlijken, geluid, effecten en conversatie toe om de sprite echt tot leven te laten komen
++ meerdere variabelen maken met eenvoudige manieren om ze te besturen en later meer effecten toevoegen
 
 Het toevoegen van een sprite en vervolgens het maken van een `variabele`{:class="block3variables"} is een geweldig begin.
 
