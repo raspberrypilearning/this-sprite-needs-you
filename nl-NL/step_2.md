@@ -19,7 +19,7 @@ Denk aan het **doel** van je project.
 Dat kan zijn:
 - Om een nieuwe vaardigheid te leren, zoals het verzorgen van een dier of het in leven houden van een plant
 - Om een bericht te delen, zoals zorg dragen voor je geestelijke gezondheid of je buurt verbeteren
-- Om gebruikers te entertainen, door ze iets te geven waar ze meestal niet de kans voor hebben om mee te communiceren
+- Om gebruikers te vermaken, door ze iets te geven waar ze meestal niet de kans voor hebben om mee te communiceren
 
 --- /task ---
 
@@ -54,7 +54,7 @@ Gebruik je nieuwe Scratch project, een pen en papier, of allebei om je ideeën t
 
 --- task ---
 
-Wat zal je **hoofd** sprite zijn?
+Wat wordt je **belangrijkste** sprite?
 + Een personage zoals een huisdier of wild dier, of een persoon
 + Een plant of gewas dat zonlicht, water en voedingsstoffen nodig heeft
 + Een kenmerk uit de wetenschap of de natuur, zoals een regenboog of een vuur
@@ -67,11 +67,11 @@ Wat zal je **hoofd** sprite zijn?
 
 --- task ---
 
-Denk aan je **hoofd** sprite en besluit:
+Denk aan je **belangrijkste** sprite en beslis:
 
 + Welke objecten en `variabelen`{:class="block3variables"} zijn nodig?
 + Veranderen de `variabelen`{:class="block3variables"} in de loop der tijd, bijvoorbeeld om de paar seconden een toename van de honger of vermoeidheid?
-+ Hoe zal de gebruiker met de hoofdsprite communiceren? Dit kan op voedsel klikken om een dier te voeden, of met een personage praten om hun verveling te verminderen.
++ Hoe zal de gebruiker met de belangrijkste sprite communiceren? Die kan op voedsel klikken om een dier te voeden, of met een personage praten om hun verveling te verminderen.
 
 --- /task ---
 
@@ -79,7 +79,7 @@ Denk aan je **hoofd** sprite en besluit:
 
 Geef je project een titel die de gebruiker vertelt wat hij kan verwachten en waardoor hij of zij het wil uitproberen.
 
-De voorbeeldprojecten waren: **Vleermuissimulator**, **Maak een regenboog**, **Watermeloen boer**en **Muziekmachine**.
+De voorbeeldprojecten waren: **Vleermuissimulator**, **Maak een regenboog**, **Watermeloen boer** en **Muziekmachine**.
 
 ![De Scratch menubalk met projectnaam ingevuld.](images/project-name.png)
 
