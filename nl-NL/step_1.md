@@ -3,7 +3,7 @@
 Maak een virtueel huisdier, personage of natuursimulatie waarmee de gebruiker kan communiceren om het te helpen. Je spel moet voldoen aan de **projectsamenvatting**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtuele gezelschapsspelen</span> zijn een soort spel waarbij gebruikers met personages communiceren om aan de behoeften van de personages te voldoen. Je hebt misschien met een kleine Tamagotchi gespeeld of games zoals Catz of Adopt me! gespeeld op een computer. Ken je misschien nog andere virtuele huisdier spelletjes?
+<span style="color: #0faeb0">Virtuele gezelschapsspelen</span> zijn een soort spel waarbij gebruikers met personages communiceren om aan de behoeften van de personages te voldoen. Je hebt misschien met een kleine Tamagotchi gespeeld of games zoals Catz of Adopt me! gespeeld op een computer. Ken je misschien nog andere virtuele huisdierspelletjes?
 </p>
 
 Je gaat:
@@ -23,7 +23,7 @@ Communiceren met Cricket de vleermuis. Wat gebeurt er als je op de voedsel- of w
 </div>
 <div>
 
-**vleermuis simulator**: [Zie binnenkant](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
+**vleermuis simulator**: [Bekijk van binnen](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -45,12 +45,13 @@ Je simulatie moet:
 + gebruik maken van ten minste één 'variabele'{:class="block3variables"} om bij te houden wat de belangrijkste sprite nodig heeft
 + een manier hebben om de variabele(n) automatisch te laten veranderen
 + de gebruiker een manier geven om de variabelen te verbeteren om de belangrijkste sprite te geven wat het nodig heeft
-+ gebruik 'als'{:class="block3control"} blokken om te regelen wanneer dingen gebeuren
-+ gebruik blokken 'zend signaal'{:class="block3events"} om te communiceren tussen andere sprites en de belangrijkste sprite
++ 'als'{:class="block3control"} blokken gebruiken om te regelen wanneer dingen gebeuren
++ 'zend signaal'{:class="block3events"} blokken gebruiken om te communiceren tussen andere sprites en de belangrijkste sprite
 
 Je simulatie zou:
 + een bericht kunnen hebben, zoals vriendelijkheid of het gezond houden van gewassen
-+ de gebruiker kunnen waarschuwen wanneer de niveaus te hoog of te laag zijn + de gebruiker met zijn sprite kunnen laten chatten of zijn naam veranderen
++ de gebruiker kunnen waarschuwen wanneer de niveaus te hoog of te laag zijn
++ de gebruiker met zijn sprite kunnen laten chatten of zijn naam veranderen
 </div>
 
 --- no-print ---
@@ -61,7 +62,7 @@ Je simulatie zou:
 
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
 
-**Maak een regenboog**: [See Inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
+**Maak een regenboog**: [Bekijk van binnen](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
