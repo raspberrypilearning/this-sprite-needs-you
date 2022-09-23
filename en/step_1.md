@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
 
@@ -17,7 +17,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### Play ▶️ 
 
 Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
 
@@ -57,7 +57,7 @@ Your simulation could:
 
 --- no-print ---
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
@@ -83,6 +83,8 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 --- /no-print ---
 
 --- print-only ---
+
+### Get ideas 💭
 
 Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for. 
 
