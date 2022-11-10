@@ -1,87 +1,87 @@
-## Reflect
+## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de verificación a continuación. Marca las que correspondan a tu proyecto.
 
-Does your project:
+¿Tu proyecto:
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+Usa al menos una variable ``{:class="block3variables"} para realizar un seguimiento de lo que necesita el objeto principal?
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+Tiene una forma para que la(s) variable(s) cambie(n) automáticamente?
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+Brinda al usuario una forma de mejorar las variables para darle al objeto principal lo que necesita?
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+Usa bloques `si`{:class="block3control"} para controlar cuándo suceden las cosas?
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Usa bloques `enviar`{:class="block3events"} para comunicarse entre otros objetos y el objeto principal?
 
 --- /task ---
 
-Your simulation could also:
+Tu simulación también podría:
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+Tener un mensaje educativo, como bondad o mantener los cultivos saludables
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+Alertar al usuario cuando los niveles son demasiado altos o bajos
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+Permitir que el usuario chatee con su objeto o cambiar su nombre
+
+--- /task ---
+
+Reflexiona sobre cómo hiciste tu simulación para ayudarte en tus proyectos futuros:
 
 --- task ---
 
-How did you get your ideas? 
+¿Cómo obtuviste tus ideas? 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+¿Qué cosas nuevas y geniales aprendiste?
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### ¡Ahora eres el creador de una simulación!
 
-Take a moment to celebrate what you have made.
+Tómate un momento para celebrar lo que has hecho.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+<span style="color: #0faeb0">Las simulaciones por computadora</span> pueden permitirnos experimentar situaciones que no podríamos en la vida real. Existen simulaciones por computadora que permiten a los cirujanos practicar operaciones. Hay simulaciones que permiten a los ingenieros espaciales predecir qué sucederá cuando lanzan un cohete y realizar cambios en las variables para ver qué sucede. Y hay simulaciones de juegos que te permiten cuidar de una mascota, una persona, una familia o un trabajo. 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+¿Dónde usarás tus nuevos poderes? ¿Qué simulación harás a continuación?
 
 <!-- free text answer, 3 characters possibly -->
 
