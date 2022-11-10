@@ -1,29 +1,29 @@
-Hello
+Hola
+
+nombre
+
+salud
+
+sol
+
+abejas
+
+flores
+
+miel
+
+ventiladores
 
 name
 
-health
+electricidad
 
-sun
+volumen
 
-bees
+amor
 
-flowers
+abrazos
 
-honey
+choca esos cinco
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+besos
