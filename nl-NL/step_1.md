@@ -1,4 +1,4 @@
-## Inleiding
+## You will make
 
 Maak een virtueel huisdier, personage of natuursimulatie waarmee de gebruiker kan communiceren om het te helpen. Je spel moet voldoen aan de **projectsamenvatting**.
 
@@ -16,9 +16,9 @@ Je gaat:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Probeer het
+### Play ▶️ 
 
-Communiceren met Cricket de vleermuis. Wat gebeurt er als je op de voedsel- of watersprites klikt? Hoe kun je zien of de vleermuis hongerig of dorstig is?
+Interact with Cricket the bat. Wat gebeurt er als je op de voedsel- of watersprites klikt? Hoe kun je zien of de vleermuis hongerig of dorstig is?
 
 </div>
 <div>
@@ -56,7 +56,7 @@ Je simulatie zou:
 
 --- no-print ---
 
-### Doe inspiratie op
+### Get ideas 💭
 
 --- task ---
 
@@ -82,6 +82,8 @@ Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat d
 --- /no-print ---
 
 --- print-only ---
+
+### Get ideas 💭
 
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
 
