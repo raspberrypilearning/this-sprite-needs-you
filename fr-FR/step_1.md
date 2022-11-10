@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 Crée une simulation virtuelle d'animal de compagnie, de personnage ou de nature avec laquelle l'utilisateur peut interagir pour l'aider. Ton jeu devra respecter la **fiche de projet**.
 
@@ -16,9 +16,9 @@ Tu vas devoir :
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Essaie-le
+### Play ▶️ 
 
-Interagis avec Criquet la chauve-souris. Que se passe-t-il si tu cliques sur les sprites de nourriture ou d'eau ? Comment peux-tu savoir si la chauve-souris a faim ou soif ?
+Interact with Cricket the bat. Que se passe-t-il si tu cliques sur les sprites de nourriture ou d'eau ? Comment peux-tu savoir si la chauve-souris a faim ou soif ?
 
 </div>
 <div>
@@ -56,7 +56,7 @@ Ta simulation pourrait :
 
 --- no-print ---
 
-### Trouver l'inspiration
+### Get ideas 💭
 
 --- task ---
 
@@ -82,6 +82,8 @@ Pense à ce que tu vas choisir comme sprite principal. Il peut s'agir d'un anima
 --- /no-print ---
 
 --- print-only ---
+
+### Get ideas 💭
 
 Pense à ce que tu vas choisir comme sprite principal. Il peut s'agir d'un animal de compagnie dont l'utilisateur s'occupe, d'une personne que l'utilisateur aide à prendre de bonnes décisions, d'une plante ou d'une culture que l'utilisateur aide à faire pousser, ou d'un objet naturel ou imaginaire pour lequel l'utilisateur doit créer de bonnes conditions.
 
