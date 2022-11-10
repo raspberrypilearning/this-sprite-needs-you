@@ -5,10 +5,10 @@ description: Maak een virtueel huisdier, personage of natuursimulatie waarmee de
 version: 4
 listed: true
 copyedit: false
-last_tested: '2021-03-26'
+last_tested: "2021-03-26"
 steps:
   - 
-    title: Inleiding
+    title: You will make
   - 
     title: Jouw idee
   - 
@@ -17,7 +17,7 @@ steps:
       - engaged
       - internal
   - 
-    title: Reflecteer
+    title: Checklist
     completion:
       - external
   - 
