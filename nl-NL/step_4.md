@@ -1,4 +1,4 @@
-## Reflecteer
+## Checklist
 
 Voldoet je project aan de **projectbeschrijving**? Denk aan je project en doorloop de onderstaande checklist. Vink degenen aan die van toepassing zijn op je project.
 
