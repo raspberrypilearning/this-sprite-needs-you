@@ -5,10 +5,10 @@ description: Δημιούργησε ένα εικονικό κατοικίδιο
 version: 4
 listed: true
 copyedit: false
-last_tested: '2021-03-26'
+last_tested: "2021-03-26"
 steps:
   - 
-    title: Εισαγωγή
+    title: You will make
   - 
     title: Η ιδέα σου
   - 
@@ -17,7 +17,7 @@ steps:
       - engaged
       - internal
   - 
-    title: Αναστοχασμός
+    title: Checklist
     completion:
       - external
   - 
