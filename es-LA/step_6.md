@@ -1,22 +1,22 @@
-## Share
+## Comparte
 
-Now is the time to share your simulation so that users can try it.
+Ahora es el momento de compartir tu simulación para que los usuarios puedan probarla.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
+Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Consulta primero con un adulto. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto para probarlo. Asegúrate de completar la sección **Instrucciones**, para que los usuarios sepan lo que deben hacer para ayudar a tu objeto principal.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cómo te divertiste.
 
-If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
+Si tienes una cuenta de Scratch y has compartido su proyecto, mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Reporta e ignora cualquier comentario que no sea útil o relevante.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire others with your project by submitting it to our Scratch studio!
+¡Inspira a otros con tu proyecto enviándolo a nuestro estudio Scratch!
 
-To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+Para compartir tu proyecto con otras personas que hacen el proyecto 'Este objeto te necesita', completa [este formulario.](https://form.raspberrypi.org/f/community-project-submissions){:objetivo="_blank"}
 
 --- /task ---
 
