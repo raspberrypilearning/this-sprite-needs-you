@@ -1,9 +1,9 @@
 ## You will make
 
-قم بإنشاء حيوان أليف افتراضي أو شخصية أو محاكاة طبيعية يمكن للمستخدم التفاعل معها لمساعدتها. ستحتاج لعبتك إلى تلبية **ملخص المشروع**.
+Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">ألعاب الحيوانات الأليفة الافتراضية</span> هي نوع واحد من الألعاب حيث يتفاعل المستخدمون مع الشخصيات لتلبية احتياجات الشخصيات. ربما تكون قد لعبت مع تماغوتشي صغيرة محمولة أو استمتعت بألعاب مثل كاتز وتبني لي! على جهاز كمبيوتر. هل يمكنك التفكير في أي ألعاب حيوانات أليفة افتراضية أخرى؟
+<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. هل يمكنك التفكير في أي ألعاب حيوانات أليفة افتراضية أخرى؟
 </p>
 
 سوف تفعلها:
@@ -16,9 +16,9 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### جربها
 
-Interact with Cricket the bat. ماذا يحدث إذا نقرت على الطعام أو العفاريت المائية؟ كيف يمكنك معرفة ما إذا كان الخفاش جائعًا أم عطشانًا؟
+تفاعل مع الكريكيت الخفافيش. ماذا يحدث إذا نقرت على الطعام أو العفاريت المائية؟ كيف يمكنك معرفة ما إذا كان الخفاش جائعًا أم عطشانًا؟
 
 </div>
 <div>
