@@ -1,4 +1,4 @@
-## You will make
+## Lo que harás
 
 Crea una mascota virtual, un personaje o una simulación de la naturaleza con la que el usuario pueda interactuar para ayudarlo. Tu juego deberá cumplir con el **resumen del proyecto**.
 
@@ -16,9 +16,9 @@ Vas a:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Reproducir ▶️
 
-Interact with Cricket the bat. ¿Qué sucede si haces clic en los objetos de comida o agua? ¿Cómo puedes saber si el murciélago tiene hambre o sed?
+Interactúa con Cricket el murciélago. ¿Qué sucede si haces clic en los objetos de comida o agua? ¿Cómo puedes saber si el murciélago tiene hambre o sed?
 
 </div>
 <div>
@@ -56,7 +56,7 @@ Tu simulación podría:
 
 --- no-print ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 --- task ---
 
@@ -83,7 +83,7 @@ Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el
 
 --- print-only ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el usuario cuida, una persona a la que el usuario ayuda a tomar buenas decisiones, una planta o un cultivo que el usuario ayuda a cultivar, o un objeto de la naturaleza o de fantasía para el cual el usuario necesita crear las condiciones adecuadas.
 
