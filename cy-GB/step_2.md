@@ -1,89 +1,89 @@
-## Your idea
+## Dy syniad di
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Cynllunia dy anifail anwes rhithwir, cymeriad, neu efelychiad o fyd natur. Bydd yn rhaid i'r defnyddiwr greu'r amodau cywir i fodloni anghenion y prif gorlun. Efallai bydd dy brif gorlun yn mynd yn fwy, yn ennill profiad, yn gwella ei iechyd, neu rywbeth arall.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Fe alli di gynllunio drwy feddwl, rhoi cynnig ar bethau, darlunio neu ysgrifennu, neu sut bynnag dymuni di!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+Pan fydd <span style="color: #0faeb0">anghenion sylfaenol</span> fel bwyd a diogelwch yn cael eu bodloni, rydyn ni'n creu'r amodau cywir i greaduriaid (gan gynnwys ni ein hunain) ddysgu a thyfu. Felly y tro nesaf byddi di'n teimlo'n flin neu'n methu canolbwyntio, gwna'n siŵr fod dy anghenion sylfaenol wedi'u bodloni.  
 </p>
 
-### Why are you making your project?
+### Pam wyt ti'n gwneud dy brosiect?
 
 --- task ---
 
-Think about the **purpose** of your project.
+Meddylia am **bwrpas** dy brosiect.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+Gallai fod:
+- I ddysgu sgil newydd, fel gofalu am anifail neu gadw planhigyn yn fyw
+- I rannu neges, fel gofalu am dy iechyd meddwl neu wella dy ardal
+- I ddifyrru defnyddwyr, drwy roi rhywbeth iddyn nhw na fydden nhw fel arfer yn cael y cyfle i'w brofi
 
 --- /task ---
 
-### Who is it for?
+### Ar gyfer pwy mae'r prosiect?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Meddylia i bwy byddi di'n creu dy brosiect (dy **gynulleidfa**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Bydd adnabod dy gynulleidfa yn dy helpu di i ddylunio prosiect y byddan nhw eisiau ei chwarae dro ar ôl tro.
 
 --- /task ---
 
-### Get started
+### Sut i ddechrau
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Agora [brosiect Scratch newydd](http://rpf.io/scratch-new){:target="_blank"}. Bydd Scratch yn agor mewn tab arall ar y porwr.
 
 --- collapse ---
 ---
-title: Working offline
+title: Gweithio all-lein
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+I osod Scratch i'w ddefnyddio all-lein cer i [ein canllaw Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Defnyddia dy brosiect Scratch newydd, beiro a phapur, neu'r ddau i gynllunio dy syniadau.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Beth fydd dy **brif** gorlun?
++ Cymeriad fel anifail anwes neu anifail gwyllt, neu berson
++ Planhigyn neu gnwd sydd angen golau haul, dŵr, a maeth
++ Nodwedd o fyd wyddoniaeth neu natur, fel enfys neu dân
++ Peiriant, fel llong danfor neu beiriant ailgylchu
++ Neu rywbeth arall
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Rhai enghreifftiau o gorluniau galli di eu defnyddio; cranc, coeden, y byd, gliniadur.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Meddylia am dy **brif** gorlun a phenderfynu:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Pa wrthrychau a `newidynnau`{:class="block3variables"} allai fod eu hangen?
++ Fydd y `newidynnau`{:class="block3variables"} yn newid dros amser, er enghraifft gyda newyn neu flinder yn cynyddu bob ychydig eiliadau?
++ Sut bydd y defnyddiwr yn rhyngweithio â'r prif gorlun? Gallai hyn olygu clicio ar fwyd i fwydo anifail, neu sgwrsio â chymeriad i leihau ei ddiflastod.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+Rho deitl i dy brosiect sy'n dweud wrth y defnyddiwr beth i'w ddisgwyl, ac fydd yn ei berswadio i roi cynnig arno.
+
+Y prosiectau enghreifftiol oedd: **Efelychydd ystlumod**, **Creu enfys**, **Ffermwr Melonau Dŵr**, a **Peiriant Miwsig**.
+
+![Bar dewislen Scratch gyda theitl enw'r prosiect wedi'i lenwi.](images/project-name.png)
+
+Galli di bob amser ddiweddaru'r teitl yn nes ymlaen os wyt ti'n meddwl am un gwell.
 
 --- /task ---
 
