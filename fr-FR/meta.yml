@@ -1,7 +1,9 @@
 ---
 title: Ce sprite a besoin de toi
 hero_image: images/banner.png
-description: Créer une simulation virtuelle d'animal de compagnie, de personnage ou de nature avec laquelle l'utilisateur peut interagir pour l'aider.
+description:
+  - 
+  - 
 version: 4
 listed: true
 copyedit: false
