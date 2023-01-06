@@ -1,36 +1,36 @@
-## Upgrade your project
+## Uwchraddio dy brosiect
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Os oes gen ti amser, galli di uwchraddio dy brosiect. Efallai fod gen ti syniadau i ychwanegu mwy yn barod, neu efallai hoffet ti fynd yn ôl i'r cam cyntaf ac edrych ar brosiectau eraill eto am fwy o ysbrydoliaeth.
 
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+Gallet ti:
+- Ychwanegu mwy o `newidynnau`{:class="block3variables"} sy'n cynrychioli'r pethau mae dy brif gorlun eu heisiau neu eu hangen.
+- Gwirio mwy o **amodau** gan ddefnyddio datganiadau `os`{:class="block3control"}, a gwneud i dy gorlun wneud pethau gwahanol gan ddibynnu a ydy'r cyflwr yn wir neu'n anwir
+- Ychwanegu mwy o gorluniau mae modd eu defnyddio i ryngweithio â dy brif gorlun, fel botymau neu deganau.
+- Ychwanegu animeiddiadau gan ddefnyddio `effeithiau graffeg`{:class="block3looks"} neu wisgoedd
+- Ychwanegu mwy o `effeithiau sain`{:class="block3sound"}
 
-## Get inspiration
+## Cael ysbrydoliaeth
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+Mae gan bob prosiect enghreifftiol yn y [Cyflwyniad](.) ddolen Gweld tu mewn er mwyn i ti allu agor y prosiect yn Scratch, edrych ar y cod i gael syniadau, a gweld sut maen nhw'n gweithio.
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+Cymer olwg ar rai o'r prosiectau **Mae'r corlun hwn dy angen di** sydd wedi'u creu gan aelodau'r gymuned yn stiwdio Raspberry Pi Foundation **Mae'r corlun hwn dy angen di - Prosiect Cymunedol** [Gweld tu mewn](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
 
-## Small improvements
+## Gwelliannau bach
 
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
+Pan fyddi di'n creu prosiect Scratch, mae yna lawer o ffyrdd i wneud yn siŵr dy fod ti wedi gwneud gwaith da.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
+Mae <span style="color: #0faeb0">enillion ymylol</span> yn uwchraddiadau bach sydd ddim yn gwneud llawer o wahaniaeth ar eu pennau eu hunain, ond o'u hychwanegu at ei gilydd, sy'n gwneud gwelliant mawr i ansawdd dy waith a chyflymder unrhyw newidiadau. 
 </p>
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+Alli di ddefnyddio enillion ymylol i newid un peth nawr a fydd yn dy helpu yn y dyfodol? Pethau i'w gwneud:
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
++ Rho enwau call i'r holl gorluniau, gwisgoedd, seiniau, newidynnau a negeseuon. Mae'n llawer haws deall prosiectau sy'n defnyddio enwau defnyddiol
++ Llenwa Dudalen y Prosiect gyda theitl, cyfarwyddiadau a nodiadau da fel bod defnyddwyr yn gwybod sut i ddefnyddio dy brosiect ac o ble ges di dy syniadau
++ Ychwanega sylwadau byr sy'n egluro beth mae dy god yn ei wneud
++ Gwna'n siŵr fod dy sgriptiau'n daclus yn y tab **Cod**. Galli di dde-glicio a dewis **Glanhau'r Blociau** neu drefnu'r sgriptiau mewn ffordd sy'n gwneud synnwyr i ti. Ceisia roi sgriptiau tebyg gyda'i gilydd.
 
 --- /task ---
 
