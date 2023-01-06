@@ -1,25 +1,25 @@
-## Build and test
+## Adeiladu a phrofi
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Nawr mae'n bryd creu dy brosiect. Dechreua yn fach, ac ychwanegu mwy at dy brosiect os oes gen ti amser.
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Awgrym:** Cofia brofi dy brosiect bob tro y byddi di'n ychwanegu rhywbeth. Mae'n llawer haws dod o hyd i chwilod a'u trwsio cyn i ti wneud mwy o newidiadau.
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+Bydd angen i ti benderfynu ym mha drefn rwyt ti am adeiladu dy brosiect. Gallet ti:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later
++ Creu un newidyn a chaniatáu i'r defnyddiwr ei reoli. Ychwanega animeiddiadau, gwisgoedd, sain, effeithiau, a sgwrs i wneud i'r corlun ddod yn fyw
++ Creu mwy nag un newidyn gyda ffyrdd syml i'r defnyddiwr eu rheoli, ac yna ychwanegu mwy o effeithiau yn nes ymlaen
 
-Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
+Mae ychwanegu corlun ac yna creu `newidyn`{:class="block3variables"} yn ddechrau gwych.
 
 --- /task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+Rwyt ti wedi meithrin sgiliau defnyddiol iawn. Dyma dy atgoffa i dy helpu i greu dy brosiect:
 
-### Using variables
+### Defnyddio newidynnau
 
 ```blocks3
 set [my variable v] to (0)
@@ -31,7 +31,7 @@ set [my variable v] to (0)
 
 [[[scratch3-change-variable-in-loop]]]
 
-### Checking conditions
+### Gwirio amodau
 
 ```blocks3
 if <(my variable) = (0)> then
@@ -45,7 +45,7 @@ if <(my variable) = (0)> then
 
 [[[scratch3-set-block-input-colour-with-eyedropper]]]
 
-### Broadcasting and receiving messages
+### Darlledu a derbyn negeseuon
 
 ```blocks3
 broadcast [message1 v]
@@ -53,7 +53,7 @@ broadcast [message1 v]
 
 [[[generic-scratch3-broadcast-message]]]
 
-### Working with text:
+### Gweithio gyda thestun:
 
 ```blocks3
 say (join[Hello ](name)) for (2) seconds
@@ -65,7 +65,7 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement, and graphic effects
+### Cefnlenni, symud, ac effeithiau graffeg
 
 ```blocks3
 set [ghost v] effect to (0)
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### Sain:
 
 ```blocks3
 start sound (Pop v)
@@ -99,7 +99,7 @@ start sound (Pop v)
 
 [[[scratch3-text-to-speech]]]
 
-### Paint editor — backdrops and costumes
+### Y Golygydd Paent - cefnlenni a gwisgoedd
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -111,7 +111,7 @@ start sound (Pop v)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Scratch editor
+### Golygydd Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -124,34 +124,34 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game?
+**Profi:** Dangosa dy brosiect i rywun arall a gofyn am eu hadborth. Wyt ti am wneud unrhyw newidiadau i dy gêm?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Difa chwilod:** Efallai bydd angen i ti drwsio chwilod yn dy brosiect. Dyma rai chwilod cyffredin.
 
 
 --- collapse ---
 
 ---
-title: Variables aren't updating correctly
+title: Dydy newidynnau ddim yn cael eu diweddaru'n gywir
 ---
 
-One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
+Un camgymeriad cyffredin yw drysu rhwng y blociau `newid`{:class="block3variables"} a `gosod`{:class="block3variables"}.
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
++ Mae `gosod`{:class="block3variables"} yn disodli gwerth newidyn gyda gwerth newydd.
++ Mae `newid`{:class="block3variables"} yn ychwanegu rhif at newidyn. Os wyt ti'n `newid gan`{:class="block3variables"} rhif positif, bydd gwerth y newidyn yn mynd yn fwy. Os wyt ti'n `newid gan`{:class="block3variables"} rhif negatif, bydd gwerth y newidyn yn mynd yn llai.
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
+Problem gyffredin arall yw teipio enw newidyn yn lle llusgo'r newidyn o'r ddewislen blociau `Newidynnau`{:class="block3variables"}. Dylai newidynnau fod yn oren:
 
 ```blocks3
 say (name) for (2) seconds
 ```
 
-**not**:
+**nid**:
 
 ```blocks3
 say [name] for (2) seconds
@@ -162,45 +162,45 @@ say [name] for (2) seconds
 --- collapse ---
 
 ---
-title: A change only happens once instead of forever
+title: Dim ond unwaith mae newid yn digwydd, dim am byth
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
+Gwna'n siŵr dy fod ti wedi gosod blociau cod sydd angen dal ati i redeg y tu mewn i floc `am byth`{:class="block3control"}. Mae'n gyffredin iawn anghofio gwneud hyn!
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Number comparisons conditions aren't working
+teitl: Dydy amodau cymharu rhifau ddim yn gweithio
 ---
 
-Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
+Wyt ti'n siŵr dy fod ti wedi defnyddio'r gweithredwyr `>`{:class="block3operators"} (mwy na) a `<`{:class="block3operators"} (llai na) yn y drefn gywir?
 
 ```blocks3
 <(health) > (0)> // means the health variable must be bigger than 0
 <(health) < (5)> // means the health variable must be smaller than 5
 ```
 
-**Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
+**Awgrym:** Mae'r rhif sy'n gorfod bod yn fwy yn mynd ar ochr lletach (mwy) y symbol gweithredu.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Nothing happens when I broadcast a message
+title: Does dim byd yn digwydd pan dwi'n darlledu neges
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. Check that the message names match.
+Gwna'n siŵr fod gen ti floc `pan fyddaf yn derbyn`{:class="block3events"} cyfatebol sy'n gwneud rhywbeth pan fyddi di'n `darlledu`{:class="block3events"} neges. Gwiria fod enwau'r negeseuon yn cyfateb.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Efallai byddi di'n dod o hyd i chwilen sydd ddim wedi'i rhestru yma. Alli di weithio allan sut i'w thrwsio?
 
-If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
+Os wyt ti'n cael trafferth, rho gynnig ar ddarllen dy god yn uchel neu esbonio'r broblem i ffrind. Efallai gweli di'r broblem.
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Rydyn ni wrth ein bodd yn clywed am eich chwilod chi a sut gwnaethoch chi eu trwsio. Defnyddia'r botwm Adborth ar waelod y dudalen hon os wnes di ddod ar draws chwilen wahanol yn dy brosiect.
 
 --- /task ---
 
