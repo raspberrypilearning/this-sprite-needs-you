@@ -1,7 +1,9 @@
 ---
 title: هذا الكائن يحتاجك
 hero_image: images/banner.png
-description: قم بإنشاء حيوان أليف افتراضي أو شخصية أو محاكاة طبيعية يمكن للمستخدم التفاعل معها لمساعدتها.
+description:
+  - 
+  - 
 version: 4
 listed: true
 copyedit: false
