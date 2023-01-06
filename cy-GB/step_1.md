@@ -1,29 +1,29 @@
-## You will make
+## Byddi di'n creu
 
-Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+Creu anifail anwes rhithwir, cymeriad, neu efelychiad o fyd natur y gall y defnyddiwr ryngweithio ag ef i'w helpu. Bydd angen i dy gêm fodloni **briff y prosiect**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
+Mae <span style="color: #0faeb0">gemau anifeiliaid anwes rhithwir</span> yn un math o gêm lle mae defnyddwyr yn rhyngweithio â chymeriadau i ddiwallu eu hanghenion. Efallai dy fod ti wedi chwarae gyda Tamagotchi neu wedi mwynhau gemau fel Catz ac Adopt me! ar gyfrifiadur. Alli di feddwl am unrhyw gemau anifeiliaid anwes rhithwir eraill?
 </p>
 
-You will:
-+ Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
-+ Understand how characters in games and apps are controlled by algorithms
+Byddi di'n:
++ Creu cymeriad neu efelychiad sy'n hwyl neu'n ddiddorol i chwarae â nhw
++ Defnyddio unrhyw gyfuniad o flociau `newidyn`{:class="block3variables"}, `darlledu`{:class="block3events"}, ac `os`{:class="block3control"}, ynghyd â'r sgiliau rwyt ti wedi'u dysgu eisoes, i alluogi defnyddiwr i ddiwallu anghenion cymeriad
++ Deall sut mae cymeriadau mewn gemau ac apiau yn cael eu rheoli gan algorithmau
 
 --- no-print --- --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Chwarae ▶️ 
 
-Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
+Rhyngweithia gyda Criced yr ystlum. Beth sy'n digwydd os wyt ti'n clicio ar y corluniau bwyd neu ddŵr? Sut alli di ddweud os ydy'r ystlum yn newynog neu'n sychedig?
 
 </div>
 <div>
 
-**Bat simulator**: [See inside](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
+**Efelychydd ystlumod**: [Gweld tu mewn](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,42 +37,42 @@ Interact with Cricket the bat. What happens if you click on the food or water sp
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Help me grow
+### BRIFF Y PROSIECT: Helpwch fi i dyfu
 <hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
+Mae angen creu anifail anwes rhithwir, planhigyn neu efelychiad arall y gall y defnyddiwr ryngweithio ag ef i ddiwallu ei anghenion. Byddi di'n defnyddio **newidynnau** i gadw golwg ar berfformiad dy brif gorlun. Gall fod yn hapus, yn ddiflas, yn sychedig neu'n gysglyd. 
 
-Your simulation should:
-+ Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
-+ Have a way for the variable(s) to change automatically
-+ Give the user a way to improve the variables to give the main sprite what it needs
-+ Use `if`{:class="block3control"} blocks to control when things happen
-+ Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Dylai dy efelychiad:
++ Ddefnyddio o leiaf un `newidyn`{:class="block3variables"} i gadw golwg ar yr hyn sydd ei angen ar y prif gorlun
++ Cael ffordd i'r newidyn(au) newid yn awtomatig
++ Cynnig ffordd i'r defnyddiwr wella'r newidynnau er mwyn rhoi'r hyn sydd ei angen i'r prif gorlun
++ Defnyddio blociau `os`{:class="block3control"} i reoli pryd mae pethau'n digwydd
++ Defnyddio blociau `darlledu`{:class="block3events"} i gyfathrebu rhwng corlunau eraill a'r prif corlun
 
-Your simulation could:
-+ Have a message, such as kindness or keeping crops healthy
-+ Alert the user when levels are too high or low
-+ Allow the user to chat with their sprite, or change its name
+Gallai eich efelychiad:
++ Gael neges, megis pwysigrwydd bod yn garedig neu gadw cnydau'n iach
++ Rhybuddio'r defnyddiwr pan fydd lefelau'n rhy uchel neu'n isel
++ Caniatáu i'r defnyddiwr sgwrsio â'i gorlun, neu newid ei enw
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Cael ysbrydoliaeth 💭
 
 --- task ---
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes mae'r defnyddiwr yn gofalu amdano, yn berson mae'r defnyddiwr yn ei helpu i wneud penderfyniadau da, yn blanhigyn neu gnwd mae'r defnyddiwr yn helpu i'w dyfu, neu'n wrthrych natur neu ffantasi y mae angen i'r defnyddiwr greu'r amodau cywir ar ei gyfer.
 
-**Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
+**Creu enfys**: [Gweld tu mewn](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Watermelon farmer**: [See inside](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
+**Ffermwr melonau dŵr**: [Gweld tu mewn](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Music machine**: [See inside](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**Peiriant miwsig**: [Gweld tu mewn](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -83,13 +83,13 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 --- print-only ---
 
-### Get ideas 💭
+### Cael ysbrydoliaeth 💭
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes mae'r defnyddiwr yn gofalu amdano, yn berson mae'r defnyddiwr yn ei helpu i wneud penderfyniadau da, yn blanhigyn neu gnwd mae'r defnyddiwr yn helpu i'w dyfu, neu'n wrthrych natur neu ffantasi y mae angen i'r defnyddiwr greu'r amodau cywir ar ei gyfer.
 
-**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+Galli di **Weld tu mewn i** brosiect enghreifftiol yn y stiwdio Scratch 'Mae'r corlun hwn dy angen di - Enghreifftiau': https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/music-project.png) ![Complete project](images/rainbow-project.png)
+![Cwblhau'r prosiect](images/bat-project.png) ![Cwblhau'r prosiect](images/watermelon-project.png) ![Cwblhau'r prosiect](images/music-project.png) ![Cwblhau'r prosiect](images/rainbow-project.png)
 
 --- /print-only ---
 
