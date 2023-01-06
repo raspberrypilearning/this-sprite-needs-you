@@ -1,87 +1,87 @@
-## Checklist
+## Rhestr wirio
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+Wnes di fodloni **briff y prosiect**? Meddylia am dy brosiect a cer drwy'r rhestr wirio isod. Gwiria'r rhai sy'n berthnasol i dy brosiect.
 
-Does your project:
+Ydy dy brosiect yn:
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+Defnyddio o leiaf un `newidyn`{:class="block3variables"} i gadw golwg ar yr hyn sydd ei angen ar y prif gorlun
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+Cynnwys ffordd i'r newidynnau newid yn awtomatig
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+Cynnig ffordd i'r defnyddiwr wella'r newidynnau i roi'r hyn sydd ei angen i'r prif gorlun
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+Defnyddio blociau rheoli `os`{:class="block3control"} i reoli pryd bydd pethau'n digwydd
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Defnyddio blociau `darlledu`{:class="block3events"} i gyfathrebu rhwng corluniau eraill a'r prif gorlun
 
 --- /task ---
 
-Your simulation could also:
+Gallai dy efelychiad hefyd:
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+Gynnwys neges addysgiadol, fel pwysigrwydd bod yn garedig neu gadw cnydau'n iach
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+Rhoi gwybod i'r defnyddiwr pan fydd lefelau'n rhy uchel neu'n rhy isel
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+Caniatáu i'r defnyddiwr sgwrsio â'i gorlun, neu newid ei enw
+
+--- /task ---
+
+Myfyria ar sut wnes di greu dy efelychiad er mwyn dy helpu yn dy brosiectau yn y dyfodol:
 
 --- task ---
 
-How did you get your ideas? 
+Sut wnes di gael dy syniadau? 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Pa bethau newydd cŵl wnes di eu dysgu?
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### Rwyt ti wedi creu efelychiad!
 
-Take a moment to celebrate what you have made.
+Cymer eiliad i ddathlu'r hyn rwyt ti wedi'i wneud.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+Mae <span style="color: #0faeb0">efelychiadau cyfrifiadurol</span> yn gallu ein galluogi ni i brofi sefyllfaoedd na allen ni mewn bywyd go iawn. Mae efelychiadau cyfrifiadurol sy'n caniatáu i lawfeddygon ymarfer llawdriniaethau. Mae efelychiadau sy'n caniatáu i beirianwyr gofod ragweld beth fydd yn digwydd pan fyddan nhw'n lansio roced, a gwneud newidiadau i'r newidynnau i weld beth fydd yn digwydd. Ac mae efelychiadau mewn gemau sy'n dy alluogi i ofalu am anifail anwes, person, teulu neu swydd. 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+Ble fyddi di'n cymryd dy bwerau newydd? Pa efelychiad fyddi di'n ei greu nesaf?
 
 <!-- free text answer, 3 characters possibly -->
 
