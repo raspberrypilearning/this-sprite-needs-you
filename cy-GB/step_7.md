@@ -1,12 +1,12 @@
-## What next?
+## Beth nesaf?
 
-You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! Try using Scratch to make more cool stuff.
+Rwyt ti wedi cyrraed diwedd y llwybr [Mwy o Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch)! Rho gynnig ar ddefnyddio Scratch i wneud mwy o bethau cŵl.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) path!
+I ddysgu mwy o sgiliau, er mwyn i ti ddod â dy holl syniadau yn fyw yn Scratch, symuda ymlaen i'n llwybr [Scratch Pellach](https://projects.raspberrypi.org/en/pathways/further-scratch)!
 
-If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+Os wyt ti eisiau cael dy atgoffa o'r hyn rwyt ti wedi'i ddysgu, cer i'n [Canllaw 'Dechrau arni gyda Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+Galli di hefyd archwilio ein [prosiectau Scratch eraill](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) a rhoi cynnig arnyn nhw.
 
