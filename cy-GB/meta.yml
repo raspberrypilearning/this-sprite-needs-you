@@ -1,28 +1,30 @@
 ---
-title: This sprite needs you
+title: Mae'r corlun hwn dy angen di
 hero_image: images/banner.png
-description: Create a virtual pet, character, or nature simulation that the user can interact with to help it.
+description:
+  - 
+  - 
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: You will make
+    title: Byddi di'n creu
   - 
-    title: Your idea
+    title: Dy syniad
   - 
-    title: Build and test
+    title: Adeiladu a phrofi
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Rhestr wirio
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Uwchraddio dy brosiect
   - 
-    title: Share
+    title: Rhannu
   - 
-    title: What next?
+    title: Beth nesaf?
