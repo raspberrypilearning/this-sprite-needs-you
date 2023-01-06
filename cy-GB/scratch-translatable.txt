@@ -1,29 +1,29 @@
-Hello
+Helo
+
+enw
+
+iechyd
+
+haul
+
+gwenyn
+
+blodau
+
+mêl
+
+cefnogwyr
 
 name
 
-health
+trydan
 
-sun
+lefel y sain
 
-bees
+cariad
 
-flowers
+cwtshys
 
-honey
+pawen lawen
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+cusanau
