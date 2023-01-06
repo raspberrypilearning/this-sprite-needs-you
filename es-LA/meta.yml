@@ -1,7 +1,9 @@
 ---
 title: Este objeto te necesita
 hero_image: images/banner.png
-description: Crea una mascota virtual, un personaje o una simulación de la naturaleza con la que el usuario pueda interactuar para ayudarlo.
+description:
+  - 
+  - 
 version: 4
 listed: true
 copyedit: false
