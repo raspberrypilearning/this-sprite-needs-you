@@ -1,4 +1,4 @@
-## Checklist
+## قائمة تدقيق
 
 هل قابلت **ملخص المشروع**؟ فكر في مشروعك وانتقل إلى قائمة المراجعة أدناه. تحقق من تلك التي تنطبق على مشروعك.
 
@@ -24,13 +24,13 @@
 
 <p spaces-before="0">--- task ---</p>
 
-<p spaces-before="0">Use <code>if`{:class="block3control"} blocks to control when things happen
+<p spaces-before="0">استخدم  المقطع البرمجي<code>إذا `{: class = "block3control"} للتحكم في وقت حدوث الأشياء
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+استخدم المقطع البرمجي`بث`{: class = "block3events"} للتواصل بين الكائنات الأخرى والكائن الرئيسي
 
 --- /task ---
 
@@ -76,7 +76,7 @@ Use `broadcast`{:class="block3events"} blocks to communicate between other sprit
 خذ لحظة للاحتفال بما صنعته.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">عمليات المحاكاة الحاسوبية</span> يمكن أن تسمح لنا بتجربة مواقف لم نتمكن من تجربتها في الحياة الواقعية. There are computer simulations that allow surgeons to practice operations. هناك عمليات محاكاة تسمح لمهندسي الفضاء بالتنبؤ بما سيحدث عند إطلاق صاروخ ، وإجراء تغييرات على المتغيرات لمعرفة ما سيحدث. وهناك ألعاب محاكاة تسمح لك برعاية حيوان أليف أو شخص أو عائلة أو وظيفة. 
+<span style="color: #0faeb0">عمليات المحاكاة الحاسوبية</span> يمكن أن تسمح لنا بتجربة مواقف لم نتمكن من تجربتها في الحياة الواقعية. هناك محاكاة حاسوبية تسمح للجراحين بممارسة العمليات الرياضية. هناك عمليات محاكاة تسمح لمهندسي الفضاء بالتنبؤ بما سيحدث عند إطلاق صاروخ ، وإجراء تغييرات على المتغيرات لمعرفة ما سيحدث. وهناك ألعاب محاكاة تسمح لك برعاية حيوان أليف أو شخص أو عائلة أو وظيفة. 
 </p>
 
 --- task ---
