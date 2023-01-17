@@ -3,8 +3,8 @@
 إذا كان لديك الوقت ، يمكنك تطوير مشروعك. قد تكون لديك أفكار لإضافة المزيد بالفعل ، أو قد ترغب في العودة إلى الخطوة الأولى وإلقاء نظرة على مشاريع أخرى مرة أخرى للحصول على مزيد من الإلهام.
 
 يمكنك:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
+- أضف المزيد من ` المتغيرات `{: class = "block3variables"} التي تمثل الأشياء التي يريدها أو يحتاجها كائنك الرئيسي.
+- تحقق من المزيد من عبارات **ادوات الشرط** باستخدام `اذا`{: class = "block3control"} ، واجعل الكائن الخاص بك يقوم بأشياء مختلفة اعتمادًا على ما إذا كان الشرط صحيحًا أم خطأ
 - أضف المزيد من الكائنات الحية التي يمكن استخدامها للتفاعل مع كائنك الرئيسي ، مثل الأزرار أو الألعاب.
 - أضف رسومًا متحركة باستخدام `تأثيرات رسومية`{: class = "block3looks"} أو أزياء
 - أضف المزيد من `مؤثرات صوتية`{: class = "block3sound"}
@@ -17,20 +17,20 @@
 
 ## تحسينات صغيرة
 
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
+عندما تقوم بإنشاء مشروع Scratch ، هناك العديد من الطرق للتأكد من قيامك بعمل جيد حقًا.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
+<span style="color: #0faeb0">المكاسب الهامشية</span> هي ترقيات صغيرة لا تحدث فرقًا كبيرًا من تلقاء نفسها ، ولكن عند إضافتها معًا ، فإنها تُحدث تحسنًا كبيرًا في جودة عملك وسرعتك ، يمكنك إجراء المزيد من التغييرات. 
 </p>
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? الأشياء الذي ينبغي فعلها:
+هل يمكنك استخدام المكاسب الهامشية لتغيير شيء واحد الآن سيساعدك في المستقبل؟ الأشياء الذي ينبغي فعلها:
 
 + قم بتسمية جميع الكائنات المتحركة والأزياء والأصوات والمتغيرات والرسائل بشكل معقول. من الأسهل بكثير فهم المشاريع التي تستخدم أسماء مفيدة
 + املأ صفحة المشروع بعنوان جيد وإرشادات وملاحظات ، حتى يعرف المستخدمون كيفية استخدام مشروعك ومن أين حصلت على أفكار
 + أضف تعليقات قصيرة تشرح ما تقوم به التعليمات البرمجية الخاصة بك
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
++ تأكد من أن المقاطع البرمجية مرتبة في علامة التبويب **المقاطع البرمجية**. يمكنك النقر بزر الماوس الأيمن واختيار **ترتيب اللبنات** أو رتّب المقاطع البرمجية بطريقة تناسبك. حاول وضع المقاطع البرمجية المتشابهة معًا.
 
 --- /task ---
 
