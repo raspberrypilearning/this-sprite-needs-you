@@ -44,7 +44,7 @@
 title: العمل دون اتصال
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+لإعداد Scratch للاستخدام دون اتصال ، تفضل بزيارة دليل Scratch [{](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1)target = "_ blank"}.
 
 --- /collapse ---
 
