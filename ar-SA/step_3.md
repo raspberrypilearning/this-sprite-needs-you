@@ -139,13 +139,13 @@ start sound (Pop v)
 العنوان: لا يتم تحديث المتغيرات بشكل صحيح
 ---
 
-One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
+أحد الأخطاء الشائعة هو الخلط بين المقاطع البرمجية `غير`{: class = "block3variables"} و `اجعل`{: class = "block3variables"}.
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. إذا غيّرت `بمقدار`{: class = "block3variables"} رقمًا موجبًا ، فإن قيمة المتغير تكبر. إذا غيّرت `بمقدار`{: class = "block3variables"} رقمًا سالبًا ، فإن القيمة المتغيرة تصبح أصغر.
++ `مجموعة`{: class = "block3variables"} تستبدل قيمة متغير بقيمة جديدة.
++ `غير`{: class = "block3variables"} يضيف رقمًا إلى متغير. إذا غيّرت `بمقدار`{: class = "block3variables"} رقمًا موجبًا ، فإن قيمة المتغير تكبر. إذا غيّرت `بمقدار`{: class = "block3variables"} رقمًا سالبًا ، فإن القيمة المتغيرة تصبح أصغر.
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. يجب أن تكون المتغيرات باللون البرتقالي:
+هناك مشكلة شائعة أخرى وهي كتابة اسم متغير بدلاً من سحب المتغير من قائمة المقاطع البرمجية `المتغيرات`{: class = "block3variables"}. يجب أن تكون المتغيرات باللون البرتقالي:
 
 ```blocks3
 say (name) for (2) seconds
@@ -165,7 +165,7 @@ say [name] for (2) seconds
 العنوان: التغيير يحدث مرة واحدة فقط وليس إلى الأبد
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. من الشائع حقًا أن تنسى القيام بذلك!
+تأكد من وضع المقاطع البرمجية التي يجب أن تستمر في العمل داخل مقطع البرمجي `للأبد`{: class = "block3control"}. من الشائع حقًا أن تنسى القيام بذلك!
 
 --- /collapse ---
 
@@ -182,7 +182,7 @@ Make sure you have placed code blocks that need to keep running inside a `foreve
 <(health) < (5)> // means the health variable must be smaller than 5
 ```
 
-**Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
+**نصيحة:** الرقم الذي يجب أن يكون أكبر يذهب إلى الجانب الأوسع (الأكبر) من رمز العملية الرياضية.
 
 --- /collapse ---
 
@@ -192,7 +192,7 @@ Make sure you have placed code blocks that need to keep running inside a `foreve
 العنوان: لا شيء يحدث عندما أبث رسالة
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. تحقق من تطابق أسماء الرسائل.
+تأكد من أن لديك مقطع برمجي `عندما أتلقى `{: class = "block3events"} تقوم بشيء ما عندما تقوم `ببث`{: class = "block3events"} رسالة. تحقق من تطابق أسماء الرسائل.
 
 --- /collapse ---
 
