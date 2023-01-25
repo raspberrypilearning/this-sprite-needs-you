@@ -10,7 +10,7 @@ copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: You will make
+    title: سوف تصنع
   - 
     title: فكرتك
   - 
@@ -19,7 +19,7 @@ steps:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: قائمة تدقيق
     completion:
       - external
   - 
