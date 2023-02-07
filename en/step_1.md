@@ -61,6 +61,8 @@ Your simulation could:
 
 --- task ---
 
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
 Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
 
 **Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
@@ -73,9 +75,9 @@ Think about what you will choose as a main sprite. It could be a pet that the us
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Music machine**: [See inside](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -92,7 +94,6 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 ![Complete project](images/bat-project.png)
 ![Complete project](images/watermelon-project.png)
-![Complete project](images/music-project.png)
 ![Complete project](images/rainbow-project.png)
 
 --- /print-only ---
