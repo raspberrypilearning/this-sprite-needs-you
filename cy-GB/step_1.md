@@ -60,6 +60,8 @@ Gallai eich efelychiad:
 
 --- task ---
 
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
 Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes mae'r defnyddiwr yn gofalu amdano, yn berson mae'r defnyddiwr yn ei helpu i wneud penderfyniadau da, yn blanhigyn neu gnwd mae'r defnyddiwr yn helpu i'w dyfu, neu'n wrthrych natur neu ffantasi y mae angen i'r defnyddiwr greu'r amodau cywir ar ei gyfer.
 
 **Creu enfys**: [Gweld tu mewn](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
@@ -72,9 +74,9 @@ Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes m
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Peiriant miwsig**: [Gweld tu mewn](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -89,7 +91,7 @@ Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes m
 
 Galli di **Weld tu mewn i** brosiect enghreifftiol yn y stiwdio Scratch 'Mae'r corlun hwn dy angen di - Enghreifftiau': https://scratch.mit.edu/studios/29683913/
 
-![Cwblhau'r prosiect](images/bat-project.png) ![Cwblhau'r prosiect](images/watermelon-project.png) ![Cwblhau'r prosiect](images/music-project.png) ![Cwblhau'r prosiect](images/rainbow-project.png)
+![Cwblhau'r prosiect](images/bat-project.png) ![Cwblhau'r prosiect](images/watermelon-project.png) ![Cwblhau'r prosiect](images/rainbow-project.png)
 
 --- /print-only ---
 
