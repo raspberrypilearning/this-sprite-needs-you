@@ -60,6 +60,8 @@ Tu simulación podría:
 
 --- task ---
 
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
 Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el usuario cuida, una persona a la que el usuario ayuda a tomar buenas decisiones, una planta o un cultivo que el usuario ayuda a crecer, o un objeto de la naturaleza o de fantasía para el cual el usuario necesita para crear las condiciones adecuadas.
 
 **Hacer un arcoíris**: [Ver adentro](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
@@ -72,9 +74,9 @@ Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Máquina de música**: [Ver dentro](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -89,7 +91,7 @@ Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el
 
 **Ver adentro** proyectos de ejemplo en el estudio Scratch 'Este sprite te necesita — Ejemplos': https://scratch.mit.edu/studios/29683913/
 
-![Proyecto terminado](images/bat-project.png) ![Proyecto terminado](images/watermelon-project.png) ![Proyecto terminado](images/music-project.png) ![Proyecto terminado](images/rainbow-project.png)
+![Proyecto terminado](images/bat-project.png) ![Proyecto terminado](images/watermelon-project.png) ![Proyecto terminado](images/rainbow-project.png)
 
 --- /print-only ---
 
