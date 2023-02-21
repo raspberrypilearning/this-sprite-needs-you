@@ -60,6 +60,8 @@
 
 --- task ---
 
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
 فكر فيما ستختاره ليكون كائنًا رئيسيًا. قد يكون حيوانًا أليفًا يعتني به المستخدم ، أو شخصًا يساعده المستخدم في اتخاذ قرارات جيدة ، أو نباتًا أو محصولًا يساعد المستخدم على نموه ، أو كائنًا طبيعيًا أو خياليًا يحتاجه المستخدم لتهيئة الظروف المناسبة له.
 
 **اصنع قوس قزح**: [انظر داخل](https://scratch.mit.edu/projects/530034441/editor){: target = "_ blank"}
@@ -72,9 +74,9 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**آلة موسيقية**: [انظر الى الداخل](https://scratch.mit.edu/projects/532093585/editor){: target = "_ blank"}
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -89,7 +91,7 @@
 
 **انظر داخل ** أمثلة من المشاريع "هذا الكائن يحتاجك - أمثلة" استوديو سكراتش: https://scratch.mit.edu/studios/29683913/
 
-![المشروع كامل](images/bat-project.png) ![المشروع كامل](images/watermelon-project.png) ![المشروع كامل](images/music-project.png) ![المشروع كامل](images/rainbow-project.png)
+![المشروع كامل](images/bat-project.png) ![المشروع كامل](images/watermelon-project.png) ![المشروع كامل](images/rainbow-project.png)
 
 --- /print-only ---
 
