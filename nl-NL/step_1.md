@@ -60,6 +60,8 @@ Je simulatie zou:
 
 --- task ---
 
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
 
 **Maak een regenboog**: [Bekijk van binnen](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
@@ -72,9 +74,9 @@ Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat d
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Muziekmachine**: [Bekijk van binnen](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -89,7 +91,7 @@ Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat d
 
 **Bekijk van binnen** voorbeeldprojecten in de 'deze sprite heeft je nodig — voorbeelden' Scratch studio: https://scratch.mit.edu/studios/29683913/
 
-![Voltooid project](images/bat-project.png) ![Voltooid project](images/watermelon-project.png) ![Voltooid project](images/music-project.png) ![Voltooid project](images/rainbow-project.png)
+![Voltooid project](images/bat-project.png) ![Voltooid project](images/watermelon-project.png) ![Voltooid project](images/rainbow-project.png)
 
 --- /print-only ---
 
