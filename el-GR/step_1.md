@@ -60,6 +60,8 @@ Interact with Cricket the bat. Τι θα συμβεί αν κάνεις κλικ
 
 --- task ---
 
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
 Σκέψου τι θα επιλέξεις ως βασικό αντικείμενο. Θα μπορούσε να είναι ένα κατοικίδιο που φροντίζει ο χρήστης, ένα άτομο που ο χρήστης βοηθά στη λήψη καλών αποφάσεων, ένα φυτό ή μια καλλιέργεια που βοηθά ο χρήστης να αναπτυχθεί ή ένα αντικείμενο φύσης ή φαντασίας που χρειάζεται ο χρήστης για να δημιουργήσει τις κατάλληλες συνθήκες.
 
 **Δημιούργησε ένα ουράνιο τόξο**: [Δες μέσα](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
@@ -72,9 +74,9 @@ Interact with Cricket the bat. Τι θα συμβεί αν κάνεις κλικ
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Μουσική μηχανή**: [Δες μέσα](https://scratch.mit.edu/projects/532093585/editor){:target="_blank"}
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/532093585/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -89,7 +91,7 @@ Interact with Cricket the bat. Τι θα συμβεί αν κάνεις κλικ
 
 **Δες μέσα** παραδείγματα έργων στο στούντιο Scratch 'This sprite needs you — Examples': https://scratch.mit.edu/studios/29683913/
 
-![Ολοκληρωμένο έργο](images/bat-project.png) ![Ολοκληρωμένο έργο](images/watermelon-project.png) ![Ολοκληρωμένο έργο](images/music-project.png) ![Ολοκληρωμένο έργο](images/rainbow-project.png)
+![Ολοκληρωμένο έργο](images/bat-project.png) ![Ολοκληρωμένο έργο](images/watermelon-project.png) ![Ολοκληρωμένο έργο](images/rainbow-project.png)
 
 --- /print-only ---
 
