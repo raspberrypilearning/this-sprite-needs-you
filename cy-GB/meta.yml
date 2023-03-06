@@ -1,0 +1,22 @@
+---
+title: Mae'r corlun hwn dy angen di
+hero_image: images/banner.png
+description:
+  Creu anifail anwes rhithwir, cymeriad, neu efelychiad o fyd natur y gall y defnyddiwr ryngweithio ag ef i'w helpu.
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - title: Byddi di'n creu
+  - title: Dy syniad
+  - title: Adeiladu a phrofi
+    completion:
+      - engaged
+      - internal
+  - title: Rhestr wirio
+    completion:
+      - external
+  - title: Uwchraddio dy brosiect
+  - title: Rhannu
+  - title: Beth nesaf?
