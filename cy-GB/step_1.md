@@ -60,7 +60,7 @@ Gallai eich efelychiad:
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Rhannwch eich prosiect “Llygaid gwirion” am gyfle i’w gynnwys yma.
 
 Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes mae'r defnyddiwr yn gofalu amdano, yn berson mae'r defnyddiwr yn ei helpu i wneud penderfyniadau da, yn blanhigyn neu gnwd mae'r defnyddiwr yn helpu i'w dyfu, neu'n wrthrych natur neu ffantasi y mae angen i'r defnyddiwr greu'r amodau cywir ar ei gyfer.
 
@@ -74,7 +74,7 @@ Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes m
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+**⭐ Dolly y ddoll**: [Gweld tu mewn](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (prosiect cymunedol dan sylw)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
