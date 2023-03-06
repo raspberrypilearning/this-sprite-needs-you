@@ -172,7 +172,7 @@ Gwna'n siŵr dy fod ti wedi gosod blociau cod sydd angen dal ati i redeg y tu me
 --- collapse ---
 
 ---
-teitl: Dydy amodau cymharu rhifau ddim yn gweithio
+title: Dydy amodau cymharu rhifau ddim yn gweithio
 ---
 
 Wyt ti'n siŵr dy fod ti wedi defnyddio'r gweithredwyr `>`{:class="block3operators"} (mwy na) a `<`{:class="block3operators"} (llai na) yn y drefn gywir?
