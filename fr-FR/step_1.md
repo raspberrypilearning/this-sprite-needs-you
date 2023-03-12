@@ -60,7 +60,7 @@ Ta simulation pourrait :
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Partage ton projet « Yeux rigolos » terminé pour avoir une chance qu'il soit présenté ici.
 
 Pense à ce que tu vas choisir comme sprite principal. Il peut s'agir d'un animal de compagnie dont l'utilisateur s'occupe, d'une personne que l'utilisateur aide à prendre de bonnes décisions, d'une plante ou d'une culture que l'utilisateur aide à faire pousser, ou d'un objet naturel ou imaginaire pour lequel l'utilisateur doit créer de bonnes conditions.
 
@@ -74,7 +74,7 @@ Pense à ce que tu vas choisir comme sprite principal. Il peut s'agir d'un anima
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+**⭐ Dolly la poupée** : [Voir à l'intérieur](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (projet communautaire en vedette)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
