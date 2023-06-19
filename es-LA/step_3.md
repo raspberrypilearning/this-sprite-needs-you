@@ -13,7 +13,7 @@ Deberás decidir en qué orden construir tu proyecto. Tú podrías:
 + Crea una variable y permite que el usuario la controle. Agrega animaciones, disfraces, sonido, efectos y conversación para que el objeto realmente cobre vida
 + Crea múltiples variables con formas simples para que el usuario las controle y luego agregue más efectos más tarde
 
-Agregar un objeto y luego crear una variable ``{:class="block3variables"} es un gran comienzo.
+Agregar un objeto y luego crear una `variable`{:class="block3variables"} es un gran comienzo.
 
 --- /task ---
 
