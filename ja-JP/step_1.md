@@ -1,4 +1,4 @@
-## You will make
+## はじめに
 
 Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
 
