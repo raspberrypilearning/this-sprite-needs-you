@@ -44,7 +44,7 @@ Abre un [nuevo proyecto de Scratch](http://rpf.io/scratch-new){:target="_blank"}
 title: Trabajar sin conexión
 ---
 
-Para configurar Scratch para uso sin conexión, visita [nuestra guía Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1):target="_blank"}.
+Para configurar Scratch para uso sin conexión, visita [nuestra guía Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
@@ -79,7 +79,7 @@ Piensa en tu objeto **principal** y decide:
 
 Dale a tu proyecto un título que le diga al usuario qué esperar y que le haga querer probarlo.
 
-Los proyectos de ejemplo fueron: **Simulador de murciélago**, **Hacer un arcoíris**, **Agricultor de sandías**y **Máquina de música**.
+Los proyectos de ejemplo fueron: **Simulador de murciélago**, **Hacer un arcoíris**, **Agricultor de sandías** y **Máquina de música**.
 
 ![La barra de menú de Scratch con el título del nombre del proyecto rellenado.](images/project-name.png)
 
