@@ -6,7 +6,7 @@
 
 --- task ---
 
-Usa al menos una variable ``{:class="block3variables"} para realizar un seguimiento de lo que necesita el objeto principal?
+Usa al menos una `variable`{:class="block3variables"} para realizar un seguimiento de lo que necesita el objeto principal
 
 --- /task ---
 
