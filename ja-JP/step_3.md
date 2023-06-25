@@ -1,25 +1,25 @@
-## Build and test
+## 作って試す
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+さあ、あなたのプロジェクトを作る時が来ました。 小さなことから始めて、時間があればプロジェクトにさらに追加してください。
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**ヒント：** 何かを追加するたびに、プロジェクトをテストすることを忘れないでください。 バグを見つけて修正するのは、変更を加える前のほうがはるかに簡単です。
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+プロジェクトをどのような順番で作っていくかを決める必要があります。 こんなことができます:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later
++ 変数を 1 つ作成し、ユーザーがそれを制御できるようにします。 アニメーション、コスチューム、サウンド、エフェクト、会話を追加して、スプライトに命を吹き込みます。
++ ユーザーが簡単に制御できる方法で複数の変数を作成し、後でさらに効果を追加します。
 
-Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
+スプライトを追加して、 `変数`{:class="block3variables"} を作成するのが良いスタートです。
 
 --- /task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+あなたはいくつかの本当に役立つスキルを身につけました。 プロジェクトを作成するのに役立つリマインダーは次のとおりです。
 
-### Using variables
+### 変数を使う
 
 ```blocks3
 set [my variable v] to (0)
@@ -31,7 +31,7 @@ set [my variable v] to (0)
 
 [[[scratch3-change-variable-in-loop]]]
 
-### Checking conditions
+### 条件をチェックする
 
 ```blocks3
 if <(my variable) = (0)> then
@@ -45,7 +45,7 @@ if <(my variable) = (0)> then
 
 [[[scratch3-set-block-input-colour-with-eyedropper]]]
 
-### Broadcasting and receiving messages
+### メッセージを送信したり受信したりする
 
 ```blocks3
 broadcast [message1 v]
@@ -53,7 +53,7 @@ broadcast [message1 v]
 
 [[[generic-scratch3-broadcast-message]]]
 
-### Working with text:
+### テキストを操作する
 
 ```blocks3
 say (join[Hello ](name)) for (2) seconds
@@ -65,7 +65,7 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement, and graphic effects
+### 背景、動き、グラフィック効果
 
 ```blocks3
 set [ghost v] effect to (0)
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### 音：
 
 ```blocks3
 start sound (Pop v)
@@ -99,7 +99,7 @@ start sound (Pop v)
 
 [[[scratch3-text-to-speech]]]
 
-### Paint editor — backdrops and costumes
+### ペイントエディタ ー 背景とコスチューム：
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -111,7 +111,7 @@ start sound (Pop v)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Scratch editor
+### Scratchエディター
 
 [[[scratch3-copy-code]]]
 
@@ -124,34 +124,34 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game?
+**テスト：** プロジェクトを他の人に見せて、フィードバックをもらいます。 何か変更を加えたいですか?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**デバッグ：** プロジェクトに修正が必要なバグが見つかる場合があります。 一般的なバグは次のとおりです。
 
 
 --- collapse ---
 
 ---
-title: Variables aren't updating correctly
+title: 変数が正しく更新されない
 ---
 
-One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
+よくある間違いの 1 つは、 `Change`{:class="block3variables"} ブロックと `set`{:class="block3variables"} ブロックを混同することです。
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
++ `set`{:class="block3variables"} は、変数の値を新しい値に置き換えます。
++ `change`{:class="block3variables"} は変数に値を加えます。 `change by`{:class="block3variables"} を正の数と共に使用すると、変数の値は増加します。 `change by`{:class="block3variables"} を負の数と共に使用すると、変数の値は減少します。
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
+もう 1 つのよくある問題は、 `Variables`{:class="block3variables"} ブロック メニューから変数をドラッグするのではなく、変数の名前を入力することです。 変数はオレンジ色です。
 
 ```blocks3
 say (name) for (2) seconds
 ```
 
-**not**:
+**次のようではありません**:
 
 ```blocks3
 say [name] for (2) seconds
@@ -162,45 +162,45 @@ say [name] for (2) seconds
 --- collapse ---
 
 ---
-title: A change only happens once instead of forever
+title: 変更がいつもではなく一度だけ起こる
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
+実行し続ける必要があるコード ブロックが `forever`{:class="block3control"} ブロック内に配置されていることを確認してください。 これを忘れることは本当によくあることです。
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Number comparisons conditions aren't working
+title: 数の比較条件がうまくいかない
 ---
 
-Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
+`>`{:class="block3operators"} (より大きい) 演算子と `<`{:class="block3operators"} (より小さい) 演算子を正しく使用しましたか?
 
 ```blocks3
 <(health) > (0)> // means the health variable must be bigger than 0
 <(health) < (5)> // means the health variable must be smaller than 5
 ```
 
-**Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
+**ヒント:** 大きくなければならない数値は、演算子記号の幅の広い (大きい) 側に配置されます。
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Nothing happens when I broadcast a message
+title: メッセージを送っても何も起こらない
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. Check that the message names match.
+メッセージを`broadcast`{:class="block3events"} したときに何かを行う `when I receive`{:class="block3events"} ブロックをがあることを確認してください。 メッセージ名が一致していることを確認してください。
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+ここに記載されていないバグが見つかるかもしれません。 あなたはそれを修正する方法を見つけることができますか？
 
-If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
+行き詰まった場合は、コードを声に出して読むか、友人に問題を説明してみてください。 問題が見つかるかもしれません。
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+私たちはあなたのバグと、あなたがそれらをどのように修正したかについて教えてほしいです。 プロジェクトで別のバグを見つけた場合、このページの一番下にあるフィードバックを送信 ボタンを使ってお知らせください。
 
 --- /task ---
 
