@@ -1,87 +1,87 @@
-## Checklist
+## チェックリスト
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+**プロジェクト概要**通りになっていますか？ あなたのプロジェクトについて考えて、以下のチェックリストを確認してください。 プロジェクトに当てはまるものにチェックを入れます。
 
-Does your project:
+あなたのプロジェクトは以下のことをしていますか?
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+少なくとも 1 つの `変数`{:class="block3variables"} を使用して、メイン スプライトに必要なものを追跡する
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+変数を自動的に変更する方法をもつ
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+メイン スプライトに必要なものを提供できる変数を改善する方法をユーザーに提供する
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+何かが発生するタイミングを制御する`if`{:class="block3control"} ブロックを使用する
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+他のスプライトとメイン スプライト間のやりとりをする`broadcast`{:class="block3events"} ブロックを使用する
 
 --- /task ---
 
-Your simulation could also:
+シミュレーションでは次のようなこともできます。
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+優しさや作物の健康維持など、教育的なメッセージを表示する
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+レベルが高すぎるか低すぎる場合にユーザーに警告する
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+ユーザーが自分のスプライトとチャットしたり、その名前を変更したりできるようにする
+
+--- /task ---
+
+将来のプロジェクトに役立つように、シミュレーションをどのように作成したかを振り返ってみましょう。
 
 --- task ---
 
-How did you get your ideas? 
+どうやってアイデアを思いついたのか？ 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+どんなクールな新しいことを学んだか？
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### これであなたもシミュレーションの作成者です!
 
-Take a moment to celebrate what you have made.
+少し時間をかけて、あなたの作品についてお祝いしましょう。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+<span style="color: #0faeb0">コンピュータシミュレーション</span> では、現実では体験できない状況を体験することができます。 外科医が手術を練習できるコンピューターシミュレーションがあります。 宇宙技術者がロケットを打ち上げたときに何が起こるかを予測し、変数を変更して何が起こるかを確認できるシミュレーションがあります。 ペット、人、家族、仕事の世話をできるゲーム シミュレーションもあります。 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+あなたは自分が獲得した新しい力をどのように使いますか？ 次はどんなシミュレーションを作りますか？
 
 <!-- free text answer, 3 characters possibly -->
 
