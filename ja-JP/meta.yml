@@ -1,32 +1,32 @@
 ---
-title: This sprite needs you
+title: このスプライトにはあなたが必要だ
 hero_image: images/banner.png
 description:
-  - Create a virtual pet, character, or nature simulation that the user can
-  - interact with to help it.
-meta_title: Scratch coding projects for kids and teens | This sprite needs you
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a virtual pet you can interact with in Scratch.
+  - あなたが触れ合って助けてあげることができる仮想のペット、キャラクター、自然のシミュレーションを作りましょう
+  - それを助けるために対話します
+meta_title: 子供とティーンエイジャーのためのScratchコーディングプロジェクト｜このスプライトにはあなたが必要です
+meta_description: Raspberry Pi Foundationが提供するキッズ＆ティーン向けのコーディング・プロジェクトで、Scratchによるコーディングを学びましょう。Scratchで触れ合えるバーチャルペットを作ろう。
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: You will make
+    title: はじめに
   - 
-    title: Your idea
+    title: あなたのアイデア
   - 
-    title: Build and test
+    title: 作って試す
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: チェックリスト
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: プロジェクトをアップグレードする
   - 
-    title: Share
+    title: 共有
   - 
-    title: What next?
+    title: 次は何をしましょうか？
