@@ -1,89 +1,89 @@
-## Your idea
+## あなたのアイデア
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+仮想のペット、キャラクター、または自然のシミュレーションを考えましょう。 ユーザーは、メイン スプライトが求めていることを手助けするために適切な状態を作る必要があります。 メインのスプライトが大きくなったり、経験値を獲得したり、健康になったり、いろんなことが起こるかもしれません。
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+ただ考えるだけでもいいし、いろいろ試したり、描いたりなど好きなようにやってみましょう。
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+食料や安全などの基本的なニーズ <span style="color: #0faeb0">が満たされるときが、私たち</span> 生き物 (私たち自身を含む) が学習し成長するための適切な条件を整っている状態です。 したがって、次回不機嫌になったり、気が散ったりしたときは、自分の基本的なニーズを確認してください。  
 </p>
 
-### Why are you making your project?
+### なぜプロジェクトを作るのか？
 
 --- task ---
 
-Think about the **purpose** of your project.
+プロジェクトの **目的** を考えましょう
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+例えば:
+- 動物の世話や植物の育て方など、新しいスキルを教える
+- 自分の精神の健康に気を配ったり、近所の環境を良くするなどのメッセージを共有する
+- ユーザーが普段触れ合う機会のないものを提供してユーザーを楽しませる
 
 --- /task ---
 
-### Who is it for?
+### 誰のために？
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+誰のためにプロジェクトを作るのかを考えましょう(あなたの**作品を見る人**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+作品の対象を知ることは、彼らが何度もプレイしたくなるようなプロジェクトを作るのに役立ちます。
 
 --- /task ---
 
-### Get started
+### 始めましょう
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+[新しいScratchプロジェクト](http://rpf.io/scratch-new){:target="_blank"}を開きます。 Scratchはブラウザの別のタブで開きます。
 
 --- collapse ---
 ---
-title: Working offline
+title：オフラインでの作業
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Scratch をオフラインで使用できるように設定ために、 [Scratch ガイド](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} にアクセスしてください。
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+新しい Scratch プロジェクト、ペンと紙を利用してアイデアを考えます。
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+**メイン** スプライトを何にするか?
++ ペットや野生動物などのキャラクター、または人物
++ 日光、水、栄養素を必要とする植物または作物
++ 虹や火などの科学や自然現象
++ 潜水艦やリサイクルマシンなどの機械
++ または、他の何か
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![使用できるスプライトの例をいくつか示します。カニ、木、世界、ラップトップ。](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+**メイン** スプライトを何にするか:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ どの オブジェクトと`変数`{:class="block3variables"} が必要か?
++ `変数`{:class="block3variables"} は時間とともに変化するか?　たとえば、空腹感や疲労感が数秒ごとに増加しますか?
++ ユーザーはメイン スプライトとどのように対話するでしょうか? 食べ物をクリックして動物に餌を与えたり、キャラクターとチャットして退屈を紛らわすことなどです。
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+ユーザーが何が期待できるかが分かり、試してみたくなるようなタイトルをプロジェクトに付けます。
+
+サンプル プロジェクトは次のとおりです。 **コウモリ シミュレーター**、 **虹を作る**、 **スイカ農家**、および **ミュージック マシーン**。
+
+![プロジェクト名タイトルが入力された Scratch メニュー バー。](images/project-name.png)
+
+もっと良いタイトルを思いついた場合は、後でいつでもタイトルを更新できます。
 
 --- /task ---
 
