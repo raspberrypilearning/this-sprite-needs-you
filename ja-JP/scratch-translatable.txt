@@ -1,29 +1,29 @@
-Hello
+こんにちは！
+
+名前
+
+健康
+
+太陽
+
+ミツバチ
+
+お花の数
+
+ハチミツ
+
+ファン
 
 name
 
-health
+電気
 
-sun
+音量
 
-bees
+愛
 
-flowers
+ハグ
 
-honey
+ハイタッチ
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+キス
