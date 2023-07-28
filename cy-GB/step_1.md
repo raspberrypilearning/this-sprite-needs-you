@@ -22,10 +22,8 @@ Rhyngweithia gyda Criced yr ystlum. Beth sy'n digwydd os wyt ti'n clicio ar y co
 
 </div>
 <div>
-
-**Efelychydd ystlumod**: [Gweld tu mewn](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -63,20 +61,14 @@ Gallai eich efelychiad:
 ⭐ Rhannwch eich prosiect “Llygaid gwirion” am gyfle i’w gynnwys yma.
 
 Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes mae'r defnyddiwr yn gofalu amdano, yn berson mae'r defnyddiwr yn ei helpu i wneud penderfyniadau da, yn blanhigyn neu gnwd mae'r defnyddiwr yn helpu i'w dyfu, neu'n wrthrych natur neu ffantasi y mae angen i'r defnyddiwr greu'r amodau cywir ar ei gyfer.
-
-**Creu enfys**: [Gweld tu mewn](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Ffermwr melonau dŵr**: [Gweld tu mewn](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Dolly y ddoll**: [Gweld tu mewn](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (prosiect cymunedol dan sylw)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
