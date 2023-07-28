@@ -16,16 +16,14 @@ Je gaat:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Speel ▶️
 
-Interact with Cricket the bat. Wat gebeurt er als je op de voedsel- of watersprites klikt? Hoe kun je zien of de vleermuis hongerig of dorstig is?
+Communiceren met Cricket de vleermuis. Wat gebeurt er als je op de voedsel- of watersprites klikt? Hoe kun je zien of de vleermuis hongerig of dorstig is?
 
 </div>
 <div>
-
-**vleermuis simulator**: [Bekijk van binnen](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -56,27 +54,21 @@ Je simulatie zou:
 
 --- no-print ---
 
-### Get ideas 💭
+### Ideeën opdoen 💭
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Deel je voltooide Maffe ogen-project om kans te maken dat het hier wordt weergegeven.
 
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
-
-**Maak een regenboog**: [Bekijk van binnen](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Watermeloen boer**: [Bekijk van binnen](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -85,7 +77,7 @@ Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat d
 
 --- print-only ---
 
-### Get ideas 💭
+### Ideeën opdoen 💭
 
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
 
