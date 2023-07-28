@@ -2,10 +2,10 @@
 title: Este objeto te necesita
 hero_image: images/banner.png
 description:
-  - Create a virtual pet, character, or nature simulation that the user can
-  - interact with to help it.
-meta_title: Scratch coding projects for kids and teens | This sprite needs you
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a virtual pet you can interact with in Scratch.
+  - Crea una mascota virtual, un personaje o una simulación de la naturaleza con la que el usuario pueda
+  - interactuar con para ayudarlo.
+meta_title: Proyectos de codificación de Scratch para niños y adolescentes | Este objeto te necesita
+meta_description: Aprende a codificar en Scratch con los proyectos de codificación de la Fundación Raspberry Pi para niños y adolescentes. Haz una mascota virtual con la que puedas interactuar en Scratch.
 version: 4
 listed: true
 copyedit: false
