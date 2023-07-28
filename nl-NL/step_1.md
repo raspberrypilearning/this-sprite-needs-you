@@ -1,4 +1,4 @@
-## You will make
+## Wat ga je maken
 
 Maak een virtueel huisdier, personage of natuursimulatie waarmee de gebruiker kan communiceren om het te helpen. Je spel moet voldoen aan de **projectsamenvatting**.
 
