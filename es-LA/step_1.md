@@ -22,10 +22,8 @@ Interactúa con Cricket el murciélago. ¿Qué sucede si haces clic en los objet
 
 </div>
 <div>
-
-**Simulador de murciélagos**: [Ver interior](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -60,23 +58,17 @@ Tu simulación podría:
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Comparte tu proyecto de animación de Ojos tontos y ten la oportunidad de que se muestre aquí.
 
 Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el usuario cuida, una persona a la que el usuario ayuda a tomar buenas decisiones, una planta o un cultivo que el usuario ayuda a crecer, o un objeto de la naturaleza o de fantasía para el cual el usuario necesita para crear las condiciones adecuadas.
-
-**Hacer un arcoíris**: [Ver adentro](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Agricultor de sandías**: [Ver dentro](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
