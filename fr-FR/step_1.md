@@ -22,10 +22,8 @@ Interagis avec Cricket la chauve-souris. Que se passe-t-il si tu cliques sur les
 
 </div>
 <div>
-
-**Le simulateur de chauve-souris** : [Voir à l'intérieur](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -63,20 +61,14 @@ Ta simulation pourrait :
 ⭐ Partage ton projet « Yeux rigolos » terminé pour avoir une chance qu'il soit présenté ici.
 
 Pense à ce que tu vas choisir comme sprite principal. Il peut s'agir d'un animal de compagnie dont l'utilisateur s'occupe, d'une personne que l'utilisateur aide à prendre de bonnes décisions, d'une plante ou d'une culture que l'utilisateur aide à faire pousser, ou d'un objet naturel ou imaginaire pour lequel l'utilisateur doit créer de bonnes conditions.
-
-**Créer un arc-en-ciel** : [Voir à l'intérieur](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Cultivateur de pastèques** : [Voir à l'intérieur](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Dolly la poupée** : [Voir à l'intérieur](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (projet communautaire en vedette)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
