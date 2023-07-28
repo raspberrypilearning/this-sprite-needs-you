@@ -1,19 +1,23 @@
 ---
 title: Deze sprite heeft je nodig
 hero_image: images/banner.png
-description: Maak een virtueel huisdier, personage of natuursimulatie waarmee de gebruiker kan communiceren om het te helpen.
+description:
+  - Maak een virtueel huisdier, personage of natuursimulatie waarmee de gebruiker kan
+  - communiceren om het te helpen.
+meta_title: Scratch-programmeerprojecten voor kinderen en tieners | Deze sprite heeft je nodig
+meta_description: Leer coderen in Scratch met de programmeerprojecten voor kinderen en tieners van de Raspberry Pi Foundation. Maak een virtueel huisdier in Scratch.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-26'
 steps:
-  - title: Inleiding
+  - title: Wat ga je maken
   - title: Jouw idee
   - title: Bouwen en testen
     completion:
       - engaged
       - internal
-  - title: Reflectie
+  - title: Checklist
     completion:
       - external
   - title: Verbeter je project

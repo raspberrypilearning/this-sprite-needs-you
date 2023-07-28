@@ -1,4 +1,4 @@
-## Reflectie
+## Checklist
 
 Voldoet je project aan de **projectbeschrijving**? Denk aan je project en doorloop de onderstaande checklist. Vink degenen aan die van toepassing zijn op je project.
 
@@ -12,7 +12,7 @@ Gebruik ten minste één `variabele`{:class="block3variables"} om bij te houden 
 
 --- task ---
 
-Zorg ervoor dat de variabele(n) automatisch verandert
+Zorg ervoor dat de variabele(n) automatisch veranderen
 
 --- /task ---
 
@@ -30,7 +30,7 @@ Gebruik `als`{:class="block3control"} blokken om te bepalen wanneer dingen gebeu
 
 --- task ---
 
-Gebruik `zend signaal`{:class="block3events"} en `wanneer ik signaal ontvang`{:class="block3events"} blokken om te communiceren tussen andere sprites en de hoofdsprite
+Gebruik `zend signaal`{:class="block3events"} en `wanneer ik signaal ontvang`{:class="block3events"} blokken om te communiceren tussen de belangrijkste sprite en andere sprites
 
 --- /task ---
 
