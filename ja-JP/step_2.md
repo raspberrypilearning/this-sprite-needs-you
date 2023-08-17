@@ -41,7 +41,7 @@
 
 --- collapse ---
 ---
-title：オフラインでの作業
+title: オフラインでの作業
 ---
 
 Scratch をオフラインで使用できるように設定ために、 [Scratch ガイド](https://learning-admin.raspberrypi.org/ja-JP/projects/getting-started-scratch/1){:target="_blank"} にアクセスしてください。
