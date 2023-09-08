@@ -48,7 +48,7 @@ if <(my variable) = (0)> then
 ### Μετάδοση και λήψη μηνυμάτων
 
 ```blocks3
-broadcast [message1 v]
+broadcast [μήνυμα1 v]
 ```
 
 [[[generic-scratch3-broadcast-message]]]
@@ -68,7 +68,7 @@ say (join[Γεια σου ](όνομα)) for (2) seconds
 ### Φόντο, κίνηση και γραφικά εφέ
 
 ```blocks3
-set [ghost v] effect to (0)
+set [φαντάσματος v] effect to (0)
 ```
 
 [[[scratch3-glide-to-object]]]

@@ -75,7 +75,7 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/890826086/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [Δες μέσα](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+**⭐ Dolly the doll**: [Δες μέσα](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
