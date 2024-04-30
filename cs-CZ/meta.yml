@@ -1,32 +1,32 @@
 ---
-title: This sprite needs you
+title: Tato postava tě potřebuje
 hero_image: images/banner.png
 description:
-  - Create a virtual pet, character, or nature simulation that the user can
-  - interact with to help it.
-meta_title: Scratch coding projects for kids and teens | This sprite needs you
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a virtual pet you can interact with in Scratch.
+  - Vytvoř si virtuálního mazlíčka, postavu nebo simulaci přírody, se kterou může uživatel
+  - interagovat a pomoci jim.
+meta_title: Kódovací projekty ve Scratchi pro děti a náctileté | Tato postava tě potřebuje
+meta_description: Nauč se kódovat ve Scratch s projekty Raspberry Pi Foundation pro děti a dospívající. Vytvoř si virtuálního mazlíčka, se kterým můžeš ve Scratchi interagovat.
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: You will make
+    title: Co budeš dělat
   - 
-    title: Your idea
+    title: Tvůj nápad
   - 
-    title: Build and test
+    title: Vytoř a testuj
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Seznam
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Vylepši si projekt
   - 
-    title: Share
+    title: Sdílej
   - 
-    title: What next?
+    title: Co dál?
