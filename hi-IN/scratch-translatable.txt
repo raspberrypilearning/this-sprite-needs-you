@@ -1,29 +1,29 @@
-Hello
+नमस्ते
 
-name
+नाम
 
-health
+स्वास्थ्य
 
 sun
 
-bees
+मधुमक्खियाँ
 
 flowers
 
-honey
+मधु
 
-fans
+प्रशंसक
 
 name
 
-electricity
+बिजली
 
-volume
+वॉल्यूम
 
-love
+लव
 
-hugs
+ओह
 
-high five
+हाई फाइव
 
-kisses
+किस करता है
