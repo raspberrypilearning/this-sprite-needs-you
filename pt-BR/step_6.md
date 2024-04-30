@@ -1,22 +1,22 @@
-## Share
+## Compartilhar
 
-Now is the time to share your simulation so that users can try it.
+Agora é a hora de compartilhar sua simulação para que os usuários possam experimentá-la.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
+Se você tem uma conta Scratch, você pode compartilhar seu projeto através do Scratch. Verifique primeiro com um adulto. Você pode enviar um link para as pessoas que você conhece, e toda a comunidade Scratch poderá encontrar seu projeto e testá-lo. Certifique-se de preencher a seção **Instruções**, para que os usuários saibam o que precisam fazer para ajudar seu ator principal.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Por que não convidar seus amigos para criar um projeto? Deixe-os saber como você se divertiu.
 
-If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
+Se você tem uma conta Scratch e compartilhou seu projeto, fique atento aos comentários que outras pessoas possam fazer sobre sua criação. O feedback é uma ótima maneira de refletir sobre o seu trabalho. Denuncie e ignore quaisquer comentários que sejam inúteis ou irrelevantes.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire others with your project by submitting it to our Scratch studio!
+Inspire outras pessoas com seu projeto enviando-o para nosso estúdio Scratch!
 
-To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+Para compartilhar seu projeto com outras pessoas que fazem o projeto 'Este ator precisa de você', por favor preencha [este formulário.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
 
 --- /task ---
 
