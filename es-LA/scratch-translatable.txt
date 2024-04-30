@@ -14,7 +14,7 @@ miel
 
 ventiladores
 
-name
+nombre
 
 electricidad
 
