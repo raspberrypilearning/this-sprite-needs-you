@@ -1,14 +1,14 @@
-## Build and test
+## ನಿರ್ಮಿಸಿ ಮತ್ತು ಪರೀಕ್ಷಿಸಿ
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Now it's time to make your project. ಸಣ್ಣದಾಗಿ ಪ್ರಾರಂಭಿಸಿ ಮತ್ತು ನಿಮಗೆ ಸಮಯವಿದ್ದರೆ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಇನ್ನಷ್ಟು ಸೇರಿಸಿ.
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** ನೀವು ಏನನ್ನಾದರೂ ಸೇರಿಸಿದಾಗ ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಮರೆಯದಿರಿ. ನೀವು ಹೆಚ್ಚು ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡುವ ಮೊದಲು ದೋಷಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಮತ್ತು ಸರಿಪಡಿಸುವುದು ತುಂಬಾ ಸುಲಭ.
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+You will need to decide in what order to build your project. ನೀವು:
 
 + Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
 + Create multiple variables with simple ways for the user to control them, and then add more effects later
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### ಧ್ವನಿ:
 
 ```blocks3
 start sound (Pop v)
@@ -130,7 +130,7 @@ start sound (Pop v)
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು ಸರಿಪಡಿಸಬೇಕಾದ ಕೆಲವು ದೋಷಗಳನ್ನು ನೀವು ಕಾಣಬಹುದು. Here are some common bugs.
 
 
 --- collapse ---
@@ -200,7 +200,7 @@ You might find a bug not listed here. Can you figure out how to fix it?
 
 If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+ನಿಮ್ಮ ದೋಷಗಳ ಬಗ್ಗೆ ಮತ್ತು ನೀವು ಅವುಗಳನ್ನು ಹೇಗೆ ಸರಿಪಡಿಸಿದ್ದೀರಿ ಎಂದು ಕೇಳಲು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ. Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
