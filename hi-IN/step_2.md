@@ -1,89 +1,89 @@
-## Your idea
+## आपका विचार
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+अपने वर्चुअल पालतू जानवर, पात्र, या प्रकृति के अनुकरण की योजना बनाएँ। उपयोगकर्ता को मुख्य स्प्राइट की आवश्यकताओं को समर्थन देने के लिए सही स्थिति बनानी होगी। आपका मुख्य स्प्राइट बड़ा हो सकता है, अनुभव प्राप्त कर सकता है, स्वास्थ्य बढ़ा सकता है, या कुछ और हो सकता है।
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+आप केवल सोच, tinking, ड्राइंग या लेखन, या फिर भी अपनी पसंद के अनुसार योजना बना सकते हैं!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+जब <span style="color: #0feb0">basic needs</span> जैसे खाद्य और सुरक्षा को पूरा किया जाता है, तो हम जीवों के लिए (स्वयं सहित) सही स्थिति बना रहे हैं सीखने और बढ़ने के लिए। इसलिए अगली बार जब आप क्रैंकy को महसूस कर रहे हों या आपका ध्यान भंग हो जाए, तो अपनी मूल आवश्यकताओं की जाँच करें।  
 </p>
 
-### Why are you making your project?
+### आप अपना प्रोजेक्ट क्यों बना रहे हैं?
 
 --- task ---
 
-Think about the **purpose** of your project.
+अपने प्रोजेक्ट के **उद्देश्य** के बारे में सोचें।
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+यह हो सकता है:
+- एक नया कौशल सिखाने के लिए, जैसे एक जानवर की देखभाल करना या एक पौधे को जीवित रखना
+- कोई संदेश साझा करने के लिए, जैसे अपने मानसिक स्वास्थ्य की देखभाल करना या अपने पड़ोस में सुधार करना
+- उपयोगकर्ताओं को मनोरंजन करने के लिए, उन्हें कुछ ऐसा देने से उन्हें आमतौर पर बातचीत करने का मौका नहीं मिलेगा
 
 --- /task ---
 
-### Who is it for?
+### यह किसके लिए है?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+इस बारे में सोचें कि आप किसके लिए अपना प्रोजेक्ट बनाएँगे (आपका **श्रोता**)।
 
-Knowing your audience will help you design a project they will want to play again and again.
+अपने दर्शकों को जानने से आपको एक प्रोजेक्ट डिज़ाइन करने में मदद मिलेगी जिसे वे बार-बार चलाना चाहेंगे।
 
 --- /task ---
 
-### Get started
+### प्रारंभ करें
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+[नया स्क्रैच प्रोजेक्ट](http://rpf.io/scratch-new){:target="_blank"} खोलें। Scratch दूसरे ब्राउज़र टैब में खुलेगा।
 
 --- collapse ---
 ---
-title: Working offline
+title: ऑफ़लाइन काम करना
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+ऑफ़लाइन उपयोग के लिए Scratch को सेट करने के लिए [our scratch गाइड](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} पर जाएं।
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+अपने विचारों की योजना बनाने के लिए अपने नए स्क्रैच प्रोजेक्ट, पेन और पेपर या दोनों का उपयोग करें।
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+आपका **main** स्प्राइट क्या होगा?
++ एक पात्र जैसे पालतू या जंगली जानवर, या एक व्यक्ति
++ एक पौधा या फसल जिसे सूर्य के प्रकाश, पानी, और पोषक तत्वों की आवश्यकता होती है
++ विज्ञान या प्रकृति की एक विशेषता, जैसे इंद्रधनुष या आग
++ एक मशीन, जैसे एक पनडुब्बी या एक रीसाइक्लिंग मशीन
++ या कुछ और
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![स्प्राइट्स के कुछ उदाहरण जिनका उपयोग किया जा सकता है; एक केकड़ा, एक पेड़, दुनिया, एक लैपटॉप।](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+अपने **main** स्प्राइट के बारे में सोचें और तय करें:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ किन वस्तुओं और `variables`{:class="block3variables"} की आवश्यकता हो सकती है?
++ क्या `variables`{:class="block3variables"} समय के साथ बदल जाएगा, उदाहरण के लिए हर कुछ सेकंड में भूख या थकावट बढ़ रही है?
++ उपयोगकर्ता मुख्य स्प्राइट के साथ कैसे बातचीत करेगा? यह एक जानवर को खाने के लिए भोजन पर क्लिक कर सकते हैं, या एक पात्र के साथ चैट कर रहे हैं ताकि उनकी बोरियत को कम किया जा सके।
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+अपने प्रोजेक्ट को एक शीर्षक दें जो उपयोगकर्ता को बताता है कि क्या अपेक्षा करनी है, और उन्हें इसे आज़माने के लिए तैयार करता है।
+
+उदाहरण प्रोजेक्ट्स थे: **bat simator**, **मेक a endrogen**, **Grames father**, और **Music Machine**।
+
+![प्रोजेक्ट नाम शीर्षक के साथ Scratch मेन्यू बार भरा गया।](images/project-name.png)
+
+यदि आप एक बेहतर शीर्षक के बारे में सोचते हैं, तो आप बाद में कभी भी शीर्षक को अपडेट कर सकते हैं।
 
 --- /task ---
 
