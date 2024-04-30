@@ -1,89 +1,89 @@
-## Your idea
+## Twój pomysł
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Zaplanuj swojego wirtualnego zwierzaka, postać lub obiekt naturalny. Użytkownik będzie musiał stworzyć odpowiednie warunki dla potrzeb głównego duszka. Twój główny duszek musi urosnąć, zdobyć doświadczenie, wyzdrowieć lub coś innego.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Możesz planować, po prostu myśląc, majsterkując, rysując lub pisząc, lub jakkolwiek chcesz!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+Kiedy <span style="color: #0faeb0">podstawowe potrzeby</span>, takie jak żywność i bezpieczeństwo, są spełnione, tworzymy odpowiednie warunki dla stworzeń (w tym dla nas samych) do nauki i rozwoju. Więc następnym razem, gdy poczujesz się rozdrażniony lub rozproszony, sprawdź swoje podstawowe potrzeby.  
 </p>
 
-### Why are you making your project?
+### Dlaczego robisz projekt?
 
 --- task ---
 
-Think about the **purpose** of your project.
+Pomyśl o **przeznaczeniu** swojego projektu.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+To może być:
+- Nauczenie nowej umiejętności, takiej jak opieka nad zwierzęciem lub utrzymywanie rośliny przy życiu
+- Udostępnienie wiadomości, na przykład "zadbaj o swoje zdrowie psychiczne" lub "popraw swoją okolicę"
+- Rozbawienie użytkowników, dając im coś, z czym zwykle nie mają styczności
 
 --- /task ---
 
-### Who is it for?
+### Dla kogo jest ten projekt?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Zastanów się dla kogo będziesz tworzyć swój projekt (twoja **grupa odbiorców**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Znajomość grupy odbiorców pomoże Ci zaprojektować projekt, w który będą mieli ochotę grać.
 
 --- /task ---
 
-### Get started
+### Zaczynamy
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Otwórz [nowy projekt Scratch](http://rpf.io/scratch-new){:target="_blank"}. Scratch otworzy się w nowej zakładce przeglądarki.
 
 --- collapse ---
 ---
-title: Working offline
+title: Praca offline
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Aby skonfigurować Scratch do użytku offline, odwiedź [nasz przewodnik po Scratchu](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Użyj swojego nowego projekt w Scratchu, papieru i długopisu, albo obu metod, aby zaplanować swoje pomysły.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Jaki będzie twój **główny** duszek?
++ Postać taka jak zwierzę domowe, dzikie zwierzę lub osoba
++ Roślina lub uprawa, która potrzebuje światła słonecznego, wody i składników odżywczych
++ Obiekt naukowy lub przyrodniczy, taki jak tęcza lub ogień
++ Maszyna, taka jak łódź podwodna lub maszyna do recyklingu
++ Albo coś innego
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Kilka przykładów duszków, które można wykorzystać: krab, drzewo, świat, laptop.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Pomyśl o swoim **głównym** duszku i zdecyduj:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Jakie obiekty i `zmienne`{:class="block3variables"} mogą być potrzebne?
++ Czy `zmienne`{:class="block3variables"} zmieniają się w czasie, na przykład głód lub zmęczenie będą narastać co kilka sekund?
++ W jaki sposób użytkownik będzie wchodzić w interakcję z głównym duszkiem? Może to być kliknięcie jedzenia, aby nakarmić zwierzę, lub rozmowa z postacią, aby zmniejszyć jej nudę.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- zadanie ---
+
+Nadaj swojemu projektowi tytuł, który powie użytkownikowi, czego się spodziewać i sprawi, że będzie chciał go wypróbować.
+
+Przykładowe projekty to: **Symulator nietoperza**, **Stwórz tęczę**, **Hodowca arbuzów**i **Muzyczna maszyna**.
+
+![Pasek menu Scratcha z wypełnionym tytułem nazwy projektu.](images/project-name.png)
+
+Zawsze możesz zmienić tytuł później, jeśli wymyślisz lepszy.
 
 --- /task ---
 
