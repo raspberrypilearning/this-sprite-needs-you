@@ -1,32 +1,32 @@
 ---
-title: This sprite needs you
+title: Ten duszek cię potrzebuje
 hero_image: images/banner.png
 description:
-  - Create a virtual pet, character, or nature simulation that the user can
-  - interact with to help it.
-meta_title: Scratch coding projects for kids and teens | This sprite needs you
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a virtual pet you can interact with in Scratch.
+  - Utwórz wirtualnego zwierzaka, postać lub symulację natury, z którą użytkownik może
+  - wchodzić w interakcję, aby mu pomóc.
+meta_title: Projekty programistyczne Scratch dla dzieci i młodzieży | Ten duszek cię potrzebuje
+meta_description: Naucz się programować w języku Scratch dzięki projektom programistycznym Fundacji Raspberry Pi dla dzieci i nastolatków. Stwórz animację historii z niespodzianką.
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: You will make
+    title: Co będziesz robić
   - 
-    title: Your idea
+    title: Twój pomysł
   - 
-    title: Build and test
+    title: Buduj i testuj
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Lista kontrolna
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Ulepsz swój projekt
   - 
-    title: Share
+    title: Udostępnij
   - 
-    title: What next?
+    title: Co dalej?
