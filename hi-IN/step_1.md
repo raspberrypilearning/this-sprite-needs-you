@@ -1,15 +1,15 @@
 ## You will make
 
-Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+एक आभासी पालतू, पात्र, या प्रकृति अनुकरण बनाएँ जिसे उपयोगकर्ता मदद के लिए उसके साथ बातचीत कर सके। आपके गेम को **प्रोजेक्ट ब्रीफ़** से मिलने की आवश्यकता होगी।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
+<span style="color: #0feb0">Virtual pet games</span> एक प्रकार का खेल है जहां उपयोगकर्ता पात्रों की आवश्यकताओं को पूरा करने के लिए पात्रों के साथ बातचीत करते हैं। हो सकता है कि आपने एक छोटे हाथ वाले टामागोत्ची के साथ खेला हो या कैट्स जैसे आनंद भरे खेल और मुझे गोद लिया हो! कंप्यूटर पर। क्या आप किसी अन्य वर्चुअल पालतू खेल के बारे में सोच सकते हैं?
 </p>
 
-You will:
-+ Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
-+ Understand how characters in games and apps are controlled by algorithms
+आप:
++ एक ऐसा पात्र या सिमुलेशन बनाएं जो मजेदार या दिलचस्प हो जिससे बातचीत की जा सके
++ `variables`{:class="block3variables"}, `broadcast`{:class="block3events"} और `if`{:class="block3control"} ब्लॉक्स के किसी भी संयोजन का उपयोग करें, जो आपने पहले से सीखा है, एक पात्र की आवश्यकताओं को पूरा करने के लिए एक उपयोगकर्ता को अनुमति दें
++ समझें कि गेम्स और एप्स में पात्र कैसे एल्गोरिदम द्वारा नियंत्रित होते हैं
 
 --- no-print --- --- task ---
 
@@ -18,7 +18,7 @@ You will:
 
 ### Play ▶️ 
 
-Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
+Interact with Cricket the bat. क्या होता है यदि आप भोजन या पानी के स्प्राइट पर क्लिक करते हैं? आप कैसे बता सकते हैं कि बल्ला भूखा है या प्यासा?
 
 </div>
 <div>
@@ -35,21 +35,21 @@ Interact with Cricket the bat. What happens if you click on the food or water sp
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Help me grow
-<hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
+### प्रोजेक्ट संक्षिप्त:
+<hr style="barget-top: 2px ठोस काला;"> आपको
+एक वर्चुअल पालतू, पौधा, या अन्य सिमुलेशन बनाने की आवश्यकता है जिससे उपयोगकर्ता अपनी आवश्यकताओं को पूरा करने के लिए आपस में बातचीत कर सके। आप अपने मुख्य स्प्राइट के कार्य करने के तरीके का ट्रैक रखने के लिए वेरिएबल (variables)** का उपयोग करेंगे। यह खुश, ऊबा, प्यासा, या निंद्रा हो सकता है। 
 
-Your simulation should:
-+ Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
-+ Have a way for the variable(s) to change automatically
-+ Give the user a way to improve the variables to give the main sprite what it needs
-+ Use `if`{:class="block3control"} blocks to control when things happen
-+ Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+आपका अनुकरण चाहिए:
+मुख्य स्प्राइट को
 
-Your simulation could:
-+ Have a message, such as kindness or keeping crops healthy
-+ Alert the user when levels are too high or low
-+ Allow the user to chat with their sprite, or change its name
+कौन सी आवश्यकता है इसका ट्रैक रखने के लिए + के पास वेरिएबल(वेरिएबल) को स्वचालित रूप से बदलने का एक तरीका है + उपयोगकर्ता को मुख्य स्प्राइट देने के लिए वेरिएबल्स में सुधार करने का एक तरीका दें कि
+इसे + 'if'{:class="block3control"} ब्लॉक का उपयोग करें जब यह नियंत्रित करने के लिए चीजें होती
+हैं + अन्य स्प्राइट्स और मुख्य स्प्राइट
+
+के बीच संवाद करने के लिए "bock3events"{:class="block3events"} ब्लॉक्स का उपयोग करें आपका सिमुलेशन यह कर सकता है:
++ के पास एक संदेश है, जैसे दयाता या फसलों को स्वस्थ रखना
++ जब स्तर बहुत अधिक या कम हैं
+तो उपयोगकर्ता को अपने स्प्राइट के साथ चैट करने की अनुमति दें, या इसका नाम बदलें
 </div>
 
 --- no-print ---
@@ -60,7 +60,7 @@ Your simulation could:
 
 ⭐ Share your finished Silly eyes project for a chance of it being featured here.
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+इस बारे में सोचें कि आप एक मुख्य स्प्राइट के रूप में क्या चुनेंगे। यह एक पालतू जानवर हो सकता है जिसे उपयोगकर्ता परवाह करता है, एक व्यक्ति जिसे उपयोगकर्ता अच्छे निर्णय लेने में मदद करता है, एक पौधा या फसल जिसे बढ़ाने में उपयोगकर्ता मदद करता है, या एक ऐसा प्रकृति या काल्पनिक वस्तु जिसे उपयोगकर्ता के लिए सही स्थिति बनाने की आवश्यकता है।
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -79,11 +79,11 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 ### Get ideas 💭
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+इस बारे में सोचें कि आप एक मुख्य स्प्राइट के रूप में क्या चुनेंगे। यह एक पालतू जानवर हो सकता है जिसे उपयोगकर्ता परवाह करता है, एक व्यक्ति जिसे उपयोगकर्ता अच्छे निर्णय लेने में मदद करता है, एक पौधा या फसल जिसे बढ़ाने में उपयोगकर्ता मदद करता है, या एक ऐसा प्रकृति या काल्पनिक वस्तु जिसे उपयोगकर्ता के लिए सही स्थिति बनाने की आवश्यकता है।
 
-**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+**अंदर देखें** उदाहरण प्रोजेक्ट्स में 'इस स्प्राइट को आपकी आवश्यकता है - उदाहरण' स्क्रैच स्टूडियो: https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/rainbow-project.png)
+![पूर्ण परियोजनाएं](images/bat-project.png) ![पूर्ण परियोजनाएं](images/watermelon-project.png) ![पूर्ण परियोजनाएं](images/rainbow-project.png)
 
 --- /print-only ---
 
