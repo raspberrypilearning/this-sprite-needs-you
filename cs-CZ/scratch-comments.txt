@@ -1,3 +1,3 @@
-means the health variable must be bigger than 0
+znamená, že proměnná zdraví musí být větší než 0
 
-means the health variable must be smaller than 5
+znamená, že proměnná zdraví musí být menší než 5
