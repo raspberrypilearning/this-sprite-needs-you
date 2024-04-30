@@ -1,87 +1,87 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+क्या आप **प्रोजेक्ट ब्रीफ़** से मिले? अपने प्रोजेक्ट के बारे में सोचें और नीचे दी गई चेकलिस्ट पर जाएं। अपने प्रोजेक्ट पर लागू होने वाले को चेक करें।
 
-Does your project:
+क्या आपका प्रोजेक्ट:
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+मुख्य स्प्राइट को किन चीज़ों की आवश्यकता है, इसका ट्रैक रखने के लिए कम से कम एक `वेरिएबल`{:class="block3variables"} का उपयोग करें
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+आपके पास वेरिएबल(वेरिएबल) को अपने आप बदलने का एक तरीका है
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+उपयोगकर्ता को मुख्य स्प्राइट को उसकी आवश्यकता बताने के लिए वेरिएबल्स में सुधार करने का एक तरीका दें
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+चीजों के होने पर नियंत्रण करने के लिए `if`{:class="block3control"} ब्लॉक्स का उपयोग करें
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+अन्य स्प्राइट्स और मुख्य स्प्राइट के बीच संचार करने के लिए `broadcast`{:class="block3events"} ब्लॉक्स का उपयोग करें
 
 --- /task ---
 
-Your simulation could also:
+आपका सिमुलेशन यह भी कर सकता है:
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+एक शैक्षिक संदेश प्राप्त करें, जैसे दयालुता या फसलों को स्वस्थ रखना
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+जब स्तर बहुत अधिक या कम हों तो उपयोगकर्ता को चेतावनी दें
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+उपयोगकर्ता को अपने स्प्राइट के साथ चैट करने, या उसका नाम बदलने की अनुमति दें
+
+--- /task ---
+
+अपने भविष्य के प्रोजेक्ट्स में आपकी मदद करने के लिए आप कैसे अपना सिमुलेशन बनाते हैं, इस पर विचार करें:
 
 --- task ---
 
-How did you get your ideas? 
+आपको अपने विचार कैसे प्राप्त हुए? 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+आपने कौन सी नई चीज़ (चीजों) सीखेगी?
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### अब आप एक सिमुलेशन के निर्माता हैं!
 
-Take a moment to celebrate what you have made.
+आपने जो बनाया है, उसे मनाने के लिए थोड़ा समय दें।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+<span style="color: #0feb0">कंप्यूटर सिमुलेशन</span> हमें ऐसी परिस्थितियों का अनुभव करने की अनुमति दे सकता है जो हम वास्तविक जीवन में नहीं कर सके। कंप्यूटर सिमुलेशन हैं जो सर्जनों को परिचालन का अभ्यास करने की अनुमति देते हैं। ऐसे सिमुलेशन हैं जो अंतरिक्ष इंजीनियरों को यह पूर्वानुमान लगाने की अनुमति देते हैं कि जब वे रॉकेट को लॉन्च करेंगे तो क्या होगा, और क्या होता है यह देखने के लिए वेरिएबल्स में परिवर्तन कर सकते हैं। और गेम सिमुलेशन हैं जो आपको एक पालतू जानवर, व्यक्ति, परिवार या नौकरी का ध्यान रखने की अनुमति देते हैं। 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+आप अपनी नई शक्तियां कहाँ से लेंगे? आप आगे क्या सिमुलेशन बनाएंगे?
 
 <!-- free text answer, 3 characters possibly -->
 
