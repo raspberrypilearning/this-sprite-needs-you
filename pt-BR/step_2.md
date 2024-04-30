@@ -1,89 +1,89 @@
-## Your idea
+## A sua idéia
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Planeje seu animal de estimação virtual, personagem ou simulação da natureza. O usuário terá que criar as condições certas para atender às necessidades do ator principal. Seu ator principal pode ficar maior, ganhar experiência, aumentar a saúde ou qualquer outra coisa.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Você pode planejar pensando, mexendo, desenhando, escrevendo ou como quiser!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+Quando as <span style="color: #0faeb0">necessidades básicas</span> como alimentação e segurança são atendidas, estamos criando as condições certas para que as criaturas (incluindo nós mesmos) aprendam e cresçam. Portanto, da próxima vez que você se sentir irritado ou distraído, verifique suas necessidades básicas.  
 </p>
 
-### Why are you making your project?
+### Por que você está fazendo seu projeto?
 
 --- task ---
 
-Think about the **purpose** of your project.
+Pense no **propósito** do seu projeto.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+Pode ser:
+- Para ensinar uma nova habilidade, como cuidar de um animal ou manter uma planta viva
+- Para compartilhar uma mensagem, como cuidar de sua saúde mental ou melhorar sua vizinhança
+- Para entreter os usuários, dando-lhes algo com o qual eles normalmente não teriam a oportunidade de interagir
 
 --- /task ---
 
-### Who is it for?
+### Para quem é isso?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Pense para quem você fará seu projeto (seu **público**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Conhecer o seu público o ajudará a criar um projeto que eles desejarão jogar continuamente.
 
 --- /task ---
 
-### Get started
+### Começando
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Abra um [novo projeto Scratch](http://rpf.io/scratch-new){:target="_blank"}. O Scratch será aberto em outra guia do navegador.
 
 --- collapse ---
 ---
-title: Working offline
+title: Trabalhando offline
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Para configurar o Scratch para uso offline, utilize [nosso guia do Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Use seu novo projeto Scratch, uma caneta e papel ou ambos para planejar suas ideias.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Qual será o seu ator **principal**?
++ Um personagem como um animal de estimação ou selvagem, ou uma pessoa
++ Uma planta ou cultura que precisa de luz solar, água e nutrientes
++ Uma característica da ciência ou da natureza, como um arco-íris ou um fogo
++ Uma máquina, como um submarino ou uma máquina de reciclagem
++ Ou alguma outra coisa
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Alguns exemplos de atores que poderiam ser utilizados; um caranguejo, uma árvore, o mundo, um laptop.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Pense no seu ator **principal** e decida:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Quais objetos e `variáveis`{:class="block3variables"} podem ser necessários?
++ As `variáveis`{:class="block3variables"} mudarão com o tempo, por exemplo, a fome ou o cansaço aumentarão a cada poucos segundos?
++ Como o usuário irá interagir com o ator principal? Pode ser clicando na comida para alimentar um animal ou conversando com um personagem para reduzir o tédio.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- tarefa ---
+
+Dê ao seu projeto um título que diga ao usuário o que esperar e faça com que ele queira experimentá-lo.
+
+Os projetos de exemplo foram: **Simulador de morcego**, **Faça um arco-íris**, **Fazendeiro de melancia** e **Máquina de música**.
+
+![A barra de menu do Scratch com o título do projeto preenchido.](images/project-name.png)
+
+Você sempre pode atualizar o título mais tarde se pensar em um melhor.
 
 --- /task ---
 
