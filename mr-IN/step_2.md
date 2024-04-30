@@ -1,4 +1,4 @@
-## Your idea
+## तुमची कल्पना
 
 Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
 
@@ -16,7 +16,7 @@ When <span style="color: #0faeb0">basic needs</span> like food and safety are me
 
 Think about the **purpose** of your project.
 
-It could be:
+हे असू शकते:
 - To teach a new skill, such as looking after an animal or keeping a plant alive
 - To share a message, such as look after your mental health or improve your neighbourhood
 - To entertain users, by giving them something they wouldn't usually get the chance to interact with
@@ -33,15 +33,15 @@ Knowing your audience will help you design a project they will want to play agai
 
 --- /task ---
 
-### Get started
+### सुरु करूया
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch दुसऱ्या ब्राऊजर टॅब मध्ये उघडेल.
 
 --- collapse ---
 ---
-title: Working offline
+title: ऑफलाईन कार्य करणे
 ---
 
 To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
