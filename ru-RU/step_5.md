@@ -1,15 +1,15 @@
-## Upgrade your project
+## Улучшение своего проекта
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Если у тебя есть время, ты можешь улучшить свой проект. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
 
-You could:
+Ты можешь:
 - Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
 - Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
 - Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
 - Add animations using `graphic effects`{:class="block3looks"} or costumes
 - Add more `sound effects`{:class="block3sound"}
 
-## Get inspiration
+## Идеи для вдохновения
 
 Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
 
