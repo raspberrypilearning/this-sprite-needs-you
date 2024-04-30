@@ -1,29 +1,29 @@
-Hello
+Witaj
+
+nazwa
+
+zdrowie
+
+słońce
+
+pszczoły
+
+kwiaty
+
+miód
+
+fani
 
 name
 
-health
+elektryczność
 
-sun
+głośność
 
-bees
+miłość
 
-flowers
+przytulasy
 
-honey
+piątka
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+buziaczki
