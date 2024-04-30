@@ -1,0 +1,23 @@
+---
+title: Este ator precisa de você
+hero_image: images/banner.png
+description: Crie um animal de estimação virtual, personagem ou simulação da natureza que o usuário possa interagir para ajudá-lo.
+meta_title: Projetos de codificação Scratch para crianças e adolescentes | Este ator precisa de você
+meta_description: Aprenda a programar no Scratch com os projetos de codificação da Raspberry Pi Foundation para crianças e adolescentes. Crie um animal de estimação virtual com o qual você possa interagir no Scratch.
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - title: Você vai fazer
+  - title: A sua ideia
+  - title: Construir e testar
+    completion:
+      - engaged
+      - internal
+  - title: Lista de tarefas
+    completion:
+      - external
+  - title: Melhore o seu projeto
+  - title: Compartilhar
+  - title: E agora?
