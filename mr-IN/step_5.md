@@ -1,15 +1,15 @@
-## Upgrade your project
+## तुमचा प्रकल्प अपग्रेड करा
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+तुमच्याकडे वेळ असल्यास, तुम्ही तुमचा प्रोजेक्ट अपग्रेड करू शकता. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
 
-You could:
+तुम्ही हे करू शकता:
 - Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
 - Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
 - Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
 - Add animations using `graphic effects`{:class="block3looks"} or costumes
 - Add more `sound effects`{:class="block3sound"}
 
-## Get inspiration
+## प्रेरणा मिळवा
 
 Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
 
