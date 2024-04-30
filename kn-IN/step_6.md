@@ -1,14 +1,14 @@
-## Share
+## ಹಂಚಿಕೊಳ್ಳಿ
 
 Now is the time to share your simulation so that users can try it.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
+ನೀವು ಸ್ಕ್ರಾಚ್ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ನೀವು ಸ್ಕ್ರಾಚ್ ಮೂಲಕ ಹಂಚಿಕೊಳ್ಳಬಹುದು. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+ಯೋಜನೆಯನ್ನು ರಚಿಸಲು ನಿಮ್ಮ ಸ್ನೇಹಿತರನ್ನು ಏಕೆ ಆಹ್ವಾನಿಸಬಾರದು? ನೀವು ಹೇಗೆ ಆನಂದಿಸಿದ್ದೀರಿ ಎಂದು ಅವರಿಗೆ ತಿಳಿಸಿ.
 
-If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
+If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಪ್ರತಿಬಿಂಬಿಸಲು ಪ್ರತಿಕ್ರಿಯೆ ಉತ್ತಮ ಮಾರ್ಗವಾಗಿದೆ. Report and ignore any comments that are unhelpful or irrelevant.
 
 [[[comments-feedback-scratch]]]
 
