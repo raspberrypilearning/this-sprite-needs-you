@@ -1,22 +1,22 @@
-## Share
+## शेयर करें
 
-Now is the time to share your simulation so that users can try it.
+अब समय आ गया है कि आप अपने सिमुलेशन को शेयर करें ताकि उपयोगकर्ता इसे आजमा सकें।
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project to try it out. Make sure you fill in the **Instructions** section, so that users know what they need to do to help your main sprite.
+यदि आपके पास एक Scratch खाता है, तो आप अपने प्रोजेक्ट को Scratch के माध्यम से साझा कर सकते हैं। सबसे पहले एक वयस्क से जाँच करें। आप उन लोगों को एक लिंक भेज सकते हैं जिन्हें आप जानते हैं, और पूरा स्क्रैच समुदाय आपका प्रोजेक्ट आज़माने में सक्षम होगा। सुनिश्चित करें कि आप **निर्देशों** अनुभाग में भरें, ताकि उपयोगकर्ता यह जान सकें कि आपके मुख्य स्प्राइट की मदद के लिए उन्हें क्या करने की आवश्यकता है।
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+प्रोजेक्ट बनाने के लिए अपने दोस्तों को क्यों न आमंत्रित करें? उन्हें बताएं कि आपने कैसे मस्ती की।
 
-If you have a Scratch account, and have shared your project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Report and ignore any comments that are unhelpful or irrelevant.
+यदि आपके पास एक Scratch खाता है, और आपने अपना प्रोजेक्ट साझा किया है, तो उन टिप्पणियों के लिए एक नज़र रखें जो अन्य लोग आपके निर्माण के बारे में कर सकते हैं। प्रतिक्रिया आपके काम को प्रतिबिंबित करने का एक बेहतरीन तरीका है। उन टिप्पणियों की रिपोर्ट करें और उन पर ध्यान न दें जो मददगार या असंगत हैं।
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire others with your project by submitting it to our Scratch studio!
+अपने प्रोजेक्ट के साथ अन्य लोगों को हमारे स्क्रैच स्टूडियो में सबमिट करके प्रेरित करें!
 
-To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+अपने प्रोजेक्ट को उन अन्य लोगों के साथ साझा करने के लिए जो 'इस स्प्राइट को आपकी आवश्यकता है' प्रोजेक्ट बनाते हैं, कृपया [this फॉर्म को पूरा करें।](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
 
 --- /task ---
 
