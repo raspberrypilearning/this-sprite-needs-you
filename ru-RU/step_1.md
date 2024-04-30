@@ -6,7 +6,7 @@ Create a virtual pet, character, or nature simulation that the user can interact
 <span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
 </p>
 
-You will:
+Ты:
 + Make a character or simulation that is fun or interesting to interact with
 + Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
 + Understand how characters in games and apps are controlled by algorithms
@@ -83,7 +83,7 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 **See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/rainbow-project.png)
+![Завершить проект](images/bat-project.png) ![Завершить проект](images/watermelon-project.png) ![Завершить проект](images/rainbow-project.png)
 
 --- /print-only ---
 
