@@ -1,24 +1,23 @@
-## You will make
+## Co będziesz robić
 
-Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+Stwórz wirtualnego zwierzaka lub postać, którym użytkownik może pomóc. Twoja gra musi spełnić **wymagania projektu**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
+<span style="color: #0faeb0">Wirtualne zwierzaki</span> to typ gry, w której użytkownik reaguje na wymagania postaci. Mogłeś już grać w Tamagotchi lub adopcję wirtualnego psa lub kota!   Czy znasz inne tego typu gry?
 </p>
 
-You will:
-+ Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
-+ Understand how characters in games and apps are controlled by algorithms
+Twoje zadanie:
++ Stwórz zabawną lub interesującą postać
++ Za pomocą dotychczas poznanych umiejętności użyj dowolnej kombinacji bloków `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, i `if`{:class="block3control"} aby pozwolić użytkownikowi na interakcję z postacią
++ Zrozumienie jak postacie w grach i aplikacjach są kontrolowane przez algorytmy
 
 --- no-print --- --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
-
-Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
+### Odtwórz▶️ 
+Wejdź w interakcję z nietoperzem. Co się dzieje, kiedy klikniesz na jedzenie lub wodę? Skąd wiesz czy nietoperz jest głodny lub spragniony?
 
 </div>
 <div>
@@ -35,32 +34,32 @@ Interact with Cricket the bat. What happens if you click on the food or water sp
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Help me grow
+### WYMAGANIA PROJEKTU: Pomóż mi urosnąć
 <hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
+Stwórz wirtualnego zwierzaka, roślinę lub postać, z którą użytkownik może wejść w interakcję, aby spełnić jej wymagania. Użyjesz **variables** aby śledzić, jak się czuje Twój duszek. Może być szczęśliwy, znudzony, spragniony lub senny. 
 
-Your simulation should:
-+ Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
-+ Have a way for the variable(s) to change automatically
-+ Give the user a way to improve the variables to give the main sprite what it needs
-+ Use `if`{:class="block3control"} blocks to control when things happen
-+ Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Twoja symulacja powinna:
++ Używać co najmniej jednej `variable`{:class="block3variables"} aby śledzić czego potrzebuje główny duszek
++ Znaleźć sposób, aby zmienne same się zmieniały
++ Dać użytkownikowi możliwość ulepszenia zmiennych, aby dostarczyć duszkowi to, czego potrzebuje
++ Użyj bloków typu `if`{:class="block3control"}, aby kontrolować kiedy coś się wydarzy
++ Użyj bloków typu `broadcast`{:class="block3events"}, aby komunikować się pomiędzy duszkami
 
-Your simulation could:
-+ Have a message, such as kindness or keeping crops healthy
-+ Alert the user when levels are too high or low
-+ Allow the user to chat with their sprite, or change its name
+Twoja symulacja może:
++ Przekazywać wiadomość, taką jak życzenie powodzenia
++ Ostrzegać użytkownika kiedy poziomy są zbyt wysokie lub niskie
++ Pozwalać użytkownikowi rozmawiać z duszkiem lub zmieniać mu imię
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Znajdź pomysł
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Udostępnij swój ukończony projekt. Najlepsze projekty posłużą jako przykłady dla innych.
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Pomyśl, jaka będzie Twoja główna postać. Może to być zwierzak, którym trzeba się zaopiekować, osoba, której trzeba pomóc podjąć dobrą decyzję, lub roślina, której trzeba pomóc rosnąć.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -77,13 +76,13 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 --- print-only ---
 
-### Get ideas 💭
+### Znajdź pomysł 💭
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Pomyśl, jaka będzie Twoja główna postać. Może to być zwierzak, którym trzeba się zaopiekować, osoba, której trzeba pomóc podjąć dobrą decyzję, lub roślina, której trzeba pomóc rosnąć.
 
-**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+**Zobacz** przykładowe projekty w studio Scratcha 'Ten duszek Cię potrzebuje — przykłady': https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/rainbow-project.png)
+![Skończony projekt](images/bat-project.png) ![Skończony projekt](images/watermelon-project.png) ![Skończony projekt](images/rainbow-project.png)
 
 --- /print-only ---
 
