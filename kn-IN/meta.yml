@@ -14,9 +14,9 @@ steps:
   - 
     title: You will make
   - 
-    title: Your idea
+    title: ನಿಮ್ಮ ವಿಚಾರ
   - 
-    title: Build and test
+    title: ನಿರ್ಮಿಸಿ ಮತ್ತು ಪರೀಕ್ಷಿಸಿ
     completion:
       - engaged
       - internal
@@ -25,8 +25,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ
   - 
-    title: Share
+    title: ಹಂಚಿಕೊಳ್ಳಿ
   - 
-    title: What next?
+    title: ಮುಂದೆ ಏನು?
