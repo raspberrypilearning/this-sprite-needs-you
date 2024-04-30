@@ -16,7 +16,7 @@ When <span style="color: #0faeb0">basic needs</span> like food and safety are me
 
 Think about the **purpose** of your project.
 
-It could be:
+Это может быть:
 - To teach a new skill, such as looking after an animal or keeping a plant alive
 - To share a message, such as look after your mental health or improve your neighbourhood
 - To entertain users, by giving them something they wouldn't usually get the chance to interact with
@@ -33,11 +33,11 @@ Knowing your audience will help you design a project they will want to play agai
 
 --- /task ---
 
-### Get started
+### Начни
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Открой [новый проект Scratch](http://rpf.io/scratch-new){:target="_ blank"}. Scratch откроется в другой вкладке браузера.
 
 --- collapse ---
 ---
