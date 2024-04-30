@@ -1,15 +1,15 @@
-## Upgrade your project
+## Ulepsz swój projekt
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Jeśli masz czas, możesz ulepszyć swój projekt. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
 
-You could:
+Mógłbyś:
 - Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
 - Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
 - Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
 - Add animations using `graphic effects`{:class="block3looks"} or costumes
 - Add more `sound effects`{:class="block3sound"}
 
-## Get inspiration
+## Zainspiruj się
 
 Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
 
@@ -27,10 +27,10 @@ When you make a Scratch project, there are lots of ways to make sure you've done
 
 Can you use marginal gains to change one thing now that will help you in future? Things to do:
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
++ Nadaj sensowne nazwy wszystkim duszkom, kostiumom, dźwiękom, zmiennym i wiadomościom. It's much easier to understand projects that use helpful names
 + Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
++ Dodaj krótkie komentarze, które wyjaśniają, co robi Twój kod
++ Upewnij się, że masz porządek w skryptach w zakładce **Skrypt**. Możesz kliknąć prawym przyciskiem myszy i wybrać **Posprzątaj bloki** lub ułożyć skrypty w odpowiedni dla siebie sposób. Spróbuj połączyć ze sobą podobne skrypty.
 
 --- /task ---
 
