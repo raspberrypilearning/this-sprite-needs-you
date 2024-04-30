@@ -1,36 +1,36 @@
-## Upgrade your project
+## Melhore o seu projeto
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Se você tiver tempo, pode atualizar seu projeto. Você pode já ter ideias para melhorar seu trabalho ou pode querer voltar ao primeiro passo e olhar para outros projetos novamente para obter mais inspiração.
 
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+Você poderia:
+- Adicionar mais `variáveis`{:class="block3variables"} que representam coisas que seu ator principal deseja ou precisa.
+- Verifique mais **condições** usando instruções `se`{:class="block3control"} e faça seu ator fazer coisas diferentes dependendo se a condição é verdadeira ou falsa
+- Adicione mais atores que possam ser usados para interagir com seu ator principal, como botões ou brinquedos.
+- Adicione animações usando `efeitos gráficos`{:class="block3looks"} ou fantasias
+- Adicione mais `efeitos sonoros`{:class="block3sound"}
 
-## Get inspiration
+## Inspire-se
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+Cada projeto de exemplo na [Introdução](.) tem um link 'Ver interior' para você abrir o projeto no Scratch, olhar o código para ter ideias e ver como elas funcionam.
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+Dê uma olhada em alguns projetos **Este ator precisa de você** criados por membros da comunidade no estúdio da Raspberry Pi Foundation de projetos **Este ator precisa de você - Comunidade** [Ver interior](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
 
-## Small improvements
+## Pequenas melhorias
 
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
+Quando você cria um projeto no Scratch, há muitas maneiras de garantir que você fez um trabalho realmente bom.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
+<span style="color: #0faeb0">Ganhos marginais</span> são pequenas melhorias que não fazem muita diferença por si só, mas quando somadas, proporcionam um grande ganho na qualidade do seu trabalho e aceleram a realização de mais alterações. 
 </p>
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+Você pode usar ganhos marginais para mudar algo agora que o ajudará no futuro? Coisas para fazer:
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
++ Nomeie todos os atores, fantasias, sons, variáveis e mensagens de maneira sensata. É muito mais fácil entender projetos que usam nomes úteis
++ Preencha a página do projeto com um bom título, instruções e notas para que os usuários saibam como usar seu projeto e de onde você tirou as ideias
++ Adicione comentários curtos que expliquem o que seu código está fazendo
++ Certifique-se de que seus scripts estejam organizados na guia **Código**. Você pode clicar com o botão direito e escolher **Organizar Blocos** ou organizar os scripts de uma forma que faça sentido para você. Tente colocar scripts semelhantes juntos.
 
 --- /task ---
 
