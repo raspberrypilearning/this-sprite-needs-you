@@ -1,5 +1,5 @@
 ---
-title: This sprite needs you
+title: इस स्प्राइट को आपकी आवश्यकता है
 hero_image: images/banner.png
 description:
   - Create a virtual pet, character, or nature simulation that the user can
@@ -14,9 +14,9 @@ steps:
   - 
     title: You will make
   - 
-    title: Your idea
+    title: आपका विचार
   - 
-    title: Build and test
+    title: निर्माण और परीक्षण करें
     completion:
       - engaged
       - internal
@@ -25,8 +25,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: अपने प्रोजेक्ट को अपग्रेड करें
   - 
-    title: Share
+    title: शेयर करें
   - 
-    title: What next?
+    title: आगे क्या?
