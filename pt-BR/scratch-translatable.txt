@@ -1,29 +1,29 @@
-Hello
+Olá
+
+nome
+
+saúde
+
+sol
+
+abelhas
+
+flores
+
+mel
+
+fãs
 
 name
 
-health
-
-sun
-
-bees
-
-flowers
-
-honey
-
-fans
-
-name
-
-electricity
+eletricidade
 
 volume
 
-love
+amor
 
-hugs
+abraços
 
-high five
+toca aqui
 
-kisses
+beijos
