@@ -1,36 +1,36 @@
-## Upgrade your project
+## प्रोजेक्ट को अपग्रेड करें
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+यदि आपके पास समय है, तो आप अपने प्रोजेक्ट को अपग्रेड कर सकते हैं। आपके पास पहले से अधिक जोड़ने के लिए विचार हो सकते हैं, या हो सकता है कि आप पहले चरण पर वापस जाना चाहें और अधिक प्रेरणा के लिए अन्य प्रोजेक्ट्स को फिर से देखना चाहें।
 
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
+आप ऐसा कर सकते हैं:
+- अधिक `variables`{:class="block3variables"} जोड़ें जो उन चीजों का प्रतिनिधित्व करता है जो आपकी मुख्य स्प्राइट इच्छा या आवश्यकताओं का प्रतिनिधित्व करते हैं।
+- `if`{:class="block3control"} कथनों का उपयोग करके और अधिक **conditions** देखें, और शर्त सत्य या असत्य है या नहीं, इस पर निर्भर करते हुए अपने स्प्राइट को अलग-अलग काम करने दें
+- अधिक स्प्राइट जोड़ें जिनका उपयोग आपके मुख्य स्प्राइट के साथ बातचीत करने के लिए किया जा सकता है, जैसे बटन या खिलौने।
+- `pग्राफ़िक इफेक्ट्स`{:class="block3looks"} या पोशाक का उपयोग करके एनीमेशन जोड़ें
+- अधिक `ध्वनि प्रभाव`{:class="block3sound"} जोड़ें
 
-## Get inspiration
+## प्रेरणा प्राप्त करें
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+[परिचय](में प्रत्येक उदाहरण प्रोजेक्ट।) में स्क्रैच में प्रोजेक्ट खोलने के लिए आपके लिए एक >'s के अंदर" लिंक है, विचारों को प्राप्त करने के लिए कोड देखें, और देखें कि वे कैसे काम करते हैं।
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+इस स्प्राइट को **इस स्प्राइट की आवश्यकता है आपको** ऐसे प्रोजेक्ट जो समुदाय सदस्यों द्वारा <strong x-id="1" के स्टूडियो में बनाए गए हैं, उन्हें आपको आवश्यकता है - समुदाय</strong> प्रोजेक्ट्स [See in](https://scratch.mit.edu/studios/29722869/){:target="_blank"}।
 
-## Small improvements
+## छोटे सुधार
 
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
+जब आप एक स्क्रैच प्रोजेक्ट बनाते हैं, तो यह सुनिश्चित करने के लिए कई तरीके हैं कि आपने वास्तव में एक अच्छा काम किया है।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
+<span style="colour: #0feb0">simal gives</span> छोटे अपग्रेड हैं जो अपने आप में अधिक अंतर नहीं करते हैं, लेकिन जब एक साथ जोड़े जाते हैं, तो वे आपके काम की गुणवत्ता और गति में बड़ा सुधार करते हैं आप और अधिक बदलाव कर सकते हैं। 
 </p>
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+क्या आप अब एक चीज़ बदलने के लिए मामूली लाभ का उपयोग कर सकते हैं जो भविष्य में आपकी मदद करेगा? करने के लिए चीजें:
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
++ सभी स्प्राइट, पोशाक, आवाज़, वेरिएबल और संदेशों को प्राबोधित रूप से नाम दें। उन प्रोजेक्ट्स को समझना बहुत आसान है जो उपयोगी नामों का उपयोग करते हैं
++ प्रोजेक्ट पृष्ठ को एक अच्छे शीर्षक, निर्देशों और नोट्स से भरें, ताकि उपयोगकर्ता अपने प्रोजेक्ट का उपयोग करना जानते हैं, और जहाँ से आपको विचार प्राप्त हुए हैं
++ छोटी टिप्पणियाँ जोड़ें जो यह बताती है कि आपका कोड क्या कर रहा है
++ सुनिश्चित करें कि आपकी स्क्रिप्ट्स **code** टैब में टिडी हैं। आप राइट-क्लिक कर सकते हैं और **sleet up blocks** चुन सकते हैं या स्क्रिप्ट को इस तरह से व्यवस्थित कर सकते हैं जो आपके लिए सार्थक हो। कोशिश करें और समान स्क्रिप्ट को एक साथ रखें।
 
 --- /task ---
 
