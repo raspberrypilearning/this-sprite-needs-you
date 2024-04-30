@@ -1,4 +1,4 @@
-## Build and test
+## तयार करा आणि चाचणी करा
 
 Now it's time to make your project. Start small, and add more to your project if you have time.
 
@@ -8,7 +8,7 @@ Now it's time to make your project. Start small, and add more to your project if
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+You will need to decide in what order to build your project. तुम्ही हे करू शकता:
 
 + Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
 + Create multiple variables with simple ways for the user to control them, and then add more effects later
