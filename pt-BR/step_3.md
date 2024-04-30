@@ -1,25 +1,25 @@
-## Build and test
+## Construir e testar
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Agora é hora de fazer seu projeto. Comece pequeno e acrescente mais ao seu projeto se tiver tempo.
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Dica:** Lembre-se de testar seu projeto sempre que adicionar algo. É muito mais fácil localizar e corrigir bugs antes de fazer mais alterações.
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+Você precisará decidir em que ordem construir seu projeto. Você poderia:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later
++ Criar uma variável e permitir que o usuário a controle. Adicionar animações, fantasias, sons, efeitos e conversas para dar vida ao ator
++ Criar múltiplas variáveis com maneiras simples para o usuário controlá-las e adicionar mais efeitos posteriormente
 
-Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
+Adicionar um ator e depois criar uma `variável`{:class="block3variables"} é um ótimo começo.
 
 --- /task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete para ajudá-lo a fazer seu projeto:
 
-### Using variables
+### Usando variáveis
 
 ```blocks3
 set [my variable v] to (0)
@@ -31,7 +31,7 @@ set [my variable v] to (0)
 
 [[[scratch3-change-variable-in-loop]]]
 
-### Checking conditions
+### Verificando condições
 
 ```blocks3
 if <(my variable) = (0)> then
@@ -45,7 +45,7 @@ if <(my variable) = (0)> then
 
 [[[scratch3-set-block-input-colour-with-eyedropper]]]
 
-### Broadcasting and receiving messages
+### Transmitir e receber mensagens
 
 ```blocks3
 broadcast [message1 v]
@@ -53,7 +53,7 @@ broadcast [message1 v]
 
 [[[generic-scratch3-broadcast-message]]]
 
-### Working with text:
+### Trabalhando com texto:
 
 ```blocks3
 say (join[Hello ](name)) for (2) seconds
@@ -65,7 +65,7 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement, and graphic effects
+### Cenários, movimento e efeitos gráficos
 
 ```blocks3
 set [ghost v] effect to (0)
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### Som:
 
 ```blocks3
 start sound (Pop v)
@@ -99,7 +99,7 @@ start sound (Pop v)
 
 [[[scratch3-text-to-speech]]]
 
-### Paint editor — backdrops and costumes
+### O editor Paint — cenários e fantasias
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -111,7 +111,7 @@ start sound (Pop v)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Scratch editor
+### O editor Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -124,34 +124,34 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game?
+**Teste:** Mostre seu projeto a outra pessoa e peça sua opinião. Quer fazer alguma alteração no seu jogo?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Depurar:** Talvez você encontre alguns bugs em seu projeto que precisam de correção. Aqui estão alguns bugs comuns.
 
 
 --- collapse ---
 
 ---
-title: Variables aren't updating correctly
+título: Variáveis não estão atualizando corretamente
 ---
 
-One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
+Um erro comum é confundir os blocos `adicione`{:class="block3variables"} e `mude`{:class="block3variables"}.
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
++ `mude`{:class="block3variables"} substitui o valor de uma variável por um novo valor.
++ `adicione`{:class="block3variables"} adiciona um número a uma variável. Se você alterar `adicione a`{:class="block3variables"} por um número positivo, o valor da variável ficará maior. Se você alterar `adicione a`{:class="block3variables"} por um número negativo, o valor da variável ficará menor.
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
+Outro problema comum é digitar o nome de uma variável em vez de arrastá-la do menu de blocos `Variáveis`{:class="block3variables"}. As variáveis devem ser laranja:
 
 ```blocks3
 say (name) for (2) seconds
 ```
 
-**not**:
+**não**:
 
 ```blocks3
 say [name] for (2) seconds
@@ -162,45 +162,45 @@ say [name] for (2) seconds
 --- collapse ---
 
 ---
-title: A change only happens once instead of forever
+título: A mudança só acontece uma vez em vez de para sempre
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
+Certifique-se de ter colocado blocos de código que precisam continuar em execução dentro de um bloco `sempre`{:class="block3control"}. É muito comum esquecer de fazer isso!
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Number comparisons conditions aren't working
+título: As condições de comparações de números não estão funcionando
 ---
 
-Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
+Tem certeza de que usou os operadores `>`{:class="block3operators"} (maior que) e `<`{:class="block3operators"} (menor que) da maneira correta?
 
 ```blocks3
 <(health) > (0)> // means the health variable must be bigger than 0
 <(health) < (5)> // means the health variable must be smaller than 5
 ```
 
-**Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
+**Dica:** O número que deve ser maior fica no lado mais largo (maior) do símbolo do operador.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Nothing happens when I broadcast a message
+título: Nada acontece quando eu transmito uma mensagem
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. Check that the message names match.
+Certifique-se de ter um bloco `quando eu receber`{:class="block3events"} correspondente que faz algo quando você `transmite`{:class="block3events"} uma mensagem. Verifique se os nomes das mensagens correspondem.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Talvez você encontre um bug que não esteja listado aqui. Você consegue descobrir como consertá-lo?
 
-If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
+Se você tiver dúvidas, tente ler seu código em voz alta ou explicar o problema a um amigo. Talvez você identifique o problema.
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Adoraríamos saber sobre seus bugs e como você os corrigiu. Use o botão Enviar comentários na parte inferior desta página e nos diga se você encontrou um bug diferente em seu projeto.
 
 --- /task ---
 
