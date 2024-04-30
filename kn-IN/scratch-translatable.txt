@@ -1,6 +1,6 @@
-Hello
+ನಮಸ್ಕಾರ
 
-name
+ಹೆಸರು
 
 health
 
