@@ -1,18 +1,18 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+Czy udało Ci się spełnić **założenia projektu**? Pomyśl o swoim projekcie i przejrzyj poniższą listę. Zaznacz te, które dotyczą Twojego projektu.
 
-Does your project:
+Czy Twój projekt:
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+Używa co najmniej jednej `zmiennej `{:class="block3variables"}, aby śledzić, czego potrzebuje główny duszek
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+Zapewnia możliwość automatycznej zmiany zmiennej(-nnych)
 
 --- /task ---
 
@@ -58,14 +58,14 @@ Reflect on how you made your simulation to help you in your future projects:
 
 --- task ---
 
-How did you get your ideas? 
+Jak wpadłeś na swoje pomysły? 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Jakich fajnych nowych rzeczy się nauczyłeś?
 
 <!-- free text answer, 3 characters possibly -->
 
@@ -73,7 +73,7 @@ What cool new thing(s) did you learn?
 
 ### Now you are the creator of a simulation!
 
-Take a moment to celebrate what you have made.
+Poświęć chwilę na świętowanie tego, co zrobiłeś.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
@@ -81,7 +81,7 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+Gdzie zabierzesz swoje nowe moce? What simulation will you make next?
 
 <!-- free text answer, 3 characters possibly -->
 
