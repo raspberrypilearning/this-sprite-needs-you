@@ -1,6 +1,6 @@
-## What next?
+## ಮುಂದೆ ಏನು?
 
-You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! Try using Scratch to make more cool stuff.
+You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! ಹೆಚ್ಚು ಯೋಜನೆಗಳನ್ನು ಮಾಡಲು ಸ್ಕ್ರಾಚ್ ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ.
 
 To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) path!
 
@@ -8,5 +8,5 @@ If you need a reminder of what you have learned, you can go to our ['Getting sta
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+ನೀವು ನಮ್ಮ [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) ಅನ್ವೇಷಿಸಬಹುದು ಮತ್ತು ಅವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದು.
 
