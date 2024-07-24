@@ -6,7 +6,7 @@ Crie um animal de estimação virtual, personagem ou simulação da natureza com
 <span style="color: #0faeb0">Os jogos de bichinhos virtuais</span> são um tipo de jogo em que os usuários interagem com os personagens para atender às necessidades dos personagens. Você pode ter jogado com um pequeno Tamagotchi portátil ou gostado de jogos como Catz e Adote-me! em um computador. Você consegue pensar em algum outro jogo de animal de estimação virtual?
 </p>
 
-Você deve:
+Você irá:
 + Criar um personagem ou simulação que seja divertido ou interessante para interagir
 + Usar qualquer combinação de blocos de `variáveis,`{:class="block3variables"}, blocos `trasmista`{:class="block3events"} e blocos `se`{:class="block3control"}, com as habilidades que você já aprendeu, para permitir que um usuário atenda às necessidades de um personagem
 + Entender como os personagens de jogos e aplicativos são controlados por algoritmos
