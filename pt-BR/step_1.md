@@ -6,7 +6,7 @@ Crie um animal de estimação virtual, personagem ou simulação da natureza com
 <span style="color: #0faeb0">Os jogos de bichinhos virtuais</span> são um tipo de jogo em que os usuários interagem com os personagens para atender às necessidades dos personagens. Você pode ter jogado com um pequeno Tamagotchi portátil ou gostado de jogos como Catz e Adote-me! em um computador. Você consegue pensar em algum outro jogo de animal de estimação virtual?
 </p>
 
-Você deve:
+Você irá:
 + Criar um personagem ou simulação que seja divertido ou interessante para interagir
 + Usar qualquer combinação de blocos de `variáveis,`{:class="block3variables"}, blocos `trasmista`{:class="block3events"} e blocos `se`{:class="block3control"}, com as habilidades que você já aprendeu, para permitir que um usuário atenda às necessidades de um personagem
 + Entender como os personagens de jogos e aplicativos são controlados por algoritmos
@@ -24,9 +24,9 @@ Interaja com Grilo, o morcego. O que acontece se você clicar nos atores de comi
 </div>
 <div>
 
-**Simulador de morcego**: [Ver interior](https://scratch.mit.edu/projects/1011210370/editor){:target="_blank"}
+**Simulador de morcego**: [Ver interior](https://scratch.mit.edu/projects/1049460778/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1011210370/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1049460778/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -64,18 +64,17 @@ Sua simulação poderia:
 ⭐ Compartilhe seu projeto Olhos tolos finalizado para ter a oportunidade de ser apresentado aqui.
 
 Pense no que você escolherá como ator principal. Pode ser um animal de estimação que o usuário cuida, uma pessoa que o usuário ajuda a tomar boas decisões, uma planta ou cultura que o usuário ajuda a cultivar, ou um objeto natural ou de fantasia para o qual o usuário precisa criar as condições certas.
-
-**Faça um arco-íris**: [Ver interior](https://scratch.mit.edu/projects/1011211201/editor){:target="_blank"}
+**Faça um arco-íris**: [Ver interior](https://scratch.mit.edu/projects/1049463275/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1011211201/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1049463275/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Agricultor de melancia**: [Ver interior](https://scratch.mit.edu/projects/1011211607/editor){:target="_blank"}
+**Agricultor de melancia**: [Ver interior](https://scratch.mit.edu/projects/1049463397/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1011211607/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1049463397/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly a boneca**: [Ver interior](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (projeto da comunidade em destaque)
+**⭐ Dolly a boneca**: [Ver interior](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>

@@ -22,7 +22,7 @@ Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete p
 ### Usando variáveis
 
 ```blocks3
-set [my variable v] to (0)
+set [minha variável v] to (0)
 ```
 
 [[[scratch3-create-set-variable]]]
@@ -34,7 +34,7 @@ set [my variable v] to (0)
 ### Verificando condições
 
 ```blocks3
-if <(my variable) = (0)> then
+if <(minha variável) = (0)> then
 ```
 
 [[[scratch3-forever-condition]]]
@@ -68,7 +68,7 @@ say (join[Olá ](nome)) for (2) seconds
 ### Cenários, movimento e efeitos gráficos
 
 ```blocks3
-set [ghost v] effect to (0)
+set [fantasma v] effect to (0)
 ```
 
 [[[scratch3-glide-to-object]]]
