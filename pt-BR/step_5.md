@@ -27,7 +27,7 @@ Quando você cria um projeto no Scratch, há muitas maneiras de garantir que voc
 
 Você pode usar ganhos marginais para mudar algo agora que o ajudará no futuro? Coisas para fazer:
 
-+ Nomeie todos os atores, fantasias, sons, variáveis e mensagens de maneira sensata. É muito mais fácil entender projetos que usam nomes úteis
++ Nomeie todos os sprites, fantasias, sons, variáveis e mensagens de maneira sensata. É muito mais fácil entender projetos que usam nomes úteis
 + Preencha a página do projeto com um bom título, instruções e notas para que os usuários saibam como usar seu projeto e de onde você tirou as ideias
 + Adicione comentários curtos que expliquem o que seu código está fazendo
 + Certifique-se de que seus scripts estejam organizados na guia **Código**. Você pode clicar com o botão direito e escolher **Organizar Blocos** ou organizar os scripts de uma forma que faça sentido para você. Tente colocar scripts semelhantes juntos.
