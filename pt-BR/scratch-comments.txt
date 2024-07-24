@@ -1,0 +1,3 @@
+significa que a variável de saúde deve ser maior que 0
+
+significa que a variável de saúde deve ser menor que 5
