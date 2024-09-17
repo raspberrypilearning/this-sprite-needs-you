@@ -1,29 +1,31 @@
-## You will make
+## Що ти зробиш
 
-Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+Створи віртуального улюбленця, персонажа або природне явище, з яким користувач може взаємодіяти та допомагати. Твоя гра повинна відповідати вимогам **короткого опису проєкту**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
+<span style="color: #0faeb0">Ігри з віртуальними улюбленцями</span> — це тип ігор, де користувачі взаємодіють із персонажами, щоб виконати їхні потреби. Можливо, тобі зустрічались Тамагочі, або такі компʼютерні ігри, як Catz та Adopt me!  Ти знаєш ще якісь ігри з віртуальними улюбленцями?
 </p>
 
-You will:
-+ Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
-+ Understand how characters in games and apps are controlled by algorithms
+У цьому проєкті ти:
++ Створиш персонажа або явище, з яким цікаво та весело взаємодіяти.
++ Використаєш поєднання блоків `змінних`{:class="block3variables"}, `оповіщення`{:class="block3events"} і `якщо`{:class="block3control"} і застосуєш отримані раніше навичками, щоб дозволити користувачу допомагати персонажу.
++ Зрозумієш, як алгоритми керують персонажами в іграх і застосунках.
 
 --- no-print --- --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Грати ▶️ 
 
-Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
+Спробуй повзаємодіяти з кажаном. Що відбувається, коли ти натискаєш на спрайти їжі або води? Як можна зрозуміти, що кажан зголоднів або хоче пити?
 
 </div>
 <div>
+
+**Симулятор кажана**: [Переглянути код](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -35,40 +37,46 @@ Interact with Cricket the bat. What happens if you click on the food or water sp
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Help me grow
+### КОРОТКИЙ ОПИС ПРОЄКТУ: Допоможи мені вирости
 <hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
+Тобі потрібно створити віртуальну домашню тваринку, рослину або інший симулятор, якому користувач може допомагати. Ти будеш використовувати **змінні**, щоб відстежувати стан свого головного спрайта. Йому може бути добре або сумно, він може бути голодним або хотіти пити. 
 
-Your simulation should:
-+ Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
-+ Have a way for the variable(s) to change automatically
-+ Give the user a way to improve the variables to give the main sprite what it needs
-+ Use `if`{:class="block3control"} blocks to control when things happen
-+ Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Твоя гра має:
++ Використовувати щонайменше одну `змінну`{:class="block3variables"}, щоб відслідковувати стан головного спрайта.
++ Змінювати змінну (змінні) автоматично.
++ Давати користувачу можливість покращити значення змінної, щоб він міг давати головному спрайту те, що йому потрібно.
++ Використовувати блоки `якщо`{:class="block3control"}, щоб встановити, що за чим має відбуватися.
++ Використовувати блоки `оповістити`{:class="block3events"}, щоб головний спрайт обмінювався повідомленнями з іншими спрайтами.
 
-Your simulation could:
-+ Have a message, such as kindness or keeping crops healthy
-+ Alert the user when levels are too high or low
-+ Allow the user to chat with their sprite, or change its name
+Твоя гра може:
++ Мати головну ідею, наприклад, доброта або турбота за врожаєм.
++ Сповіщувати користувача, коли значення змінної зависоке або занизьке.
++ Дозволяти користувачу спілкуватися зі спрайтом або змінювати його імʼя.
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Поділися своїм готовим проєктом «Цей спрайт потребує тебе», і, можливо, ми опублікуємо його на цій сторінці.
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Подумай, що ти зробиш своїм головним спрайтом. Це може бути хатня тваринка, про яку користувач піклується, людина, якій він допомагає приймати хороші рішення, рослина, якій користувач допомагає рости, або природне чи вигадане явище, для якого він має створити правильні умови.
+
+**Створи веселку**: [Переглянути код](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Кавуновий баштан**: [Переглянути код](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Лялька Доллі**: [Переглянути код](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (проєкт спільноти)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -77,13 +85,13 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 
 --- print-only ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Подумай, що ти зробиш своїм головним спрайтом. Це може бути хатня тваринка, про яку користувач піклується, людина, якій він допомагає приймати хороші рішення, рослина, якій користувач допомагає рости, або природне чи вигадане явище, для якого він має створити правильні умови.
 
-**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+**Переглянь код** проєктів-прикладів у студії Скретчу «Цей спрайт потребує тебе — приклади»: https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/rainbow-project.png)
+![Завершений проєкт](images/bat-project.png) ![Завершений проєкт](images/watermelon-project.png) ![Завершений проєкт](images/rainbow-project.png)
 
 --- /print-only ---
 
