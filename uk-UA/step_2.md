@@ -1,4 +1,4 @@
-## Your idea
+## Твоя ідея
 
 Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
 
