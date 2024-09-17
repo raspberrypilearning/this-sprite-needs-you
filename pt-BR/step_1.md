@@ -22,8 +22,10 @@ Interaja com Grilo, o morcego. O que acontece se você clicar nos atores de comi
 
 </div>
 <div>
+
+**Simulador de morcego**: [Ver interior](https://scratch.mit.edu/projects/1049460778/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -61,14 +63,20 @@ Sua simulação poderia:
 ⭐ Compartilhe seu projeto Olhos tolos finalizado para ter a oportunidade de ser apresentado aqui.
 
 Pense no que você escolherá como ator principal. Pode ser um animal de estimação que o usuário cuida, uma pessoa que o usuário ajuda a tomar boas decisões, uma planta ou cultura que o usuário ajuda a cultivar, ou um objeto natural ou de fantasia para o qual o usuário precisa criar as condições certas.
+
+**Agricultor de melancia**: [Ver interior](https://scratch.mit.edu/projects/1049463397/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Dolly a boneca**: [Ver interior](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
