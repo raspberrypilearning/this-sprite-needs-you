@@ -22,8 +22,10 @@
 
 </div>
 <div>
+
+**コウモリ シミュレーター**: [中を見る](https://scratch.mit.edu/projects/883430947/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -58,17 +60,23 @@
 
 --- task ---
 
-⭐ 完成した Silly Eyes プロジェクトを共有すると、ここで紹介される可能性があります。
+⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 メイン スプライトとして何を選ぶかを考えます。 ユーザーが世話をするペットや、ユーザーが良い判断をするよう手助けする人間、ユーザーが育てる植物や作物、またはユーザーが適切な環境を作る必要がある自然または空想のオブジェクトなどです。
+
+**虹をかける**: [中を見る](https://scratch.mit.edu/projects/883431361/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**スイカ農家**: [中を見る](https://scratch.mit.edu/projects/883431590/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ お人形遊び**: [中を見る](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (コミュニティプロジェクト)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
