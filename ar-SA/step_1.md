@@ -22,8 +22,10 @@
 
 </div>
 <div>
+
+**محاكاة بات**: [انظر داخل](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -61,14 +63,20 @@
 ⭐ Share your finished Silly eyes project for a chance of it being featured here.
 
 فكر فيما ستختاره ليكون كائنًا رئيسيًا. قد يكون حيوانًا أليفًا يعتني به المستخدم ، أو شخصًا يساعده المستخدم في اتخاذ قرارات جيدة ، أو نباتًا أو محصولًا يساعد المستخدم على نموه ، أو كائنًا طبيعيًا أو خياليًا يحتاجه المستخدم لتهيئة الظروف المناسبة له.
+
+**اصنع قوس قزح**: [انظر داخل](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**مزارع البطيخ**: [انظر داخل](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Dolly the doll**: [انظر داخل](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
