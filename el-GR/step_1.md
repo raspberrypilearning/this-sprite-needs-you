@@ -22,8 +22,10 @@
 
 </div>
 <div>
+
+**Προσομοίωση νυχτερίδας**: [Δες μέσα](https://scratch.mit.edu/projects/890825327/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -61,14 +63,20 @@
 ⭐ Μοιράσου το ολοκληρωμένο έργο κινουμένων σχεδίων Αστεία Μάτια για να έχεις την ευκαιρία να προβληθεί εδώ.
 
 Σκέψου τι θα επιλέξεις ως βασικό αντικείμενο. Θα μπορούσε να είναι ένα κατοικίδιο που φροντίζει ο χρήστης, ένα άτομο που ο χρήστης βοηθά στη λήψη καλών αποφάσεων, ένα φυτό ή μια καλλιέργεια που βοηθά ο χρήστης να αναπτυχθεί ή ένα αντικείμενο φύσης ή φαντασίας που χρειάζεται ο χρήστης για να δημιουργήσει τις κατάλληλες συνθήκες.
+
+**Δημιούργησε ένα ουράνιο τόξο**: [Δες μέσα](https://scratch.mit.edu/projects/890825864/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Αγρότης καρπουζιών**: [Δες μέσα](https://scratch.mit.edu/projects/890826086/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Dolly the doll**: [Δες μέσα](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
