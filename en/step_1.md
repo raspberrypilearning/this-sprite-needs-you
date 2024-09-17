@@ -61,7 +61,7 @@ Your simulation could:
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
 
