@@ -22,8 +22,10 @@ Interact with Cricket the bat. क्या होता है यदि आप
 
 </div>
 <div>
+
+**Bat simulator**: [See inside](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -58,17 +60,23 @@ Interact with Cricket the bat. क्या होता है यदि आप
 
 --- task ---
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 इस बारे में सोचें कि आप एक मुख्य स्प्राइट के रूप में क्या चुनेंगे। यह एक पालतू जानवर हो सकता है जिसे उपयोगकर्ता परवाह करता है, एक व्यक्ति जिसे उपयोगकर्ता अच्छे निर्णय लेने में मदद करता है, एक पौधा या फसल जिसे बढ़ाने में उपयोगकर्ता मदद करता है, या एक ऐसा प्रकृति या काल्पनिक वस्तु जिसे उपयोगकर्ता के लिए सही स्थिति बनाने की आवश्यकता है।
+
+**Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Watermelon farmer**: [See inside](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
