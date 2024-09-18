@@ -1,33 +1,33 @@
 ## Твоя ідея
 
-Придумай свого віртуального улюбленця, персонажа або природне явище. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Сплануй свого віртуального улюбленця, персонажа або природне явище. Користувачу потрібно буде створити правильні умови, щоб підтримувати існування головного спрайта. Можливо, твій головний спрайт ставатиме більшим, набувати досвіду, покращувати здоровʼя тощо.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Ти можеш планувати як завгодно — просто думаючи, майструючи, малюючи або пишучи!
 
 ![](images/step2_image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
+Щоб істоти (включно з нами) мали потрібні умови для навчання й росту, їхні <span style="color: #0faeb0">основні потреби</span> (такі як їжа й безпека) повинні бути задоволені. Тому наступного разу, коли ти відчуватимеш роздратування або неуважність, перевір свої основні потреби.  
 </p>
 
-### Why are you making your project?
+### Для чого ти робиш свій проєкт?
 
 --- task ---
 
-Think about the **purpose** of your project.
+Подумай про **мету** свого проєкту.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+Це може бути:
+- Навчити нових навичок, наприклад, доглядати за твариною або рослиною.
+- Заохотити до чогось, наприклад, подбати про своє психічне здоров’я чи покращити свою громаду.
+- Розважити користувачів, даючи їм змогу взаємодіяти з чимось незвичайним.
 
 --- /task ---
 
-### Who is it for?
+### Для кого твій проєкт?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Подумай, для кого ти будеш створювати свій проєкт (твоя **аудиторія**).
 
 Knowing your audience will help you design a project they will want to play again and again.
 
@@ -41,7 +41,7 @@ Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scrat
 
 --- collapse ---
 ---
-title: Working offline
+title: Робота в режимі офлайн
 ---
 
 To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
