@@ -1,4 +1,4 @@
-## Build and test
+## Створи і протестуй
 
 Now it's time to make your project. Start small, and add more to your project if you have time.
 
