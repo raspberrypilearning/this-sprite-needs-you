@@ -29,61 +29,61 @@
 
 Подумай, для кого ти будеш створювати свій проєкт (твоя **аудиторія**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Знаючи свою аудиторію, ти зможеш розробити проєкт, з яким вони гратимуть знову й знову.
 
 --- /task ---
 
-### Get started
+### Початок роботи
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Відкрий [стартовий проєкт у Скретчі](http://rpf.io/scratch-new){:target="_blank"}. Скретч відкриється у новій вкладці браузера.
 
 --- collapse ---
 ---
 title: Робота в режимі офлайн
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Щоб налаштувати Скреч для використання офлайн, переглянь [наш путівник Скретчем](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Використовуй свій стартовий проєкт у Скретчі або папір і ручку, щоб розпланувати свої ідеї.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Що буде твоїм **головним** спрайтом?
++ Персонаж: хатня або дика тварина, людина.
++ Рослина, якій потрібно сонце, вода та поживні речовини.
++ Наукове або природне явище: веселка або вогонь.
++ Машина: підводний човен або машина для переробки сміття.
++ Щось інше.
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Приклади спрайтів, які можна використати; краб, дерево, світ, ноутбук.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Подумай про свій **головний** спрайт і виріши:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Які об’єкти та `змінні`{:class="block3variables"} можуть тобі знадобитися?
++ Чи будуть `змінні`{:class="block3variables"} змінюватися з часом, наприклад, голод чи втома зростатимуть кожні кілька секунд?
++ Як користувач буде взаємодіяти з головним спрайтом? Користувач може натискати на їжу, щоб погодувати тварину, або спілкуватися з персонажем, щоб зменшити його нудьгу.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+Дай своєму проєкту назву, з якої користувач має зрозуміти, чого очікувати, і захотіти пограти.
+
+Проєкти-приклади називалися **Симулятор кажана**, **Зроби веселку**, **Кавуновий баштан** і **Музична машина**.
+
+![Рядок меню Скретч із введеною назвою проєкту.](images/project-name.png)
+
+Ти завжди можеш змінити назву пізніше, якщо придумаєш кращу.
 
 --- /task ---
 
