@@ -1,11 +1,11 @@
-# invent-project-template
+# This sprite needs you
 
-![invent-project-template](banner.png)
+![A dog and a bowl with a hand swiping between them to show the user can tell the dog to drink](en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/invent-project-template](https://projects.raspberrypi.org/en/projects/invent-project-template)
+Find the project online at [projects.raspberrypi.org/en/projects/this-sprite-needs-you](https://projects.raspberrypi.org/en/projects/this-sprite-needs-you)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/invent-project-template/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/invent-project-template/tree/master/en/solutions).
+For project solutions, see [en/solutions](https://github.com/raspberrypilearning/this-sprite-needs-you/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

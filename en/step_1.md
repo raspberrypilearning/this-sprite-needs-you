@@ -1,4 +1,4 @@
-## You will make
+## What you will make
 
 Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
 
@@ -17,7 +17,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Play
 
 Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
 
