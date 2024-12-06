@@ -11,7 +11,7 @@ Vas a:
 + Usar cualquier combinación de `variables`{:class="block3variables"}, bloques `enviar`{:class="block3events"} y `si`{:class="block3control"}, con las habilidades que ya ha aprendido, permitir que un usuario satisfaga las necesidades de un personaje
 + Comprender cómo los personajes en juegos y aplicaciones son controlados por algoritmos
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
@@ -30,8 +30,6 @@ Interactúa con Cricket el murciélago. ¿Qué sucede si haces clic en los objet
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -58,13 +56,11 @@ Tu simulación podría:
 
 ### Obtén ideas 💭
 
---- task ---
-
 ⭐ Comparte tu proyecto de animación de Ojos tontos y ten la oportunidad de que se muestre aquí.
 
 Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el usuario cuida, una persona a la que el usuario ayuda a tomar buenas decisiones, una planta o un cultivo que el usuario ayuda a crecer, o un objeto de la naturaleza o de fantasía para el cual el usuario necesita para crear las condiciones adecuadas.
 
-**Hacer un arcoíris**: [Ver adentro](https://scratch.mit.edu/projects/867104419/editor){:target="_blank"}
+**⭐ Dolly the doll**: [Ver dentro](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (proyecto destacado de la comunidad)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -74,12 +70,10 @@ Piensa en lo que elegirás como objeto principal. Podría ser una mascota que el
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [Ver dentro](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (proyecto destacado de la comunidad)
+**Hacer un arcoíris**: [Ver adentro](https://scratch.mit.edu/projects/867104419/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
