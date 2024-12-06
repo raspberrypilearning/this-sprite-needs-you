@@ -1,29 +1,29 @@
-## You will make
+## What you will make
 
-Create a virtual pet, character, or nature simulation that the user can interact with to help it. Your game will need to meet the **project brief**.
+Crea un animale domestico virtuale, un personaggio o una simulazione della natura con cui l’utente possa interagire per prendersene cura. Il tuo gioco dovrà soddisfare i **requisiti del progetto**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Virtual pet games</span> are one type of game where users interact with characters to meet the characters' needs. You might have played with a small handheld Tamagotchi or enjoyed games like Catz and Adopt me! on a computer. Can you think of any other virtual pet games?
+I <span style="color: #0faeb0">giochi virtuali di animali domestici</span> sono un tipo di gioco in cui gli utenti interagiscono con i personaggi per soddisfare i loro bisogni. Potresti aver giocato con un Tamagotchi portatile o con giochi come Catz e Adopt Me! su un computer. Ti vengono in mente altri giochi virtuali di animali domestici?
 </p>
 
-You will:
-+ Make a character or simulation that is fun or interesting to interact with
-+ Use any combination of `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, and `if`{:class="block3control"} blocks, with the skills you have already learnt, to allow a user to meet the needs of a character
-+ Understand how characters in games and apps are controlled by algorithms
+Cosa farai:
++ Creerai un personaggio o una simulazione divertente e coinvolgente con cui interagire
++ Userai in combinazione i blocchi `variabili`{:class="block3variables"}, `invia a tutti`{:class="block3events"} e `se`{:class="block3control"}, con le abilità che hai già acquisito, per permettere all’utente di soddisfare i bisogni di un personaggio
++ Comprenderai come i personaggi nei giochi e nelle app siano controllati da algoritmi
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Play
 
-Interact with Cricket the bat. What happens if you click on the food or water sprites? How can you tell if the bat is hungry or thirsty?
+Interact with Cricket the bat. Cosa succede se clicchi sugli sprite del cibo o dell'acqua? Come fai a sapere se il pipistrello ha fame o sete?
 
 </div>
 <div>
 
-**Bat simulator**: [See inside](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
+**Simulatore di pipistrello**: [Guarda dentro](https://scratch.mit.edu/projects/530008968/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530008968/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -31,67 +31,61 @@ Interact with Cricket the bat. What happens if you click on the food or water sp
 </div>
 </div>
 
---- /task ---
-
 --- /no-print ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Help me grow
+### SCHEDA DEL PROGETTO: Aiutami a crescere
 <hr style="border-top: 2px solid black;">
-You need to create a virtual pet, plant, or other simulation that the user can interact with to meet its needs. You will use **variables** to keep track of how your main sprite is doing. It might be happy, bored, thirsty, or sleepy. 
+Devi creare un animale domestico virtuale, una pianta o un'altra simulazione con cui l'utente possa interagire per soddisfarne i bisogni. Utilizzerai **variabili** per monitorare del comportamento del tuo sprite principale. Potrebbe essere felice, annoiato, assetato o assonnato. 
 
-Your simulation should:
-+ Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
-+ Have a way for the variable(s) to change automatically
-+ Give the user a way to improve the variables to give the main sprite what it needs
-+ Use `if`{:class="block3control"} blocks to control when things happen
-+ Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+La tua simulazione dovrà:
++ Usare almeno una `variabile`{:class="block3variables"} per monitorare i bisogni dello sprite principale
++ Avere un modo per far cambiare automaticamente la/le variabile/i
++ Dare all'utente un modo per migliorare le variabili e soddisfare i bisogni dello sprite principale
++ Usare blocchi `se`{:class="block3control"} per determinare quando eseguire determinate azioni
++ Usare blocchi `invia a tutti`{:class="block3events"} per comunicare tra gli sprite e lo sprite principale
 
-Your simulation could:
-+ Have a message, such as kindness or keeping crops healthy
-+ Alert the user when levels are too high or low
-+ Allow the user to chat with their sprite, or change its name
+La tua simulazione potrà:
++ Trasmettere un messaggio, come l'importanza della gentilezza o della coltivazione responsabile
++ Avvisare l'utente quando i livelli sono troppo alti o bassi
++ Permettere all'utente di chattare con il proprio sprite o di cambiarne il nome
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Lasciati ispirare 💭
 
---- task ---
+⭐ Condividi il tuo progetto "Questo sprite ha bisogno di te" e potresti vederlo in primo piano qui.
 
-⭐ Share your finished This sprite needs you project for a chance of it being featured here.
+Pensa a quale sprite scegliere come personaggio principale. Potrebbe essere un animale domestico di cui l’utente si prende cura, una persona da aiutare a fare scelte giuste, una pianta o una coltura da far crescere, oppure qualcosa di naturale o fantastico per cui creare le condizioni perfette.
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
-
-**Make a rainbow**: [See inside](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
+**Crea un arcobaleno**: [Guarda dentro](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Watermelon farmer**: [See inside](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
+**Coltivatore di angurie**: [Guarda dentro](https://scratch.mit.edu/projects/531858794/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+**⭐ Dolly la bambola**: [Guarda dentro](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (un progetto speciale della community)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-### Get ideas 💭
+### Lasciati ispirare 💭
 
-Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
+Pensa a quale sprite scegliere come personaggio principale. Potrebbe essere un animale domestico di cui l’utente si prende cura, una persona da aiutare a fare scelte giuste, una pianta o una coltura da far crescere, oppure qualcosa di naturale o fantastico per cui creare le condizioni perfette.
 
-**See inside** example projects in the 'This sprite needs you — Examples' Scratch studio: https://scratch.mit.edu/studios/29683913/
+** Guarda i progetti** di esempio di "Questo sprite ha bisogno di te" in Scratch: https://scratch.mit.edu/studios/29683913/
 
-![Complete project](images/bat-project.png) ![Complete project](images/watermelon-project.png) ![Complete project](images/rainbow-project.png)
+![Progetto completo](images/bat-project.png) ![Progetto completo](images/watermelon-project.png) ![Progetto completo](images/rainbow-project.png)
 
 --- /print-only ---
 
