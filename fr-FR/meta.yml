@@ -12,7 +12,7 @@ copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: Ce que tu vas faire
+    title: Introduction
   - 
     title: Ton idée
   - 
@@ -26,6 +26,7 @@ steps:
       - external
   - 
     title: Améliorer ton projet
+    challenge: true
   - 
     title: Partager
   - 
