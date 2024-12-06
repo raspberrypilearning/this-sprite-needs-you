@@ -1,6 +1,6 @@
 ## Створи і протестуй
 
-Now it's time to make your project. Start small, and add more to your project if you have time.
+Настав час створити свій проєкт. Start small, and add more to your project if you have time.
 
 ![](images/step3_image.png)
 
@@ -48,7 +48,7 @@ if <(my variable) = (0)> then
 ### Broadcasting and receiving messages
 
 ```blocks3
-broadcast [message1 v]
+broadcast (message1 v)
 ```
 
 [[[generic-scratch3-broadcast-message]]]
