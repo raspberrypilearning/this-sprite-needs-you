@@ -11,14 +11,14 @@ Byddi di'n:
 + Defnyddio unrhyw gyfuniad o flociau `newidyn`{:class="block3variables"}, `darlledu`{:class="block3events"}, ac `os`{:class="block3control"}, ynghyd â'r sgiliau rwyt ti wedi'u dysgu eisoes, i alluogi defnyddiwr i ddiwallu anghenion cymeriad
 + Deall sut mae cymeriadau mewn gemau ac apiau yn cael eu rheoli gan algorithmau
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Chwarae ▶️ 
+### Play
 
-Rhyngweithia gyda Criced yr ystlum. Beth sy'n digwydd os wyt ti'n clicio ar y corluniau bwyd neu ddŵr? Sut alli di ddweud os ydy'r ystlum yn newynog neu'n sychedig?
+Interact with Cricket the bat. Beth sy'n digwydd os wyt ti'n clicio ar y corluniau bwyd neu ddŵr? Sut alli di ddweud os ydy'r ystlum yn newynog neu'n sychedig?
 
 </div>
 <div>
@@ -30,8 +30,6 @@ Rhyngweithia gyda Criced yr ystlum. Beth sy'n digwydd os wyt ti'n clicio ar y co
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -58,8 +56,6 @@ Gallai eich efelychiad:
 
 ### Cael ysbrydoliaeth 💭
 
---- task ---
-
 ⭐ Rhannwch eich prosiect “Llygaid gwirion” am gyfle i’w gynnwys yma.
 
 Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes mae'r defnyddiwr yn gofalu amdano, yn berson mae'r defnyddiwr yn ei helpu i wneud penderfyniadau da, yn blanhigyn neu gnwd mae'r defnyddiwr yn helpu i'w dyfu, neu'n wrthrych natur neu ffantasi y mae angen i'r defnyddiwr greu'r amodau cywir ar ei gyfer.
@@ -74,12 +70,10 @@ Ystyria beth fyddi di'n ei ddewis fel prif gorlun. Gallai fod yn anifail anwes m
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly y ddoll**: [Gweld tu mewn](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (prosiect cymunedol dan sylw)
+**Creu enfys**: [Gweld tu mewn](https://scratch.mit.edu/projects/814282260/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
