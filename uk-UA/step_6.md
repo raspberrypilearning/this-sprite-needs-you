@@ -1,10 +1,10 @@
-## Share
+## Пошир свій проєкт
 
-Inspire others with your project by submitting it to our Scratch studio!
+Надішли свій проєкт у нашу Скретч-студію, щоб надихнути інших!
 
 --- task ---
 
-To share your project with others who make the 'This sprite needs you' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+Щоб поділитися своєю грою з іншими, хто працює над проєктом «Цей спрайт потребує тебе», заповни [цю форму](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} (англійською мовою).
 
 --- /task ---
 
