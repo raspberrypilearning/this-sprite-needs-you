@@ -12,7 +12,7 @@ copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
     title: Твоя ідея
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - external
   - 
-    title: Challenge
+    title: Додаткове завдання
     challenge: true
   - 
     title: Пошир свій проєкт
