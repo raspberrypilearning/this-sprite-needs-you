@@ -12,7 +12,6 @@ You will:
 + Understand how characters in games and apps are controlled by algorithms
 
 --- no-print ---
---- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
@@ -31,8 +30,6 @@ Interact with Cricket the bat. What happens if you click on the food or water sp
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -59,8 +56,6 @@ Your simulation could:
 
 ### Get ideas 💭
 
---- task ---
-
 ⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 Think about what you will choose as a main sprite. It could be a pet that the user cares for, a person that the user helps make good decisions, a plant or crop that the user helps to grow, or a nature or fantasy object that the user needs to create the right conditions for.
@@ -79,8 +74,6 @@ Think about what you will choose as a main sprite. It could be a pet that the us
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 

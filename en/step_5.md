@@ -36,7 +36,7 @@ Add more `sound effects`{:class="block3sound"}
 
 Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
 
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+Take a look at some projects created by community members in the Raspberry Pi Foundation’s **This sprite needs you - Community** [studio](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
 
 ## Small improvements
 
