@@ -1,12 +1,12 @@
-## What next?
+## Що далі?
 
-You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! Try using Scratch to make more cool stuff.
+Напрям [Більше Скретчу](https://projects.raspberrypi.org/en/pathways/more-scratch) завершено! Тепер ти можеш використовувати Скретч для інших крутих проєктів.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) path!
+Щоб отримати більше навичок, які допоможуть тобі втілити свої ідеї у життя у Скретчі, спробуй напрям [Ще більше Скретчу](https://projects.raspberrypi.org/en/pathways/more-scratch)!
 
-If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+Якщо хочеш пригадати вивчене, переглянь наш матеріал [«Початок роботи в Скретчі»](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+Ти також можеш переглянути наші [інші Скретч-проєкти](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) і спробувати виконати їх.
 
