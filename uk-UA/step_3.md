@@ -1,28 +1,28 @@
 ## Створи і протестуй
 
-Настав час створити свій проєкт. Start small, and add more to your project if you have time.
+Настав час створити свій проєкт. Почни з чогось невеликого, а потім, якщо буде час, додай до свого проєкту більше елементів.
 
 ![](images/step3_image.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Порада:** не забувай тестувати свій проєкт кожного разу, коли щось додаєш. Набагато простіше знайти та виправити помилки до того, як ти внесеш нові зміни.
 
 --- task ---
 
-You will need to decide in what order to build your project. You could:
+Тобі потрібно обрати, у якому порядку ти створюватимеш свій проєкт. Ти можеш:
 
-+ Create one variable and allow the user to control it. Add animations, costumes, sound, effects, and conversation to make the sprite really come to life
-+ Create multiple variables with simple ways for the user to control them, and then add more effects later
++ Створити одну змінну й дозволити користувачеві керувати нею. Додати анімації, образи, звуки, ефекти та розмови, щоб твій спрайт дійсно ожив.
++ Створити декілька змінних, якими користувач зможе легко керувати. Потім додати більше ефектів.
 
-Adding a sprite and then creating a `variable`{:class="block3variables"} is a great start.
+Хороший варіант — спочатку додати спрайт, а потім створити `змінну`{:class="block3variables"}.
 
 --- /task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your project:
+Ти здобув/-ла дуже корисні навички. Нагадай собі й вибери, що допоможе тобі реалізувати свій проєкт:
 
-### Using variables
+### Використання змінних
 
 ```blocks3
-set [my variable v] to (0)
+set [моя змінна v] to (0)
 ```
 
 [[[scratch3-create-set-variable]]]
@@ -31,10 +31,10 @@ set [my variable v] to (0)
 
 [[[scratch3-change-variable-in-loop]]]
 
-### Checking conditions
+### Перевірка умов
 
 ```blocks3
-if <(my variable) = (0)> then
+if <(моя змінна) = (0)> then
 ```
 
 [[[scratch3-forever-condition]]]
@@ -45,18 +45,18 @@ if <(my variable) = (0)> then
 
 [[[scratch3-set-block-input-colour-with-eyedropper]]]
 
-### Broadcasting and receiving messages
+### Оповіщення та отримання повідомлень
 
 ```blocks3
-broadcast (message1 v)
+broadcast (повідомлення1 v)
 ```
 
 [[[generic-scratch3-broadcast-message]]]
 
-### Working with text:
+### Робота з текстом:
 
 ```blocks3
-say (join[Hello ](name)) for (2) seconds
+say (join[Привіт ](імʼя)) for (2) seconds
 ```
 
 [[[scratch3-emoji-text]]]
@@ -65,10 +65,10 @@ say (join[Hello ](name)) for (2) seconds
 
 [[[scratch3-join-text]]]
 
-### Backdrops, movement, and graphic effects
+### Тло, рух і графічні ефекти
 
 ```blocks3
-set [ghost v] effect to (0)
+set [привид v] effect to (0)
 ```
 
 [[[scratch3-glide-to-object]]]
@@ -87,7 +87,7 @@ set [ghost v] effect to (0)
 
 [[[scratch3-jiggle-a-sprite]]]
 
-### Sound:
+### Звук:
 
 ```blocks3
 start sound (Pop v)
@@ -99,7 +99,7 @@ start sound (Pop v)
 
 [[[scratch3-text-to-speech]]]
 
-### Paint editor — backdrops and costumes
+### Редактор малювання — тло й образи
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -124,37 +124,37 @@ start sound (Pop v)
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your game?
+**Тест:** покажи комусь свій проєкт та отримай зворотний зв'язок. Хочеш внести якісь зміни до своєї гри?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Налагодження:** можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки.
 
 
 --- collapse ---
 
 ---
-title: Variables aren't updating correctly
+title: Змінні не оновлюються належним чином
 ---
 
-One common mistake is to confuse the `change`{:class="block3variables"} and `set`{:class="block3variables"} blocks.
+Однією з поширених помилок є плутання блоків `змінити`{:class="block3variables"} і `надати значення`{:class="block3variables"}.
 
-+ `set`{:class="block3variables"} replaces the value of a variable with a new value.
-+ `change`{:class="block3variables"} adds a number to a variable. If you `change by`{:class="block3variables"} a positive number, the variable value gets bigger. If you `change by`{:class="block3variables"} a negative number, then variable value gets smaller.
++ `надати значення`{:class="block3variables"} замінює значення змінної новим значенням.
++ `змінити`{:class="block3variables"} додає число до змінної. Якщо ти `змінюєш`{:class="block3variables"} на додатне число, значення змінної збільшується. Якщо ти `змінюєш`{:class="block3variables"} на відʼємне число, значення змінної зміншується.
 
 
-Another common problem is typing the name of a variable instead of dragging the variable from the `Variables`{:class="block3variables"} blocks menu. Variables should be orange:
+Ще одна поширена проблема — коли ти вводиш назву змінної замість того, щоб перетягнути її з меню блоків `Змінні`{:class="block3variables"}. Змінні мають бути помаранчевого кольору:
 
 ```blocks3
-say (name) for (2) seconds
+say (імʼя) for (2) seconds
 ```
 
-**not**:
+**не**:
 
 ```blocks3
-say [name] for (2) seconds
+say [імʼя] for (2) seconds
 ```
 
 --- /collapse ---
@@ -162,45 +162,45 @@ say [name] for (2) seconds
 --- collapse ---
 
 ---
-title: A change only happens once instead of forever
+title: Зміна відбувається лише один раз, а не безкінечно
 ---
 
-Make sure you have placed code blocks that need to keep running inside a `forever`{:class="block3control"} block. It's really common to forget to do this!
+Переконайся, що твої блоки коду, які мають працювати безкінечно, розміщені всередині блоку `завжди`{:class="block3control"}. Багато людей забувають про це!
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Number comparisons conditions aren't working
+title: Умови порівняння чисел не працюють
 ---
 
-Are you sure you have used the `>`{:class="block3operators"} (greater than) and `<`{:class="block3operators"} (less than) operators the right way around?
+Ти точно використовуєш оператори `>`{:class="block3operators"} (більше ніж) і `<`{:class="block3operators"} (менше ніж) правильно?
 
 ```blocks3
-<(health) > (0)> // means the health variable must be bigger than 0
-<(health) < (5)> // means the health variable must be smaller than 5
+<(здоровʼя) > (0)> // означає, що змінна «здоровʼя» має бути більшою за 0
+<(здоровʼя) < (5)> // означає, що змінна «здоровʼя» має бути меншою за 5
 ```
 
-**Tip:** The number that must be bigger goes on the wider (bigger) side of the operator symbol.
+**Підказка:** число, яке має бути більшим, розміщується на ширшій (більшій) стороні символу оператора.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Nothing happens when I broadcast a message
+title: Коли я оповіщую за допомогою повідомлення, нічого не відбувається
 ---
 
-Make sure you have a matching `when I receive`{:class="block3events"} block that does something when you `broadcast`{:class="block3events"} a message. Check that the message names match.
+Переконайся, що у тебе є відповідний блок `коли я отримую`{:class="block3events"}, який щось виконує, коли ти `оповіщуєш`{:class="block3events"} за допомогою повідомлення. Перевір, чи збігаються назви повідомлень.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Ти можеш виявити помилку, яка не вказана тут. Можливо, ти зможеш придумати, як її виправити?
 
-If you get stuck, try reading your code out loud or explaining the problem to a friend. You might spot the problem.
+Якщо у тебе виникли складнощі, прочитай свій код вголос або опиши проблему подрузі чи другові. Можливо, ти помітиш помилку.
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Якщо ти знайшов/-ла іншу помилку у своєму проєкті, скористайся формою зворотного зв'язку внизу цієї сторінки.
 
 --- /task ---
 
