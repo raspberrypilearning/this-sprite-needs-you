@@ -11,7 +11,7 @@
 + استخدم أي مجموعة من `متغيرات`{: class = "block3variables"} ، و `بث`{: class = "block3events"} ، و `if`{: class = "block3control"} ، بالمهارات التي تعلمتها بالفعل ، للسماح للمستخدم بتلبية احتياجات الشخصية
 + افهم كيف تتحكم الخوارزميات في الشخصيات في الألعاب والتطبيقات
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
@@ -30,8 +30,6 @@
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -58,13 +56,11 @@
 
 ### احصل على الإلهام
 
---- task ---
-
 ⭐ Share your finished Silly eyes project for a chance of it being featured here.
 
 فكر فيما ستختاره ليكون كائنًا رئيسيًا. قد يكون حيوانًا أليفًا يعتني به المستخدم ، أو شخصًا يساعده المستخدم في اتخاذ قرارات جيدة ، أو نباتًا أو محصولًا يساعد المستخدم على نموه ، أو كائنًا طبيعيًا أو خياليًا يحتاجه المستخدم لتهيئة الظروف المناسبة له.
 
-**اصنع قوس قزح**: [انظر داخل](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
+**⭐ Dolly the doll**: [انظر داخل](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -74,12 +70,10 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [انظر داخل](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+**اصنع قوس قزح**: [انظر داخل](https://scratch.mit.edu/projects/530034441/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
