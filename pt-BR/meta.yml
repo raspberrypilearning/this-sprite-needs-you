@@ -26,6 +26,7 @@ steps:
       - external
   - 
     title: Melhore o seu projeto
+    challenge: true
   - 
     title: Compartilhar
   - 
