@@ -4,12 +4,6 @@
 
 ただ考えるだけでもいいし、いろいろ試したり、描いたりなど好きなようにやってみましょう。
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-食料や安全などの基本的なニーズ <span style="color: #0faeb0">が満たされるときが、私たち</span> 生き物 (私たち自身を含む) が学習し成長するための適切な条件を整っている状態です。 したがって、次回不機嫌になったり、気が散ったりしたときは、自分の基本的なニーズを確認してください。  
-</p>
-
 ### なぜプロジェクトを作るのか？
 
 --- task ---
@@ -44,7 +38,7 @@
 title：オフラインでの作業
 ---
 
-Scratch をオフラインで使用できるように設定ために、 [Scratch ガイド](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} にアクセスしてください。
+Scratch をオフラインで使用できるように設定ために、 [Scratch ガイド](https://learning-admin.raspberrypi.org/ja-JP/projects/getting-started-scratch/1){:target="_blank"} にアクセスしてください。
 
 --- /collapse ---
 
