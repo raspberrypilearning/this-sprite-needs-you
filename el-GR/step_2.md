@@ -4,12 +4,6 @@
 
 Μπορείς να σχεδιάσεις με το μυαλό σου, μαστορεύοντας, σχεδιάζοντας ή γράφοντας, ή όπως θέλεις!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Όταν ικανοποιούνται οι <span style="color: #0faeb0">βασικές ανάγκες</span> όπως η τροφή και η ασφάλεια, δημιουργούμε τις κατάλληλες συνθήκες για τα πλάσματα (συμπεριλαμβανομένου του εαυτού μας) να μάθουν και να αναπτυχθούν. Οπότε την επόμενη φορά που θα αισθάνεσαι εκνευρισμένος/η ή αφηρημένος/η, έλεγξε τις βασικές σου ανάγκες.  
-</p>
-
 ### Γιατί κάνεις το έργο σου;
 
 --- task ---
@@ -44,7 +38,7 @@
 title: Εργασία εκτός σύνδεσης
 ---
 
-Για να ρυθμίσεις το Scratch για χρήση εκτός σύνδεσης, επισκέψου [τον οδηγό Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+To set up Scratch for offline use visit [our Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
