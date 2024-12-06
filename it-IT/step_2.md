@@ -1,89 +1,83 @@
-## Your idea
+## La tua idea
 
-Plan your virtual pet, character, or nature simulation. The user will have to create the right conditions to support the main sprite's needs. Your main sprite might get bigger, gain experience, increase health, or something else.
+Progetta un animale domestico virtuale, un personaggio o una simulazione della natura. L’utente dovrà creare le condizioni ideali per soddisfare i bisogni dello sprite principale. Lo sprite può crescere, acquisire esperienza, migliorare la propria salute o sviluppare altre caratteristiche.
 
-You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Puoi progettare nel modo che preferisci: riflettendo, sperimentando, disegnando o scrivendo, in qualsiasi modo preferisci!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-When <span style="color: #0faeb0">basic needs</span> like food and safety are met, we are creating the right conditions for creatures (including ourselves) to learn and grow. So the next time you’re feeling cranky or distracted, check your basic needs.  
-</p>
-
-### Why are you making your project?
+### Perché stai realizzando il tuo progetto?
 
 --- task ---
 
-Think about the **purpose** of your project.
+Pensa allo **scopo** del tuo progetto.
 
-It could be:
-- To teach a new skill, such as looking after an animal or keeping a plant alive
-- To share a message, such as look after your mental health or improve your neighbourhood
-- To entertain users, by giving them something they wouldn't usually get the chance to interact with
+Può servire a:
+- Insegnare una nuova abilità, come prendersi cura di un animale o mantenere in vita una pianta
+- Trasmettere un messaggio, ad esempio l'importanza di prendersi cura della propria salute mentale o migliorare il proprio quartiere
+- Intrattenere gli utenti, offrendo loro qualcosa con cui normalmente non avrebbero l’opportunità di interagire
 
 --- /task ---
 
-### Who is it for?
+### Per chi è?
 
 --- task ---
 
-Think about who you will make your project for (your **audience**).
+Pensa a chi è rivolto il tuo progetto (il tuo **pubblico**).
 
-Knowing your audience will help you design a project they will want to play again and again.
+Conoscere il tuo pubblico ti aiuterà a creare un progetto a cui vorranno sempre giocare.
 
 --- /task ---
 
-### Get started
+### Per cominciare
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Apri un [nuovo progetto Scratch](http://rpf.io/scratch-new){:target="_blank"}. Scratch si aprirà in una nuova scheda del browser.
 
 --- collapse ---
 ---
-title: Working offline
+title: Lavorare offline
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+To set up Scratch for offline use visit [our Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan your ideas.
+Usa il tuo nuovo progetto in Scratch, carta e penna, o entrambi per pianificare le tue idee.
 
 --- /task ---
 
 --- task ---
 
-What will your **main** sprite be?
-+ A character such as a pet or wild animal, or a person
-+ A plant or crop that needs sunlight, water, and nutrients
-+ A feature from science or nature, such as a rainbow or a fire
-+ A machine, such as a submarine or a recycling machine
-+ Or something else
+Quale sarà il tuo sprite **principale**?
++ Un personaggio come un animale domestico o selvatico, o una persona
++ Una pianta o un raccolto che ha bisogno di luce solare, acqua e sostanze nutritive
++ Un elemento della scienza o della natura, come un arcobaleno o il fuoco
++ Una macchina, come un sottomarino o una macchina per il riciclaggio
++ O qualcos'altro
 
-![Some examples of sprites that could be used; a crab, a tree, the world, a laptop.](images/sprite-examples.png)
-
---- /task ---
-
---- task ---
-
-Think about your **main** sprite and decide:
-
-+ What objects and `variables`{:class="block3variables"} might be needed?
-+ Will the `variables`{:class="block3variables"} change over time, for example hunger or tiredness increasing every few seconds?
-+ How will the user interact with the main sprite? This could be clicking on food to feed an animal, or chatting with a character to reduce their boredom.
+![Alcuni esempi di sprite che potresti utilizzare: un granchio, un albero, il modo o un computer portatile.](images/sprite-examples.png)
 
 --- /task ---
 
 --- task ---
 
-Give your project a title that tells the user what to expect, and makes them want to try it out.
+Pensa al tuo sprite **principale** e decidi:
 
-The example projects were: **Bat simulator**, **Make a rainbow**, **Watermelon farmer**, and **Music Machine**.
++ Quali oggetti e `variabili`{:class=“block3variables”} potrebbero essere necessari?
++ Le `variabili`{:class="block3variables"} cambieranno nel tempo? Ad esempio, la fame o la stanchezza potrebbero aumentare con il passare dei secondi?
++ Come interagirà l’utente con lo sprite principale? Ad esempio, potrebbe cliccare sul cibo per nutrire un animale o interagire con un personaggio per alleviarne la noia.
 
-![The Scratch menu bar with project name title filled in.](images/project-name.png)
+--- /task ---
 
-You can always update the title later if you think of a better one.
+--- task ---
+
+Dai al tuo progetto un titolo che faccia capire agli utenti cosa aspettarsi e li invogli a provarlo.
+
+I progetti di esempio erano: **Simulatore di pipistrelli**, **Crea un arcobaleno**, **Coltivatore di angurie**e **Macchina musicale**.
+
+![La barra dei menu di Scratch con il nome del progetto compilato.](images/project-name.png)
+
+Puoi sempre aggiornare il titolo in un secondo momento, se trovi un’idea migliore.
 
 --- /task ---
 
