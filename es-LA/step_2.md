@@ -4,12 +4,6 @@ Planea tu mascota virtual, personaje o simulación de la naturaleza. El usuario 
 
 ¡Puedes planificar con solo pensar, retocar, dibujar, escribir o como desees!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Cuando se satisfacen <span style="color: #0faeb0">necesidades básicas</span> como la alimentación y la seguridad, estamos creando las condiciones adecuadas para que las criaturas (incluidos nosotros mismos) aprendan y crezcan. Así que la próxima vez que te sientas malhumorado o distraído, revisa tus necesidades básicas.  
-</p>
-
 ### ¿Por qué estás haciendo tu proyecto?
 
 --- task ---
@@ -44,7 +38,7 @@ Abre un [nuevo proyecto de Scratch](http://rpf.io/scratch-new){:target="_blank"}
 title: Trabajar sin conexión
 ---
 
-Para configurar Scratch para uso sin conexión, visita [nuestra guía Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Para configurar Scratch para uso sin conexión, visita [nuestra guía Scratch](https://learning-admin.raspberrypi.org/es-LA/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
