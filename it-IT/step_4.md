@@ -1,87 +1,87 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below. Check off the ones that apply to your project.
+Hai soddisfatto i **requisiti di progetto**? Pensa al tuo progetto e analizza la checklist riportata di seguito. Metti una spunta ai punti che si applicano al tuo progetto.
 
-Does your project:
+Il tuo progetto:
 
 --- task ---
 
-Use at least one `variable`{:class="block3variables"} to keep track of what the main sprite needs
+Usa almeno una `variabile`{:class="block3variables"} per tenere traccia di ciò che serve allo sprite principale
 
 --- /task ---
 
 --- task ---
 
-Have a way for the variable(s) to change automatically
+Ha un modo per far cambiare automaticamente le variabili
 
 --- /task ---
 
 --- task ---
 
-Give the user a way to improve the variables to give the main sprite what it needs
+Fornisce all'utente un modo per migliorare le variabili, così da aiutare lo sprite principale a ottenere ciò che gli serve
 
 --- /task ---
 
 --- task ---
 
-Use `if`{:class="block3control"} blocks to control when things happen
+Usa blocchi `se`{:class="block3control"} per gestire il momento in cui succedono determinate azioni
 
 --- /task ---
 
 --- task ---
 
-Use `broadcast`{:class="block3events"} blocks to communicate between other sprites and the main sprite
+Usa i blocchi `Invia a tutti`{:class="block3events"} per permettere la comunicazione tra lo sprite principale e gli altri sprite
 
 --- /task ---
 
-Your simulation could also:
+La tua simulazione può anche:
 
 --- task ---
 
-Have an educational message, such as kindness or keeping crops healthy
-
---- /task ---
-
---- task ---
-
-Alert the user when levels are too high or low
+Trasmettere un messaggio, come l'importanza della gentilezza o della coltivazione responsabile
 
 --- /task ---
 
 --- task ---
 
-Allow the user to chat with their sprite, or change its name
+Avvisare l'utente quando i livelli sono troppo alti o bassi
 
 --- /task ---
 
-Reflect on how you made your simulation to help you in your future projects:
+--- task ---
+
+Consentire all'utente di chattare con il proprio sprite o di cambiarne il nome
+
+--- /task ---
+
+Pensa a come hai realizzato la tua simulazione e usa questa riflessione per migliorare i tuoi progetti futuri:
 
 --- task ---
 
-How did you get your ideas? 
+Da dove hai tratto ispirazione per le tue idee? 
 
 <!-- free text answer, 3 characters possibly -->
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Quali cose nuove e interessanti hai imparato?
 
 <!-- free text answer, 3 characters possibly -->
 
 --- /task ---
 
-### Now you are the creator of a simulation!
+### Hai creato una simulazione!
 
-Take a moment to celebrate what you have made.
+Prenditi un momento per celebrare la tua impresa.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Computer simulations</span> can allow us to experience situations that we couldn't in real life. There are computer simulations that allow surgeons to practice operations. There are simulations that allow space engineers to predict what will happen when they launch a rocket, and make changes to the variables to see what happens. And there are game simulations that allow you to take care of a pet, person, family, or job. 
+Le <span style="color: #0faeb0">simulazioni al computer</span> ci permettono di vivere situazioni che non potremmo sperimentare nella realtà. Esistono simulazioni al computer che consentono ai chirurghi di esercitarsi in interventi chirurgici,  agli ingegneri spaziali di prevedere cosa accadrà durante il lancio di un razzo e di modificare le variabili per vedere i risultati. Ci sono anche simulazioni di gioco che ti permettono di prenderti cura di un animale domestico, di una persona, gestire la famiglia o svolgere un lavoro. 
 </p>
 
 --- task ---
 
-Where will you take your new powers? What simulation will you make next?
+Dove utilizzerai i tuoi nuovi poteri? Quale sarà la tua prossima simulazione?
 
 <!-- free text answer, 3 characters possibly -->
 
