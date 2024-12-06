@@ -26,6 +26,7 @@ steps:
       - external
   - 
     title: قم بترقية او تطوير مشروعك
+    challenge: true
   - 
     title: مشاركة
   - 
