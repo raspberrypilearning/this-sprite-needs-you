@@ -4,12 +4,6 @@ Plan je virtuele huisdier, personage of natuursimulatie. De gebruiker zal de jui
 
 Je kunt het plannen door erover na te denken, te knutselen, te tekenen of te schrijven, of hoe je maar wilt!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Wanneer <span style="color: #0faeb0">aan basisbehoeften</span> zoals voedsel en veiligheid wordt voldaan, creëren we de juiste omstandigheden voor wezens (inclusief onszelf) om te leren en te groeien. Dus de volgende keer dat je je humeurig of afgeleid voelt, controleer je basisbehoeften.  
-</p>
-
 ### Waarom maak je je project?
 
 --- task ---
@@ -44,7 +38,7 @@ Open een [nieuw Scratch-project](http://rpf.io/scratch-new){:target="_blank"}. S
 title: Offline werken
 ---
 
-Om Scratch in te stellen voor offline gebruik, bezoek [onze Scratch-gids](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Om Scratch in te stellen voor offline gebruik, bezoek [onze Scratch-gids](https://learning-admin.raspberrypi.org/nl-NL/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
