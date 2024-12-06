@@ -12,7 +12,7 @@ copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: You will make
+    title: What you will make
   - 
     title: तुमची कल्पना
   - 
@@ -25,7 +25,8 @@ steps:
     completion:
       - external
   - 
-    title: तुमचा प्रकल्प अपग्रेड करा
+    title: Challenge
+    challenge: true
   - 
     title: शेअर करा
   - 
