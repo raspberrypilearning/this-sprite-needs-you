@@ -38,7 +38,7 @@
 title: Робота в режимі офлайн
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Щоб налаштувати Скреч для використання офлайн, переглянь [наш путівник Скретчем](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
