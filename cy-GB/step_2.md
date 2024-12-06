@@ -4,12 +4,6 @@ Cynllunia dy anifail anwes rhithwir, cymeriad, neu efelychiad o fyd natur. Bydd 
 
 Fe alli di gynllunio drwy feddwl, rhoi cynnig ar bethau, darlunio neu ysgrifennu, neu sut bynnag dymuni di!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Pan fydd <span style="color: #0faeb0">anghenion sylfaenol</span> fel bwyd a diogelwch yn cael eu bodloni, rydyn ni'n creu'r amodau cywir i greaduriaid (gan gynnwys ni ein hunain) ddysgu a thyfu. Felly y tro nesaf byddi di'n teimlo'n flin neu'n methu canolbwyntio, gwna'n siŵr fod dy anghenion sylfaenol wedi'u bodloni.  
-</p>
-
 ### Pam wyt ti'n gwneud dy brosiect?
 
 --- task ---
@@ -44,7 +38,7 @@ Agora [brosiect Scratch newydd](http://rpf.io/scratch-new){:target="_blank"}. By
 title: Gweithio all-lein
 ---
 
-I osod Scratch i'w ddefnyddio all-lein cer i [ein canllaw Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Agora [brosiect Scratch newydd](http://rpf.io/scratch-new){:target="_blank"}. Bydd Scratch yn agor mewn tab arall ar y porwr.
 
 --- /collapse ---
 
