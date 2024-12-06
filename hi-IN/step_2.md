@@ -4,12 +4,6 @@
 
 आप केवल सोच, tinking, ड्राइंग या लेखन, या फिर भी अपनी पसंद के अनुसार योजना बना सकते हैं!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-जब <span style="color: #0feb0">basic needs</span> जैसे खाद्य और सुरक्षा को पूरा किया जाता है, तो हम जीवों के लिए (स्वयं सहित) सही स्थिति बना रहे हैं सीखने और बढ़ने के लिए। इसलिए अगली बार जब आप क्रैंकy को महसूस कर रहे हों या आपका ध्यान भंग हो जाए, तो अपनी मूल आवश्यकताओं की जाँच करें।  
-</p>
-
 ### आप अपना प्रोजेक्ट क्यों बना रहे हैं?
 
 --- task ---
@@ -44,7 +38,7 @@
 title: ऑफ़लाइन काम करना
 ---
 
-ऑफ़लाइन उपयोग के लिए Scratch को सेट करने के लिए [our scratch गाइड](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} पर जाएं।
+To set up Scratch for offline use visit [our Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
