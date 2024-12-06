@@ -4,12 +4,6 @@
 
 Ти можеш планувати як завгодно — просто думаючи, майструючи, малюючи або пишучи!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Щоб істоти (включно з нами) мали потрібні умови для навчання й росту, їхні <span style="color: #0faeb0">основні потреби</span> (такі як їжа й безпека) повинні бути задоволені. Тому наступного разу, коли ти відчуватимеш роздратування або неуважність, перевір свої основні потреби.  
-</p>
-
 ### Для чого ти робиш свій проєкт?
 
 --- task ---
@@ -44,7 +38,7 @@
 title: Робота в режимі офлайн
 ---
 
-Щоб налаштувати Скреч для використання офлайн, переглянь [наш путівник Скретчем](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+To set up Scratch for offline use visit [our Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
