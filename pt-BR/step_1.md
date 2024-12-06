@@ -11,14 +11,14 @@ Você irá:
 + Usar qualquer combinação de blocos de `variáveis,`{:class="block3variables"}, blocos `trasmista`{:class="block3events"} e blocos `se`{:class="block3control"}, com as habilidades que você já aprendeu, para permitir que um usuário atenda às necessidades de um personagem
 + Entender como os personagens de jogos e aplicativos são controlados por algoritmos
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Jogue ▶️ 
+### Play
 
-Interaja com Grilo, o morcego. O que acontece se você clicar nos atores de comida ou água? Como saber se o morcego está com fome ou com sede?
+Interact with Cricket the bat. O que acontece se você clicar nos atores de comida ou água? Como saber se o morcego está com fome ou com sede?
 
 </div>
 <div>
@@ -30,8 +30,6 @@ Interaja com Grilo, o morcego. O que acontece se você clicar nos atores de comi
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -58,28 +56,24 @@ Sua simulação poderia:
 
 ### Obtenha ideias 💭
 
---- task ---
-
 ⭐ Compartilhe seu projeto Olhos tolos finalizado para ter a oportunidade de ser apresentado aqui.
 
 Pense no que você escolherá como ator principal. Pode ser um animal de estimação que o usuário cuida, uma pessoa que o usuário ajuda a tomar boas decisões, uma planta ou cultura que o usuário ajuda a cultivar, ou um objeto natural ou de fantasia para o qual o usuário precisa criar as condições certas.
 
-**Agricultor de melancia**: [Ver interior](https://scratch.mit.edu/projects/1049463397/editor){:target="_blank"}
+**⭐ Dolly a boneca**: [Ver interior](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly a boneca**: [Ver interior](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+--- /task ---
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [See inside](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (featured community project)
+**Agricultor de melancia**: [Ver interior](https://scratch.mit.edu/projects/1049463397/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
