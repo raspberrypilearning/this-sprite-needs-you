@@ -4,12 +4,6 @@ Planifie ton animal de compagnie virtuel, ton personnage ou ta simulation de nat
 
 Tu peux planifier simplement en pensant, en bricolant, en dessinant ou en écrivant, ou comme bon te semble !
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Lorsque <span style="color: #0faeb0">les besoins de base</span> comme la nourriture et la sécurité sont satisfaits, nous créons les bonnes conditions pour que les créatures (y compris nous-mêmes) apprennent et grandissent. Donc la prochaine fois que tu te sens grincheux ou distrait, vérifie tes besoins de base.  
-</p>
-
 ### Pourquoi fais-tu ton projet ?
 
 --- task ---
@@ -44,7 +38,7 @@ Ouvre un [nouveau projet Scratch](http://rpf.io/scratch-new){:target="_blank"}. 
 title: Travailler hors ligne
 ---
 
-Pour configurer Scratch pour une utilisation hors ligne, consulte [notre guide Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Pour configurer Scratch pour une utilisation hors ligne, consulte [notre guide Scratch](https://learning-admin.raspberrypi.org/fr-FR/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
