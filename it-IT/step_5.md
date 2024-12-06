@@ -1,36 +1,70 @@
-## Upgrade your project
+## Challenge
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
-
-You could:
-- Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
-- Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false
-- Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
-- Add animations using `graphic effects`{:class="block3looks"} or costumes
-- Add more `sound effects`{:class="block3sound"}
-
-## Get inspiration
-
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
-
-Take a look at some **This sprite needs you** projects created by community members in the Raspberry Pi Foundation’s studio of **This sprite needs you - Community** projects [See inside](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
-
-## Small improvements
-
-When you make a Scratch project, there are lots of ways to make sure you've done a really good job.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Marginal gains</span> are small upgrades that don't make much difference on their own, but when added together, they make a big improvement to the quality of your work and speed you can make more changes. 
-</p>
+Se hai tempo, puoi migliorare il tuo progetto. Potresti già avere qualche idea da aggiungere, oppure tornare al primo passaggio e dare un’occhiata ad altri progetti per trovare nuova ispirazione.
 
 --- task ---
 
-Can you use marginal gains to change one thing now that will help you in future? Things to do:
+Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
 
-+ Name all sprites, costumes, sounds, variables, and messages sensibly. It's much easier to understand projects that use helpful names
-+ Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from
-+ Add short comments that explain what your code is doing
-+ Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
+--- /task ---
+
+--- task ---
+
+Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false.
+
+--- /task ---
+
+--- task ---
+
+Aggiungi altri sprite che possano interagire con lo sprite principale, come pulsanti o giocattoli.
+
+--- /task ---
+
+--- task ---
+
+Add animations using `graphic effects`{:class="block3looks"} or costumes.
+
+--- /task ---
+
+--- task ---
+
+Aggiungi altri `effetti sonori`{:class="block3sound"}
+
+--- /task ---
+
+## Lasciati ispirare
+
+Ogni progetto di esempio nell'[Introduzione](.) ha un collegamento "Vedi all'interno" che ti consente di aprire il progetto in Scratch e di guardare il codice per prendere spunto e vedere come funziona.
+
+Take a look at some projects created by community members in the Raspberry Pi Foundation’s **This sprite needs you - Community** [studio](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+
+## Piccoli miglioramenti
+
+Can you change a few things now that will help you in future?
+
+--- task ---
+
+Dai nomi chiari e significativi a tutti gli sprite, costumi, suoni, variabili e messaggi.
+
+It's much easier to understand projects that use helpful names.
+
+--- /task ---
+
+--- task ---
+
+Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from.
+
+--- /task ---
+
+--- task ---
+
+Add short comments that explain what your code is doing.
+
+--- /task ---
+
+--- task ---
+
+Assicurati che i tuoi script siano ordinati nella scheda **Codice**. Puoi fare clic con il tasto destro e scegliere **Pulisci blocchi** oppure disporre gli script nel modo che preferisci. Prova a mettere insieme script simili.
 
 --- /task ---
 
