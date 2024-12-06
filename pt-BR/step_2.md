@@ -4,12 +4,6 @@ Planeje seu animal de estimação virtual, personagem ou simulação da natureza
 
 Você pode planejar pensando, mexendo, desenhando, escrevendo ou como quiser!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Quando as <span style="color: #0faeb0">necessidades básicas</span> como alimentação e segurança são atendidas, estamos criando as condições certas para que as criaturas (incluindo nós mesmos) aprendam e cresçam. Portanto, da próxima vez que você se sentir irritado ou distraído, verifique suas necessidades básicas.  
-</p>
-
 ### Por que você está fazendo seu projeto?
 
 --- task ---
@@ -44,7 +38,7 @@ Abra um [novo projeto Scratch](http://rpf.io/scratch-new){:target="_blank"}. O S
 title: Trabalhando offline
 ---
 
-Para configurar o Scratch para uso offline, utilize [nosso guia do Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Para configurar o Scratch para uso offline, utilize [nosso guia do Scratch](https://learning-admin.raspberrypi.org/pt-BR/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
