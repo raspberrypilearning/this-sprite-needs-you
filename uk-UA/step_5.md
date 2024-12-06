@@ -1,70 +1,70 @@
-## Challenge
+## Додаткове завдання
 
-If you have time, you can upgrade your project. You might have ideas to add more already, or you might want to go back to the first step and look at other projects again for more inspiration.
+Якщо у тебе є час, ти можеш вдосконалити свій проєкт. Можливо, у тебе вже є ідеї, які ти можеш додати. Ти також можеш повернутися до першого етапу та переглянути інші проєкти, щоб отримати більше натхнення.
 
 --- task ---
 
-Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
+Додай більше `змінних`{:class="block3variables"}, що представлятимуть потреби твого спрайта.
 
 --- /task ---
 
 --- task ---
 
-Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false.
+Перевір більше **умов** з використанням виразів `якщо`{:class="block3control"}, і нехай твій спрайт робить різні речі залежно від того, чи виконується умова чи ні.
 
 --- /task ---
 
 --- task ---
 
-Add more sprites that can be used to interact with your main sprite, such as buttons or toys.
+Додай більше спрайтів, які можна використовувати для взаємодії з основним спрайтом, наприклад кнопки чи іграшки.
 
 --- /task ---
 
 --- task ---
 
-Add animations using `graphic effects`{:class="block3looks"} or costumes.
+Додай анімацію за допомогою `графічних ефектів`{:class="block3looks"} або образів.
 
 --- /task ---
 
 --- task ---
 
-Add more `sound effects`{:class="block3sound"}
+Додай більше `звукових ефектів`{:class="block3sound"}.
 
 --- /task ---
 
-## Get inspiration
+## Надихайся
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch, look at the code to get ideas, and see how they work.
+Кожен приклад проєкту у [вступі](.) має посилання «Переглянути код», за яким ти можеш відкрити проєкт у Скретчі й переглянути код, щоб отримати ідеї та побачити, як вони працюють.
 
-Take a look at some projects created by community members in the Raspberry Pi Foundation’s **This sprite needs you - Community** [studio](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+Переглянь проєкти, створені членами спільноти Raspberry Pi Foundation у Скретч-студії **[«Цей спрайт потребує тебе»</strong>](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.</p>
 
-## Small improvements
+## Невеликі покращення
 
-Can you change a few things now that will help you in future?
-
---- task ---
-
-Name all sprites, costumes, sounds, variables, and messages sensibly.
-
-It's much easier to understand projects that use helpful names.
-
---- /task ---
+Чи можеш ти зараз зробити невеликі зміни в проєкті, які допоможуть тобі в майбутньому?
 
 --- task ---
 
-Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from.
+Дай зрозумілі назви всім спрайтам, образам, звукам, змінним і повідомленням.
+
+Набагато легше зрозуміти проєкти, які використовують помічні назви.
 
 --- /task ---
 
 --- task ---
 
-Add short comments that explain what your code is doing.
+Заповни Сторінку проєкту гарним заголовком, інструкціями та примітками, щоб інші користувачі знали, як користуватися проєктом і звідки у тебе зʼявилася ця ідея.
 
 --- /task ---
 
 --- task ---
 
-Make sure your scripts are tidy in the **Code** tab. You can right-click and choose **Clean up Blocks** or arrange the scripts in a way that makes sense to you. Try and put similar scripts together.
+Додай короткі коментарі, які пояснюють, що робить твій код.
+
+--- /task ---
+
+--- task ---
+
+Переконайся, що твої скрипти охайно виглядають на вкладці **Код**. Ти можеш клацнути правою кнопкою миші та вибрати **Впорядкувати блоки** або розташувати скрипти так, як тобі зручно. Якщо виходить, розміщуй схожі скрипти поряд.
 
 --- /task ---
 
