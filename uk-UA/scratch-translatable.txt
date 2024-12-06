@@ -1,29 +1,29 @@
-Hello
+Привіт
+
+ім’я
+
+здоров'я
+
+сонце
+
+бджоли
+
+квіти
+
+мед
+
+фанати
 
 name
 
-health
+електроенергія
 
-sun
+гучність
 
-bees
+любов
 
-flowers
+обійми
 
-honey
+дати пʼять
 
-fans
-
-name
-
-electricity
-
-volume
-
-love
-
-hugs
-
-high five
-
-kisses
+поцілунок
