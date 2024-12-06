@@ -1,29 +1,29 @@
-Hello
+Ciao
+
+nome
+
+salute
+
+sole
+
+api
+
+fiori
+
+miele
+
+fan
 
 name
 
-health
-
-sun
-
-bees
-
-flowers
-
-honey
-
-fans
-
-name
-
-electricity
+elettricità
 
 volume
 
-love
+amore
 
-hugs
+abbracci
 
-high five
+batti il cinque
 
-kisses
+baci
