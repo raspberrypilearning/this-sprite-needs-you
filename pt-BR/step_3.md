@@ -48,7 +48,7 @@ if <(my variable) = (0)> then
 ### Transmitir e receber mensagens
 
 ```blocks3
-broadcast [message1 v]
+broadcast [mensagem1 v]
 ```
 
 [[[generic-scratch3-broadcast-message]]]
