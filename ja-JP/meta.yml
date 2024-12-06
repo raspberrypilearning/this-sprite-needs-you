@@ -26,6 +26,7 @@ steps:
       - external
   - 
     title: プロジェクトをアップグレードする
+    challenge: true
   - 
     title: 共有
   - 
