@@ -4,12 +4,6 @@
 
 يمكنك التخطيط بمجرد التفكير أو الإصلاح أو الرسم أو الكتابة ، أو كيفما تشاء!
 
-![](images/step2_image.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-عندما يتم تلبية <span style="color: #0faeb0">الاحتياجات الأساسية</span> مثل الغذاء والسلامة ، فإننا نخلق الظروف المناسبة للمخلوقات (بما في ذلك أنفسنا) للتعلم والنمو. لذلك في المرة القادمة التي تشعر فيها بالغرابة أو تشتت الانتباه ، تحقق من احتياجاتك الأساسية.  
-</p>
-
 ### لماذا تصنع مشروعك؟
 
 --- task ---
@@ -44,7 +38,7 @@
 title: العمل دون اتصال
 ---
 
-لإعداد Scratch للاستخدام دون اتصال ، تفضل بزيارة دليل Scratch [{](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1)target = "_ blank"}.
+[لإعداد Scratch للاستخدام دون اتصال ، تفضل بزيارة دليل Scratch](https://learning-admin.raspberrypi.org/ar-SA/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
