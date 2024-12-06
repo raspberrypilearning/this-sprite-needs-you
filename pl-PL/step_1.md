@@ -1,4 +1,4 @@
-## Co będziesz robić
+## What you will make
 
 Stwórz wirtualnego zwierzaka lub postać, którym użytkownik może pomóc. Twoja gra musi spełnić **wymagania projektu**.
 
@@ -11,13 +11,14 @@ Twoje zadanie:
 + Za pomocą dotychczas poznanych umiejętności użyj dowolnej kombinacji bloków `variables`{:class="block3variables"}, `broadcast`{:class="block3events"}, i `if`{:class="block3control"} aby pozwolić użytkownikowi na interakcję z postacią
 + Zrozumienie jak postacie w grach i aplikacjach są kontrolowane przez algorytmy
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Odtwórz▶️ 
-Wejdź w interakcję z nietoperzem. Co się dzieje, kiedy klikniesz na jedzenie lub wodę? Skąd wiesz czy nietoperz jest głodny lub spragniony?
+### Play
+
+Interact with Cricket the bat. Co się dzieje, kiedy klikniesz na jedzenie lub wodę? Skąd wiesz czy nietoperz jest głodny lub spragniony?
 
 </div>
 <div>
@@ -29,8 +30,6 @@ Wejdź w interakcję z nietoperzem. Co się dzieje, kiedy klikniesz na jedzenie 
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -57,8 +56,6 @@ Twoja symulacja może:
 
 ### Znajdź pomysł
 
---- task ---
-
 ⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 Pomyśl, jaka będzie Twoja główna postać. Może to być zwierzak, którym trzeba się zaopiekować, osoba, której trzeba pomóc podjąć dobrą decyzję, lub roślina, której trzeba pomóc rosnąć.
@@ -77,8 +74,6 @@ Pomyśl, jaka będzie Twoja główna postać. Może to być zwierzak, którym tr
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
