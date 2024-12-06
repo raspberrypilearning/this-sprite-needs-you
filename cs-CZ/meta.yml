@@ -12,7 +12,7 @@ copyedit: false
 last_tested: "2021-03-26"
 steps:
   - 
-    title: Co budeš dělat
+    title: What you will make
   - 
     title: Tvůj nápad
   - 
@@ -25,7 +25,8 @@ steps:
     completion:
       - external
   - 
-    title: Vylepši si projekt
+    title: Challenge
+    challenge: true
   - 
     title: Sdílej
   - 
