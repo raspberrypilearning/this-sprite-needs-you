@@ -11,7 +11,7 @@ Je gaat:
 + Elke combinatie van `variabelen`{:class="block3variables"}, `berichten`{:class="block3events"} en `als`{:class="block3control"} blokken gebruiken, met de vaardigheden die je al hebt geleerd, om een gebruiker in staat te stellen aan de behoeften van een personage te voldoen
 + Begrijpen hoe personages in games en apps worden bestuurd door algoritmen
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
@@ -30,8 +30,6 @@ Communiceren met Cricket de vleermuis. Wat gebeurt er als je op de voedsel- of w
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -58,13 +56,11 @@ Je simulatie zou:
 
 ### Ideeën opdoen 💭
 
---- task ---
-
 ⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat de gebruiker verzorgt, een persoon die de gebruiker helpt goede beslissingen te nemen, een plant of gewas dat de gebruiker helpt te groeien, of een natuur- of fantasieobject waarvoor de gebruiker de juiste omstandigheden moet maken.
 
-**Maak een regenboog**: [See Inside](https://scratch.mit.edu/projects/723159864/editor){:target="_blank"}
+**⭐ Dolly the doll**: [Bekijk van binnen](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (uitgelicht gemeenschapsproject)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -74,12 +70,10 @@ Denk na over wat je als hoofdsprite gaat kiezen. Het kan een huisdier zijn dat d
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Dolly the doll**: [Bekijk van binnen](https://scratch.mit.edu/projects/799871118/editor){:target="_blank"} (uitgelicht gemeenschapsproject)
+**Maak een regenboog**: [See Inside](https://scratch.mit.edu/projects/723159864/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
