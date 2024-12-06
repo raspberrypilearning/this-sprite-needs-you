@@ -1,12 +1,12 @@
-## What next?
+## E adesso?
 
-You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! Try using Scratch to make more cool stuff.
+Hai raggiunto la fine del percorso [Più Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch). Prova a utilizzare Scratch per creare cose ancora più interessanti.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) path!
+Per imparare ancora cose nuove, e poter dare vita a tutte le tue idee in Scratch, passa al nostro percorso [Più Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch)!
 
-If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+Se hai bisogno di un promemoria di ciò che hai imparato, puoi consultare la nostra guida ['Come iniziare con Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+Puoi anche esplorare [altri progetti Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) e provarli.
 
