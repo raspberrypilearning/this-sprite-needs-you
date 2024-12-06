@@ -1,4 +1,4 @@
-## Ce que tu vas faire
+## What you will make
 
 Crée une simulation virtuelle d'animal de compagnie, de personnage ou de nature avec laquelle l'utilisateur peut interagir pour l'aider. Ton jeu devra respecter la **fiche de projet**.
 
@@ -11,14 +11,14 @@ Tu vas devoir :
 + Utiliser n'importe quelle combinaison de blocs `variables`{:code="bloc::variables"},`envoyer à tous`{: code ="bloc::events"}, et `si`{: code ="bloc::control"}, avec les compétences que tu as déjà acquises, pour permettre à un utilisateur de répondre aux besoins d'un personnage
 + Comprendre comment les personnages des jeux et des applications sont contrôlés par des algorithmes
 
---- no-print --- --- task ---
+--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Joue ▶️ 
+### Play
 
-Interagis avec Cricket la chauve-souris. Que se passe-t-il si tu cliques sur les sprites de nourriture ou d'eau ? Comment peux-tu savoir si la chauve-souris a faim ou soif ?
+Interact with Cricket the bat. Que se passe-t-il si tu cliques sur les sprites de nourriture ou d'eau ? Comment peux-tu savoir si la chauve-souris a faim ou soif ?
 
 </div>
 <div>
@@ -30,8 +30,6 @@ Interagis avec Cricket la chauve-souris. Que se passe-t-il si tu cliques sur les
 
 </div>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
@@ -58,28 +56,24 @@ Ta simulation pourrait :
 
 ### Trouve l'inspiration 💭
 
---- task ---
-
 ⭐ Share your finished This sprite needs you project for a chance of it being featured here.
 
 Pense à ce que tu vas choisir comme sprite principal. Il peut s'agir d'un animal de compagnie dont l'utilisateur s'occupe, d'une personne que l'utilisateur aide à prendre de bonnes décisions, d'une plante ou d'une culture que l'utilisateur aide à faire pousser, ou d'un objet naturel ou imaginaire pour lequel l'utilisateur doit créer de bonnes conditions.
 
-**Cultivateur de pastèques** : [Voir à l'intérieur](https://scratch.mit.edu/projects/723218685/editor){:target="_blank"}
+**La machine à musique**: [Voir à l'intérieur](https://scratch.mit.edu/projects/723218846/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/530034441/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**La machine à musique**: [Voir à l'intérieur](https://scratch.mit.edu/projects/723218846/editor){:target="_blank"}
+**Créer un arc-en-ciel** : [Voir à l'intérieur](https://scratch.mit.edu/projects/723218543/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/531858794/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Créer un arc-en-ciel** : [Voir à l'intérieur](https://scratch.mit.edu/projects/723218543/editor){:target="_blank"}
+**Cultivateur de pastèques** : [Voir à l'intérieur](https://scratch.mit.edu/projects/723218685/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799871118/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
 
 --- /no-print ---
 
