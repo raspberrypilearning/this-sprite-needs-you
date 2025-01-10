@@ -1,4 +1,4 @@
-## What next?
+## What can you do now?
 
 You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! Try using Scratch to make more cool stuff. 
 
