@@ -38,7 +38,7 @@ Apri un [nuovo progetto Scratch](http://rpf.io/scratch-new){:target="_blank"}. S
 title: Lavorare offline
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Per configurare Scratch per l'utilizzo offline, visita [la nostra guida a Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
