@@ -1,4 +1,4 @@
-## सहायता कहाँ प्राप्त करें
+## What can you do now?
 
 आप [More scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) पथ के अंत तक पहुँच गए हैं! अधिक अच्छी सामग्री बनाने के लिए Scratch का उपयोग करने का प्रयास करें।
 
