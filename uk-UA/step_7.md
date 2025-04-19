@@ -1,4 +1,4 @@
-## What can you do now?
+## Що робити далі?
 
 Напрям [Більше Скретчу](https://projects.raspberrypi.org/en/pathways/more-scratch) завершено! Тепер ти можеш використовувати Скретч для інших крутих проєктів.
 
