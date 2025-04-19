@@ -1,8 +1,8 @@
-## Що далі?
+## What can you do now?
 
 Напрям [Більше Скретчу](https://projects.raspberrypi.org/en/pathways/more-scratch) завершено! Тепер ти можеш використовувати Скретч для інших крутих проєктів.
 
-Щоб отримати більше навичок, які допоможуть тобі втілити свої ідеї у життя у Скретчі, спробуй напрям [Ще більше Скретчу](https://projects.raspberrypi.org/en/pathways/more-scratch)!
+Щоб отримати більше навичок, які допоможуть тобі втілити свої ідеї у життя у Скретчі, спробуй напрям [Ще більше Скретчу](https://projects.raspberrypi.org/en/pathways/further-scratch)!
 
 Якщо хочеш пригадати вивчене, переглянь наш матеріал [«Початок роботи в Скретчі»](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
