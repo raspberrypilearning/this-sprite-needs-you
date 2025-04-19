@@ -1,16 +1,16 @@
-## Challenge
+## Sfida
 
 Se hai tempo, puoi migliorare il tuo progetto. Potresti già avere qualche idea da aggiungere, oppure tornare al primo passaggio e dare un’occhiata ad altri progetti per trovare nuova ispirazione.
 
 --- task ---
 
-Add more `variables`{:class="block3variables"} that represent things your main sprite wants or needs.
+Aggiungi più `variabili`{:class="block3variables"} per rappresentare ciò che il tuo sprite principale desidera o di cui ha bisogno.
 
 --- /task ---
 
 --- task ---
 
-Check more **conditions** using `if`{:class="block3control"} statements, and make your sprite do different things depending on whether the condition is true or false.
+Verifica più **condizioni** utilizzando le istruzioni `se`{:class="block3control"} per fare in modo che lo sprite esegua azioni diverse a seconda che la condizione sia vera o falsa.
 
 --- /task ---
 
@@ -22,7 +22,7 @@ Aggiungi altri sprite che possano interagire con lo sprite principale, come puls
 
 --- task ---
 
-Add animations using `graphic effects`{:class="block3looks"} or costumes.
+Aggiungi animazioni usando `effetti grafici`{:class="block3looks"} o costumi.
 
 --- /task ---
 
@@ -36,29 +36,29 @@ Aggiungi altri `effetti sonori`{:class="block3sound"}
 
 Ogni progetto di esempio nell'[Introduzione](.) ha un collegamento "Vedi all'interno" che ti consente di aprire il progetto in Scratch e di guardare il codice per prendere spunto e vedere come funziona.
 
-Take a look at some projects created by community members in the Raspberry Pi Foundation’s **This sprite needs you - Community** [studio](https://scratch.mit.edu/studios/29722869/){:target="_blank"}.
+Dai un'occhiata ad alcuni progetti creati dai membri della community nello [studio](https://scratch.mit.edu/studios/29722869/){:target="_blank"} della **Raspberry Pi Foundation. Questo sprite ha bisogno di te - Community**.
 
 ## Piccoli miglioramenti
 
-Can you change a few things now that will help you in future?
+Puoi cambiare alcune cose ora che ti saranno utili in futuro?
 
 --- task ---
 
 Dai nomi chiari e significativi a tutti gli sprite, costumi, suoni, variabili e messaggi.
 
-It's much easier to understand projects that use helpful names.
+I progetti con nomi descrittivi sono molto più facili da comprendere.
 
 --- /task ---
 
 --- task ---
 
-Fill in the Project Page with a good title, instructions, and notes, so that users know how to use your project, and where you got ideas from.
+Compila la pagina del progetto con un titolo accattivante, istruzioni precise e note dettagliate, in modo che gli utenti sappiano come usare il tuo progetto e da dove hai tratto ispirazione.
 
 --- /task ---
 
 --- task ---
 
-Add short comments that explain what your code is doing.
+Aggiungi brevi commenti al codice per spiegare in modo semplice cosa fa ogni parte.
 
 --- /task ---
 
