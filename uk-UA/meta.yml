@@ -1,0 +1,26 @@
+---
+title: Цей спрайт потребує тебе
+hero_image: images/banner.png
+description:
+  - Створи віртуального улюбленця, персонажа або природне явище,
+  - з яким користувач може взаємодіяти й допомагати.
+meta_title: Проєкти з кодування у Скретчі для дітей і підлітків | Цей спрайт потребує тебе
+meta_description: Навчися кодувати у Скретчі за допомогою проєктів Raspberry Pi Foundation для дітей та підлітків. Створи віртуального улюбленця, з яким можна взаємодіяти у Скретчі.
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - title: Що ти зробиш
+  - title: Твоя ідея
+  - title: Створи і протестуй
+    completion:
+      - engaged
+      - internal
+  - title: Контрольний список
+    completion:
+      - external
+  - title: Додаткове завдання
+    challenge: true
+  - title: Пошир свій проєкт
+  - title: Що робити далі?
