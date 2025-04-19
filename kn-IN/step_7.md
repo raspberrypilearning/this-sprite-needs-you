@@ -1,4 +1,4 @@
-## ಮುಂದೆ ಏನು?
+## What can you do now?
 
 You have reached the end of the [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path! ಹೆಚ್ಚು ಯೋಜನೆಗಳನ್ನು ಮಾಡಲು ಸ್ಕ್ರಾಚ್ ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ.
 
