@@ -1,4 +1,4 @@
-## Co dalej?
+## What can you do now?
 
 Dotarłeś do końca ścieżki [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch)! Spróbuj użyć Scratcha, aby zrobić więcej fajnych rzeczy.
 
