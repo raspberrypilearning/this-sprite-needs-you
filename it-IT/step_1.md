@@ -1,4 +1,4 @@
-## What you will make
+## Quello che farai
 
 Crea un animale domestico virtuale, un personaggio o una simulazione della natura con cui l’utente possa interagire per prendersene cura. Il tuo gioco dovrà soddisfare i **requisiti del progetto**.
 
@@ -16,9 +16,9 @@ Cosa farai:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play
+### Gioca
 
-Interact with Cricket the bat. Cosa succede se clicchi sugli sprite del cibo o dell'acqua? Come fai a sapere se il pipistrello ha fame o sete?
+Interagisci con Cricket il pipistrello. Cosa succede se clicchi sugli sprite del cibo o dell'acqua? Come fai a sapere se il pipistrello ha fame o sete?
 
 </div>
 <div>
