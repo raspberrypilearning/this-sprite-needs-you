@@ -1,0 +1,26 @@
+---
+title: Questo sprite ha bisogno di te
+hero_image: images/banner.png
+description:
+  - Crea un animale domestico virtuale, un personaggio o una simulazione della natura con cui l’utente possa
+  - interagire per prendersene cura.
+meta_title: Progetti di programmazione in Scratch per bambini e adolescenti | Questo sprite ha bisogno di te
+meta_description: Impara a programmare con Scratch con i progetti di programmazione per bambini e adolescenti offerti dalla Raspberry Pi Foundation. Crea un animale domestico virtuale con cui puoi interagire in Scratch.
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - title: Cosa creerai
+  - title: La tua idea
+  - title: Costruisci e prova
+    completion:
+      - engaged
+      - internal
+  - title: Checklist
+    completion:
+      - external
+  - title: Sfida
+    challenge: true
+  - title: Condividi
+  - title: Cosa puoi fare adesso?
